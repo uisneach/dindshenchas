@@ -1,0 +1,412 @@
+{
+    "id": "ath-luain",
+    "name_mir": "Áth Lúain",
+    "name_ga": "Baile Átha Luain",
+    "name_en": "Athlone",
+    "county": "Westmeath",
+    "county_ga": "Contae na hIarmhí",
+    "kind": "ford",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Athlone",
+    "wikipedia_ga": "Baile Átha Luain",
+    "logainm": "50734",
+    "images": [
+        {
+            "file": "img/ath-luain-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Athlone_Ireland_and_river_Shannon.jpg",
+            "author": "User:Deadstar",
+            "licence": "CC BY-SA 3.0",
+            "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "caption": "View over the river Shannon in Athlone, Ireland. On the far shore Adamson castle and St Peter and Paul's Church.",
+            "date": "Taken on 22 February 2007"
+        },
+        {
+            "file": "img/ath-luain-2.jpg",
+            "era": "historical",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Unidentified_%3D_Eel_Weir_taken_from_Town_Bridge_in_Athlone,_Co._Westmeath_(7608330670).jpg",
+            "author": "National Library of Ireland on The Commons",
+            "licence": "No restrictions",
+            "licence_url": "https://www.flickr.com/commons/usage/",
+            "caption": "Thought this was probably on the River Shannon somewhere, but excellent that we now have a proper location for this Lawrence Collection photo that previously had only the rather sad title of Unidentif",
+            "date": "1900"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 66,
+            "title": "Ath Lùain",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                465
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/465/mode/1up",
+            "ga": [
+                "Ath Luain canas roainmniged?",
+                "Ni ansa. Ath Mor a ainm ar tus co gleicc in Duind Cuailg[n]e 7 ind Findbennaigh, is atfet in - Echtra Nera imthus nada muccaid 5 hadar i secht rec[!i]taib.i. hYmdai)i 1mi car/; hx-, 7 batar hé sin da mac Chruind mac Aghnoma;? llucht 7 Ruicne a n-aninand. Eitte5 is Engan a Ja n-ainm ina n-énaib. Cú 7 Cethen iad ina conaib. Bledh iat 7 Blodh ina mbreacoib Boinne. Gruinniuc 7 Dubmuc iad diamdar duirb,",
+                "Doiuid hruni in Cruindiucc co Glais Cruinn i Cuailg[n]e. Luid dano Dubmucc co ndelhc[:i] i n-Ùardn Garaid/. Luid dano bó do Daire mac Fiach/ia conos-ib digh a Glais Cruind 7 co tarrla in duirb ina broinn co mbo laogh iardain. Luid d-Mio hó do Meidb, fo;/oss-ib dig a tiprait Gáraidh, co tarrla di in duirb eilc 7 ba láog hé ina broind iamiin",
+                "Marba da//o na di bao dia mbrc ///;_, in tarb tair donn, in tarb tiar hnmorro tarb drg, findbendach. larww doriacht bo Nero cona tarb ina diaidh -, co ro gcis oc Ráith Cruachan coro mothúig'm Findbennach, roro glcac doib, 7 ba fortail in danaid, co n-crvacbt Medb do gresacht a tairb, co torcair in tarb tue bcn Aignin, coiiïd and asb't bcn Agnin: ‘Faichlc Lit a ath//V mo tairbse.i. Dond Cuailnge’.",
+                "IS lanim doluid [Medb] co ceithr'ih coicedhaib Erenn hi crich n-]ad, 7 FergM5 d'eolus rempii, co riacht Magh Goba, conid and sin hátar Ulaid 'na ceis [.i.] caic[thig]is lán ina longpo/t. Medb dano ria trian ele dona sluagaVoco viacbl Dún Soboirce, co tue mnai ConaiW Cernaig [as.]",
+                "Cechaing Búide mac Bain Blaith co Glenn na Samaiscc, conid ann fuaratflT in Dond Cuailnge, co tue leis coa longphort. Is ann bae 3 Concohur hi Cind tire intansin. Robatrt/' dano tri meic Fiachmr/?.i. Ros 7 Daire 7 Imehad, tri [meic] rig Gu[a]Igui [7] Findtan mac Neill 7 Gether;z mac Findtain 7 Ihach 7 Rochaid inac Faithcmoin 7 Sualatar/; mac Becaltaig, athair Conculainn, inandiaidh 4, conid hruin doriacht Cuculainn, co ro marb ilmilc dib o Gdirig co hllgairigh 7 o samoin co[sin] cetain iar n-imbulg foroib, co toracht Concohar anoir, 7 cia romoid siar iartain 5 is siar riicad tain bó Ciialngi, 7 rosiuht [fo. 112-2] in Dond Cualngi co Tarbga*, coro glcacsat hi scchtmad là erraig, conid de isbcrar Tarbga, 7 dorochair in Findbennach la Dond Cualngi, 7 rofodhail? iar suidhiu ic Loch Dirige, 7 tue a Ion co hAth lúain, 7 a da airrbe co Muefhind, 7 a cride co Dun Groin, 7 a drond co Droingn-Asoil, 7 a leas co hinis Glais, 7 a Iccna; co Lecoin Moir Midhc; 7 car/; airm hi rue ni de maraid fair a ainm in baill sin. Unde Ath Luain nowinatwr."
+            ],
+            "en": [
+                "Ath Mór (‘grcat ford’) was its name at first till tlic con- test ofthe Dun (Bull) of Cualnge with the Whitehorned. 'Tis this that Echtra Nera narrátes, the story of the two swineherds, who were (incarnate) in seven shapes, a full year in each of them. And those were Cronn son of Agnoman's two sons, nanied Rucht and Rucne (when they were swineherds), Eíte 7 Engan (‘Wing and Talon’) were their two names when birds. Cú and Cethen were they when wolves. Bled and Blod were they when trout of the Boyne. Crunniuc and Dubmuc (leg. Duinniuc, Tuinniuc?) w^ien they were worms.",
+                "Then Crunniuc went to Glas Cruinn (‘Cronn's Stream’) in Cualnge, and Dubmuc went and lay down in (the well called) Uardn Garaid. A cow belonging to Dáire mac Fiachna drank a drink out of Glas Cruinn, and the worm therein entered her womb and afterwards became a calf. A cow of (Queen) Medb's went and drank a drink out of Garad's Well, and the other worm entered her, and afterwards became a calf in her womb.",
+                "Now the two cows died in calving (two buU-calves); the buU in the east was dun, the^ buU in the west w^as red, whitehorned. Afterw^irds Nera's cow came with her bullcalf behind her, who bellowed at Raith Cruachan so that the Whitehorned perceivedhim. They fought and the yearling prevailed. Whereupon Medb arose to encourage her bull, and the buU which Aingen's wife had brought fell, so then Aingen's wife said ‘Beware of the sire of my bull!’ that is, the Donn of Cualnge.",
+                "So then Medb with four ofthe provinces of Erin marched into Ulster (to carry oiï\" the Donn), with Fergus for their guide, till she reached Mag Coba, and there were the Ulaid in their debility- a full fortnight in their camp. Medb then, leading the second third of the armies, marched to Dunseverick, and thence took Conall Cernach's wife.",
+                "1. Hère the taie should tell how the calvcs grew up. the former becoming known as the Donn of Cualnge, the latter as the Whitehorned of Ai. By the Morrigan's contrivance (Rev. Celt., XII. 12S) the Donn buUed a cow belonging to Nera (one of King Ailill's warriors) or rather to his son Aingen. This cow produced a bullcalf, which, as we shall see, fought and was defeated by the Whitehorned.",
+                "Buide son of Ban Blath went to the Glen of the Hcifcr, and there they found the Donn of Cualnge, so he brought himto his camp. At that time Conor was in Cantire. Now there were Fiachra's three sons, Ross and Ddire and Imchad, three sons of the king of Cualnge, and Finntan son of Niall, and Cethern son of Finntan, and IHach and Rochaid son of Faitheman, and Ciichulainn's flither Sualtach son of Becaltach behind thcm; and then came Cúchulainn, and killed many thousands of them from Gàirech to Ilgdirech, and frojn Hallontide to the Wednesday after Candlemas, till Conor arrived from the east. And though he afterwards routed them in the west, westward the drove of the kine of Cualnge was taken. And the Donn of Cualnge came to Tarbga, and there he and the Whitehorned fought on the seventh day of spring — whence the name Tarbga — and the Whitehorned fell by the Donn, who after this rent^him to pièces at Loch Digi, and brought his lón ‘hip’ to Aíh Lúain, and his two foreribs.to Muc-find, and his heart to Dún Croin, and his chine to Dronn Asail, and his thigh to Inis Glas, and his cheek to Leca Mor Midi; and on evers^ place to which he took aught of him the name of that member abides. Whence Aíh Liiain is named."
+            ],
+            "notes": [
+                "Also in BB. 584b 14: H. 45’: Lee. 4861’. Versified in LL. 158’.",
+                "Atb Liiain ‘Luan's Ford’, now A tblone, a town on the Shannon, on the borders of Westmeath and Roscommon.",
+                "Echtra Nera has been edited by K. Meyer, Revue Cehique, X, 212-228.",
+                "As to the seven avatars of the two swineherds see LL. 247^ and Irische Texte,' 3’^ série, i. Heft, p. 245. As to pregnancy from drinking, see Hartland, The Legend of Perseus, I, 113, 116, and Revue Celtique, IX, 12.",
+                "UardnGaraid, see the Rolls Tripartitc Life, p. 106. Cualnge now Cooley in the co. Louth. Glenn na Samaisce a valley in Cualnge. Tarbga: see the dindsenchas of Mag Tarbgai, LL. i66''47: Bodl. no. 28, edited in Folklore, III, 493. Loch Digi, also in LL. is8^, not identified. Leaca Mor Midi now Lackin, formerly an abbey near Bunbrusna, in the barony of Corkarce and co. of Westmeath."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Ath Luain",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                366,
+                375
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/366/mode/2up",
+            "ga": [
+                [
+                    "A fir th&t im-mag Medba",
+                    "do laide bid lan-mebra:",
+                    "sluind do rig ratha im thiiaim taiss",
+                    "senchas 'Atha Luain Isech-maiss."
+                ],
+                [
+                    "Ath Luain, cia Ion asa lecht?",
+                    "cid dia fail in glor gluair-chert?",
+                    "Ath Mór, cen maetniid mad ma,",
+                    "eo fuair caemchhid comanma."
+                ],
+                [
+                    "Eogab rigi Connacht cruaid",
+                    "rigan, co nglonnacht gorm-sluaig,",
+                    "diarb ainm serb, rosrethad sir.b,",
+                    "Medb ingen Ecliach Fedlich."
+                ],
+                [
+                    "Cele don don-uaig, dar lemm,",
+                    "mac Rossa roruaid Rairenn:",
+                    "ba gairm grata ós Bairind brisc",
+                    "Ailill mac Mata Murisc."
+                ],
+                [
+                    "Tri n'gna co mbrig broth a",
+                    "'ca mbitis rig rochrotha,",
+                    "for triun tellaig is techta;",
+                    "nirbtar ellaig oen-Fechta."
+                ],
+                [
+                    "Ailill nirb ingaeth ic Meidb:",
+                    "Macha ós Chimbacth fo chomdeilb;",
+                    "Art cen chleth-cheird fo chaire",
+                    "ic Meidb leth-deirg Liamaine."
+                ],
+                [
+                    "Fognitis gnimu garga",
+                    "ós na rigu roarda,",
+                    "feib roclass, iar selaib sluaig,",
+                    "Emain la Macha mong-ruaid."
+                ],
+                [
+                    "Feis Temracb, ba tromm a tress,",
+                    "co n-iramud glond is gmith-bress:",
+                    "dosfuc fo thairniam thaisse",
+                    "Medb Gaih'an co ng!ór-maisse."
+                ],
+                [
+                    "Ingen Echacb Fedlig Fail",
+                    "Medb a h-Ednig viair imsJain:",
+                    "cen gai nir iad ec airbe",
+                    "mnai bad lia set soer-seilbe."
+                ],
+                [
+                    "Acht a bith i tacha in tairb.",
+                    "roboi ic rig Macha mid-gairb,",
+                    "feib rostub a dag-Fer daith,",
+                    "mac rig Lagen in laech-Flaith."
+                ],
+                [
+                    "Medb, ropo thualnge ó thaig,",
+                    "for argain Chiialnge chetaig,",
+                    "dia rue reim ndodaing ar daig,",
+                    "co tuc mnai Conaill Chernaig."
+                ],
+                [
+                    "Mar roairgset Ciialnge cain",
+                    "tre gnim n-uabre n-etrocair,",
+                    "sóiset a mbaire dia brath",
+                    "co tarb nDaire maic Fiachracb."
+                ],
+                [
+                    "Dond Ciialnge, ba grinn in gle,",
+                    "robói i nGlinn na Samaisce:",
+                    "imme rosernsat sreith slait,",
+                    "co ndernsat imme in mbo-braifc."
+                ],
+                [
+                    "Sliiag Banba fo bet 'mon mbress",
+                    "diarb adba óc is liar-chess;",
+                    "roscacht i ngrisaib gemlig",
+                    "fri tri mi'saib mór-gemrid."
+                ],
+                [
+                    "Mór cure, mór cet cen chol",
+                    "dia tucsat £c is uamon,",
+                    "do bron bruachda cech buille,",
+                    "s!óg na Cruachna cloth-chuirre."
+                ],
+                [
+                    "lar n-imbulg, ba garb a ngeilt,",
+                    "rosiacht in tarb cen tairbeirt",
+                    "Cnoc Tarbga co tuath-gnais tig:",
+                    "nirb adba uatbbais óen-Fir."
+                ],
+                [
+                    "Rogniset uaibre ellach,",
+                    "Dond Ciiailnge is ind Findbennach",
+                    "fiad shiag, sadba co saidbre,",
+                    "im thual Tarbga tóeb-gairbe."
+                ],
+                [
+                    "Gniset gleic gairb ós grellaig",
+                    "i sechtmad 16 lan-erraig:",
+                    "co torchair Findbennach de",
+                    "la fid-glennach Fiiat-slebe."
+                ],
+                [
+                    "Desin ata Tarbga thiiaid",
+                    "'sin chrich badba co mbeo-biiaid,",
+                    "do chath na cetlira, cóim ndil,",
+                    "'ma nibatar debtha, a deg-fir. A."
+                ],
+                [
+                    "Koscail a clmama 's a chorp,",
+                    "rue each n-aga co hard-phort:",
+                    "tuc leis co Ath Mor 'mo anait",
+                    "a 1ón ocus a laraic."
+                ],
+                [
+                    "Kolen co hiiain in gairm glan",
+                    "desin Ath Liiairi na lestar:",
+                    "ciarb Ath Mór cen baeth-gno mbil,",
+                    "rochaemch!ó in 1ón, a laech-Fir. A."
+                ],
+                [
+                    "Bas ind Find, fo bini braith,",
+                    "i Loch Digi, ba deg-maith:",
+                    "a da airbe fri glond ngrind",
+                    "rue Dond maigne co MucFind."
+                ],
+                [
+                    "Euc a chride co Dun Cromm:",
+                    "ba miir each mire in mór-Dond:",
+                    "rue ceim ria chóel-druimm i fat",
+                    "co sóer-druing Assail abrat."
+                ],
+                [
+                    "Tuc a less ria ais ria or",
+                    "co h-Inis nGlais na nglomor:",
+                    "is suail naptar decra daill:",
+                    "rue a lecna co Leccainn."
+                ],
+                [
+                    "lat sin na fodla ergna",
+                    "la Bond mbrogda mborb-emna",
+                    "ind Fhind co mbennaib bruachda",
+                    "robói i rengaib ro-Chruachna."
+                ],
+                [
+                    "For each airm ir-ruc ni de",
+                    "maraid a ainm dia eise:",
+                    "co liian mbratha fo blaid bil",
+                    "ós chiian each atha, a óen-fir. A."
+                ],
+                [
+                    "A Christ cen chaire nomchar",
+                    "ar grad Maire do mathar:",
+                    "a Ei in tsluaig-siu teit for eel",
+                    "at liaisliu 'na cech óen-fer. A."
+                ]
+            ],
+            "en": [
+                [
+                    "O thou that enterest the plain of Medb,",
+                    "thy lays shall be fully remembered;",
+                    "declare to the king of the rath, in my poor dwelling,",
+                    "the story of Ath Luain of the goodly champions!"
+                ],
+                [
+                    "Ath Luain, what is the haunch that lies buried there?",
+                    "whence comes the sure-clear name?",
+                    "it was called Ath Mor, free from the craven spirit of defeat,",
+                    "till it came by a change of appellation."
+                ],
+                [
+                    "A queen, strong in the prowess of a famous host,",
+                    "gained the sovereignty of strong Connaught,",
+                    "whose bitter name, spread far arid wide,",
+                    "was Medb daughter of Eochu Fedlech."
+                ],
+                [
+                    "Mate to the noble maiden, I ween,",
+                    "was the son of Boss Buad of Rairiu",
+                    "(it was an honoured name over crumbling Bairenn),",
+                    "Ailell son of Mata of Muresc."
+                ],
+                [
+                    "Three queens there were of fiery force",
+                    "who had right comely consorts;",
+                    "they had rights over a third of hearth and having:",
+                    "theirs were not unions of a moment."
+                ],
+                [
+                    "Ailell, who was not unwise, was husband to Medb:",
+                    "Macha lorded over Cimbeeth in like fashion:",
+                    "Art, whose skill of spear was faultless,",
+                    "was husband to Medb Lethderg of Liamain."
+                ],
+                [
+                    "They performed deeds of daring",
+                    "more than all the exalted kings:",
+                    "thus, by labours of a host, was built",
+                    "Emain, by Macha Mongruad."
+                ],
+                [
+                    "The feast of Tara, — sore was the strife,",
+                    "with plenty of feats and wonted riot, —",
+                    "was brought to impotent abasement",
+                    "by Medb of the Gaileoin, with her pure beauty."
+                ],
+                [
+                    "The noble daughter of Eochu Fedlech, ruler of Fal,",
+                    "Medb from cold inviolate Ednech,",
+                    "in truth the fence of death never closed upon",
+                    "a woman that was richer in store of lordly substance:"
+                ],
+                [
+                    "Except for her being in want of the bull",
+                    "that belonged to the king of Macha wild with mead:",
+                    "even as her noble husband reproached her,",
+                    "the son of the king of Leinster, the warrior-prince."
+                ],
+                [
+                    "Medb (out of her own household she was fit for war)",
+                    "went raiding Cualnge of the hundreds,",
+                    "when she fared on a path of peril against a warrior,",
+                    "and bore off the wife of Conall Cernach."
+                ],
+                [
+                    "When they had plundered pleasant Cualnge",
+                    "by proud and pitiless doings",
+                    "they changed their goal, to entrap",
+                    "the bull of Daire son of Fiachru."
+                ],
+                [
+                    "The Dun Bull of Cualnge, — comely was the splendid brute —",
+                    "was in the Heifer's Glen:",
+                    "round him they drew a ring of reavers,",
+                    "and made the Cattle-Eaid to catch him."
+                ],
+                [
+                    "The people of Banba suffered hurt through the comely hero,",
+                    "whose home was death and chilling gloom:",
+                    "he bound them in galling chains",
+                    "for the space of three winter months."
+                ],
+                [
+                    "To many a band, to many a hundred of harmless people,",
+                    "the host of Cruachan, eminent in fame,",
+                    "brought death and dismay",
+                    "by sorrow more piercing than any wound."
+                ],
+                [
+                    "After Candlemas (rough was their herding)",
+                    "came the unvanquished bull",
+                    "to Cnoc Tarbga, fair resort of the people:",
+                    "it was a dwelling of dread for many a man."
+                ],
+                [
+                    "They made a proudly-matched pair,",
+                    "the Dun Bull of Cualnge and the White-Horn,",
+                    "before the eyes of a host (a wealthy dwelling)",
+                    "about the rough-flanked hill of Tarbga."
+                ],
+                [
+                    "They fought a fierce combat on miry ground",
+                    "on the seventh day of spring:",
+                    "and the White-Horn fell therein",
+                    "by the wild- wood bull of Sliab Fuait."
+                ],
+                [
+                    "Hence is named Tarbga in the north,",
+                    "in a martial land excelling in kine,",
+                    "from the battle of the beasts (pleasant path),",
+                    "about which there were conflicts, noble sir!"
+                ],
+                [
+                    "The Dun Bull scattered his bones and his body;",
+                    "he bore each limb to a famous spot;",
+                    "he carried with him to Ath Mor, where they abide,",
+                    "his chine and his thigh."
+                ],
+                [
+                    "The noble name clung to it perpetually",
+                    "thenceforth, — Ath Luain of the vessels:",
+                    "though it was once Ath Mor, with no soft and kindly beauty,",
+                    "the chine gave it a new name, valiant sir!"
+                ],
+                [
+                    "The White Bull's hoof through treacherous crime",
+                    "is at Lough Dige (Dige was a noble chief):",
+                    "his two ribs — a brilliant exploit,",
+                    "the mighty Dun Bull bore to Mucfind."
+                ],
+                [
+                    "He bore his heart to Dun Cromm:",
+                    "a fortress against frenzy was the great Dun Bull:",
+                    "he strode with his haunch afar",
+                    "to the noble tribe of Asal Abrat."
+                ],
+                [
+                    "He carried his buttock across his back, across his mane,",
+                    "to Inis Glas of the bridles: —",
+                    "(they were wonders for a blind man almost to see) —",
+                    "he carried his cheek to Lecan."
+                ],
+                [
+                    "These are the famous fragments",
+                    "left by the vast Dun Bull, the fierce....",
+                    "of the White Bull with the piercing horns,",
+                    "who lived in the byres of noble Cruachan."
+                ],
+                [
+                    "On every spot where he bore a piece of him",
+                    "abides its name thenceforward:",
+                    "till the day of Doom it enjoys fair fame",
+                    "beyond the haven of any ford, excellent sir!"
+                ],
+                [
+                    "O sinless Christ, love thou me",
+                    "for the sake of Mary thy mother!",
+                    "O King of this people that goeth toward death",
+                    "thou art more exalted than any man!"
+                ]
+            ]
+        }
+    ]
+}

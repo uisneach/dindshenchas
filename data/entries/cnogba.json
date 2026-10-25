@@ -1,0 +1,309 @@
+{
+    "id": "cnogba",
+    "name_mir": "Cnogba",
+    "name_ga": "Cnóbha",
+    "name_en": "Knowth",
+    "county": "Meath",
+    "county_ga": "Contae na Mí",
+    "kind": "monument",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Knowth",
+    "wikipedia_ga": "Cnóbha",
+    "logainm": null,
+    "images": [
+        {
+            "file": "img/cnogba-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Knowth_from_the_southeast.jpg",
+            "author": "Rob Hurson",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "A ramp to the top of Knowth Passage Tomb Cemetery. The top of the site was occupied from the Iron Age, since it represented an easily defensible position. This persisted into the Middle Ages, when a c",
+            "date": "2014-09-21"
+        }
+    ],
+    "sections": [
+        {
+            "type": "verse",
+            "title": "Cnogba",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                40,
+                47
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/40/mode/2up",
+            "ga": [
+                [
+                    "Bua, ingen Ruadrach riiaid",
+                    "ben Loga mic C&n cletb-ruaid,",
+                    "is ann rof oilged a corp;",
+                    "fuirri romiirad mór-chnocc."
+                ],
+                [
+                    "Cnocc ic Bua i medón Breg,",
+                    "baile i tartad in deg-ben,",
+                    "isin phurt-sin sund ana;",
+                    "is ainm don chnucc-sin Cnogba."
+                ],
+                [
+                    "Acht cid £tromma ria rad",
+                    "d'anmannaib Cnogba conalan",
+                    "dilsi dó cnocc Bui amach",
+                    "ó Bua ingin Riiadrach."
+                ],
+                [
+                    "Ingen Elcmair ann robai:",
+                    "ba lendan Mider don mnai:",
+                    "lend&n di-si fein in flaith",
+                    "fer a Sid Midir mór-maith."
+                ],
+                [
+                    "Englec ingen Elcmair am",
+                    "lenddn óengussa imldin;",
+                    "Oengus mac in Dagdai dil",
+                    "nirbo lenddn don ingin."
+                ],
+                [
+                    "Dolluid Mac in óc ergna fodess co Cerainn Cermna",
+                    "'sin tsamuin teintig thriallaig",
+                    "do chluiche fri comfiannaib.",
+                    "YHSSs. Fland mac Londn\\ S; Flann file, &c. YHS3. 2. cleth-~\\"
+                ],
+                [
+                    "Dolluid Mider, messu de,",
+                    "rosfarraid daranese:",
+                    "berid Engleic leis ó thig",
+                    "assin eo Sid Fer Femm."
+                ],
+                [
+                    "O rocmiala Oengus an",
+                    "a lenmain imma lenuan,",
+                    "dotheit dia fochmarc, fir dam,",
+                    "cosin rochnocc óa rucad."
+                ],
+                [
+                    "Eob ó Ion a sliiaig, lith ngle,",
+                    "cnói cro-derga na caille;",
+                    "leicid a Ion de for lar,",
+                    "feraid guba immon cnocan."
+                ],
+                [
+                    "Cia 'dberar fris cnoc Bui drend,",
+                    "is ó in cotarsna comthend,",
+                    "fuaramar conid de ata",
+                    "don chnó-guba-sin Cnogba."
+                ],
+                [
+                    "Cometar ocainn 'malle",
+                    "a mebrugud na laide,",
+                    "ocus cia be dlug bias duib",
+                    "is uaithe in brug dar biiadaib."
+                ],
+                [
+                    "Senchas aile-so, is eol dam,",
+                    "a chnuic lit ata oc Dubthach:",
+                    "dorónad, cid mór in mod,",
+                    "lasin mBresal mbó-dibod."
+                ],
+                [
+                    "Dibad ar biiaib bai ria lind",
+                    "in each inad i nErind,",
+                    "acht secht mba is tarb tuilltis tress",
+                    "oc each brugaid ria remess."
+                ],
+                [
+                    "Tocaibther leis in cnocc criiaid",
+                    "fo chosmailius tuir Nemniaid,",
+                    "co mbad de tisad for nera;",
+                    "is e\" fath ara fuaibred."
+                ],
+                [
+                    "Fir ó rend dia denum d<S",
+                    "in chnuicc sin uili i n-óen!ó:",
+                    "rothócaib dib giallu in gein",
+                    "fri hobair in laithi-sin."
+                ],
+                [
+                    "Adubairt fris a fiur fein,",
+                    "nach leicfed rith don rogrein,",
+                    "ni biad adaig, acht la glan",
+                    "co roiched siias in saethar."
+                ],
+                [
+                    "Sinid uaithe a fiur for fecht,",
+                    "doni co dron a druidecht:",
+                    "nir utmall grian osa cind;",
+                    "rofasta hi 'sin oen-rind."
+                ],
+                [
+                    "Dolluid Bresal, baes ragab,",
+                    "ón chnucc docbum a sethar:",
+                    "dorónsat sluaig deccra de:",
+                    "fosfiiair i Ferta Guile."
+                ],
+                [
+                    "Luid ina gnais, ciarbo cbol,",
+                    "don tsiair, ciarbo sarugod:",
+                    "frisin cnoc sin sunda amne",
+                    "adberar Ferta Guile."
+                ],
+                [
+                    "In uair nar la doib iarsin,",
+                    "is doig linn corbo adaig,",
+                    "m dernad in cnocc co cend;",
+                    "ti'at for culu fir ó rend."
+                ],
+                [
+                    "Ata in cnocc ósin ille",
+                    "cen tuilled air ar airde:",
+                    "ni ba mó achach oseo immach",
+                    "co ti in brath briste brethach."
+                ],
+                [
+                    "Fland sunna, solus a dan,",
+                    "innises sin, ni sóeb-rad:",
+                    "rogu sceóil, scailid mna is fir,",
+                    "mebrugaid beóil oc buadaib."
+                ]
+            ],
+            "en": [
+                [
+                    "Bua, daughter of Ruadri Kuad,",
+                    "wife of Lug mac Cein of the red spears,",
+                    "it is there her body was hidden;",
+                    "over her was a great hill built up."
+                ],
+                [
+                    "A hill had Bua in the midst of Bregia,",
+                    "where the noble woman was laid,",
+                    "in that spot yonder: —",
+                    "the name of that hill is Cnogba."
+                ],
+                [
+                    "But though easiest to utter",
+                    "of its names be perfect Cnogba,",
+                    "yet its more proper style is Cnocc Bui",
+                    "down from Bua daughter of Euadri."
+                ],
+                [
+                    "Elcmar's daughter dwelt there:",
+                    "Mider was the woman's darling:",
+                    "a darling of her own was the prince,",
+                    "the man from great and noble Sid Midir."
+                ],
+                [
+                    "Englec, noble Elcmar's daughter,",
+                    "was the darling of perfect Oengus;",
+                    "Oengus, son of the loved Dagda,",
+                    "was not the maiden's darling."
+                ],
+                [
+                    "The illustrious Mac in Oc came",
+                    "southward to Ceru Cermna",
+                    "on the blazing hurrying Samain",
+                    "to play with his fellow-warriors."
+                ],
+                [
+                    "Mider came — alas the day!",
+                    "he came upon her after they had gone,",
+                    "he carries off with him Englec from her home",
+                    "thence to the Sid of the men of Femen."
+                ],
+                [
+                    "When noble Oengus heard",
+                    "of the pursuit of his darling,",
+                    "he went in search of her (I say sooth)",
+                    "to the famous hill whence she was borne off."
+                ],
+                [
+                    "This was the food of his band — bright feast —",
+                    "blood-red nuts of the wood:",
+                    "he casts the food from him on the ground;",
+                    "he makes lamentation around the hillock."
+                ],
+                [
+                    "Though it be called the Hill of Bua of combats,",
+                    "this is the equal-valid counter-tale:",
+                    "we have found that hence",
+                    "from that ' nut-wailing ' Cnogba is named."
+                ],
+                [
+                    "By us is preserved together",
+                    "the memory of the lay,",
+                    "and whichever [of these tales] ye shall prefer",
+                    "from it is named the region of surpassing worth."
+                ],
+                [
+                    "There is another tale — 'tis known to me —",
+                    "of that hill, which Dubthach possesses:",
+                    "it was made, though great the exploit,",
+                    "by Bresal Bodibad."
+                ],
+                [
+                    "In his time there fell a murrain on kine",
+                    "in every place in Ireland,",
+                    "except for seven cows and a bull that increased strength",
+                    "for every farmer in his time."
+                ],
+                [
+                    "By him is built the solid hill",
+                    "in the likeness of Nimrod's tower,",
+                    "so that from it he might pass to heaven,",
+                    "— that is the cause why it was undertaken."
+                ],
+                [
+                    "The men of all Erin came to make for him",
+                    "that hill — all on one day:",
+                    "the wight exacted from them hostages",
+                    "for the work of that day."
+                ],
+                [
+                    "His own sister said to him,",
+                    "she would not let the sun run his course;",
+                    "there should be no night but bright day",
+                    "till the work reached completion."
+                ],
+                [
+                    "His sister stretches forth her hands...",
+                    "strongly she makes her druid spell:",
+                    "the sun was motionless above her head;",
+                    "she checked him on one spot."
+                ],
+                [
+                    "Bresal came (lust seized him)",
+                    "from the hill unto his sister:",
+                    "the host made of it a marvel:",
+                    "he found her at Ferta Guile."
+                ],
+                [
+                    "He went in unto her, though it was a crime,",
+                    "though it was violation of his sister:",
+                    "on this wise the hill here",
+                    "is called Ferta Cuile."
+                ],
+                [
+                    "When it was no longer day for them thereafter",
+                    "(it is likely that it was night),",
+                    "the hill was not brought to the top,",
+                    "the men of Erin depart homeward."
+                ],
+                [
+                    "From that day forth the hill remains",
+                    "without addition to its height:",
+                    "it shall not grow greater from this time onward",
+                    "till the Doom of destruction and judgment."
+                ],
+                [
+                    "It is Fland here — bright his art —",
+                    "who tells this tale — no deceptive speech:",
+                    "a choice story — spread it abroad, men and women!",
+                    "lips, make mention of it among excellences!"
+                ]
+            ]
+        }
+    ]
+}

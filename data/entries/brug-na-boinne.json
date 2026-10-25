@@ -1,0 +1,405 @@
+{
+    "id": "brug-na-boinne",
+    "name_mir": "Brug na Bóinne",
+    "name_ga": "Brú na Bóinne",
+    "name_en": "Newgrange and the Boyne Valley tombs",
+    "county": "Meath",
+    "county_ga": "Contae na Mí",
+    "kind": "monument",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Newgrange",
+    "wikipedia_ga": "Sí an Bhrú",
+    "logainm": "1166689",
+    "images": [
+        {
+            "file": "img/brug-na-boinne-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Irelands_history.jpg",
+            "author": "Tjp finn",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "A front view of the Newgrange monument taken from outside the grounds",
+            "date": "2016-08-26"
+        },
+        {
+            "file": "img/brug-na-boinne-2.jpg",
+            "era": "historical",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Newgrange_(8294082764).jpg",
+            "author": "National Library of Ireland on The Commons",
+            "licence": "No restrictions",
+            "licence_url": "https://www.flickr.com/commons/usage/",
+            "caption": "For the day that's in it (Winter Solstice) and as the world doesn't seem to have ended, thought it might be fitting to celebrate an ancient aspect of Ireland's history. This photo of a girl at the ent",
+            "date": "1905"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 4,
+            "title": "Dindgnai in Broga",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                291
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/291/mode/1up",
+            "ga": [
+                "Do dingnuib in Broga inso.",
+                ".i. Long ingine Foni'md. Lecbt in Daghda. Mur na Morrigna. Ledit in Mate, is dia colptlia' raitr Lidbr Colpta. Barc Cnmthainn NiaNair-, ar is ann roadnacht. Fert ¥ekliiiitJÀ Rechtmair. Carngal 3 Cuind Cetcathaig. Com[f]ot Cairbre Lifechair. Fulacht Fiachaigh Sraibtine jii.",
+                "Sencus dono in Brogha beos:",
+                "IMdaei in Daghda cetamus. Da Cich na Morrigna iarsnin. Airm i> ngenair Cermaid Milbeoil mac'm Daghda. Firt mBoinne mna Ne(:/;/oin meic Núa[d]at. Is i tue [le] in coin [mbig] diarbo ainm Dabilla unde Cnoc Dabilla diciiur. Du ma Tres[c]. Ft'rta Escldim br//;emon in Daghda frisa n-apar Ffrta Prttnïic indiu. Cir 7 Cuirreill mna in Daghda.i. da cnoc. Fvta Aodha Luirgnigh\" mc/c in Dagi'a. Dcic mBua[i]Icc mbicc. Ler/;f CtWaig mc/c Maile Coba. 'L&cht gabra Cinóeda meic Irgúaig. Carcar Leith Machœ. Glend in Mata.i. seilc[h]i sin, ut alii dicunt. Liag Buidhe ms/c Muiredha, airm i J fuil a cend. Leac Ben[d].i. lecht forsa torc[h]air in Matie secht fichïl cos lais 7 sccht cind. Duma na Cnam. Caiscl Aongusa m/c Crundmail. Rout sula Midhir 7rl."
+            ],
+            "en": [
+                "Of the remarkable things of the Brug, this: The House (Bed?) of Forann's daughter. The Monument of the Dagda. The Rampart of the Morn'gain. The monument of the Mata: from its coJptha (shinbone) Inber Colptha in calleJ^ The Palace of Crimthann Nia Náir, for he was buried therein. The Tomb of FedHmid the Lawgiver. The Cairn of Conn of the HunJred Battles. The Grave of Cairbre Lifechar. The Cooking-place of Fiacha Sraibtine, etc.",
+                "The story of the Brug still:",
+                "TheBed of the Dagda in the first place, Thereafter the Two Paps of the Morrigain. The place wherein Germait of the Honey-mouth, son of the Dagda, was born. The Tomb of Boind wife of Nechtdn son of Nuada. 'Tis she that brought with her the little hound named Dabilla, whence ‘Dabilla's Hill’ isso called. The Mound of Tresc. The Tomb of Esclam the Dagda's brehon, which is today called Ferta Patraic. The Gomb and Gasket of the Dagda's wife, i. e. two hills. The tomb of Aed Luirgnech the Dagda's son. The Gave of Bualc the Little. The Monument of Gellach son of Mael-coba. The Monument of the steed of Ginaed son ofirgalach. The Prison of LiathMachae-. The Glen of the Mata, that was a tortoise^, as some say. The Stone of Buide son of Muirid, the place where his head is. The stone ofBenn(?), that is, the monument on which the Mata fell: seven score feet had he and seven heads. The Mound of the Bon es (of the Mata). Thé Stone-wall of Oengus son of Grundmael. The Shot of Mider's Eye, etc."
+            ],
+            "notes": [
+                "Also in BB. 555^ 49 and H. 7’. Versified, LL. 164'' 211’. Printed from BB. with a translation (by O'Donovan?) in Petr 10:'$ Round Tmvers, pp. 102, 193 ‘as an example of the class of monuments in use in Ireland duringthe sway of the Tuatha de Danann race, as well as subsequently’.",
+                "Brug maie ind Oc, otherwise called Brug na Bóinde, near Slane on the northern bank of the Boyne.",
+                "Mor-rigaiii (gl. lamia), Regina 215, fo. loi. one of the Tuatha dé Danann, reoccurs s. vv. Mag Breg, Berba, etc. and plays a part in the Tu'iii bó Ciiahige.",
+                "We shall meet the Mata again, infra no. 28. A poem ascribed to Mongan son of Fiachna and Colomb cille (LL. 194I' 23) gives it only four heads."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Brug I",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part II (Todd Lecture Series IX, 1906)",
+            "pages": null,
+            "scan": "https://archive.org/details/toddlectureserie09royauoft",
+            "ga": [
+                [
+                    "An-sin a maig mic ind óc,",
+                    "fairsing do rót, rethaib cet:",
+                    "forolgais mor flathe fir",
+                    "d' aicme cech rig immotret."
+                ],
+                [
+                    "Eotbrecai each n-ingnad n-an",
+                    "a chlar find-glan, fichtib sliiag,",
+                    "a thir ferach fenach feig,",
+                    "a iath n-enach n-indsech n-iiag."
+                ],
+                [
+                    "Tech mic ind Oc ós do dind,",
+                    "rigda fot fri fele find:",
+                    "taircet eim ós do lind duind",
+                    "geill a sidib Erend ind."
+                ],
+                [
+                    "Ingen Foraind fort lar luind,",
+                    "cain mal, ba molbthach in mind:",
+                    "furri rolad in tor thall:",
+                    "ni gann in nath ós a cind."
+                ],
+                [
+                    "Atchiu lind find Feic na Fian",
+                    "frit aniar, ni timm in gnim,",
+                    "co la bratha, brigach bag,",
+                    "meraid hi fan ratha rig."
+                ],
+                [
+                    "Lanamain contuiled sund",
+                    "iar cath Maige Tuired thall:",
+                    "in ben mor, in Dagda donn:",
+                    "ni duaichnid a n-adba ann."
+                ],
+                [
+                    "Lecht in Mathai iarna guin",
+                    "leir fort a Bruig, breccas graig:",
+                    "a chnaim rochorbai in muir,",
+                    "diata Inber Colptha cain."
+                ],
+                [
+                    "Sechi bo Boadain buain",
+                    "ós gruaid a liac budi bain:",
+                    "Termond na Fian fedil feig",
+                    "im reid airthir Nemid nair."
+                ],
+                [
+                    "Hi Fertai na Failenn fand,",
+                    "is and romaided in glond:",
+                    "mor in gnim n-ualle do rind",
+                    "echt Find forfein Luagne lond."
+                ],
+                [
+                    "Genair inneot mellach mac",
+                    "Cellach roslat leirg for lore;",
+                    "ba tualnge trebe, rotchacht,",
+                    "conappad ec n-ualle fort."
+                ],
+                [
+                    "A bare brainech na tor tromm,",
+                    "tathig tretban-tonn do dind:",
+                    "otha Chrimthainn Niad co Niall",
+                    "ba tu relec na fian find."
+                ],
+                [
+                    "Fintan Feradach fecht fland",
+                    "rothecht do thalmain in trorn:",
+                    "Tuathal Techtmar, triath ar eland,",
+                    "foluing do land lechtach lorn."
+                ]
+            ],
+            "en": [
+                [
+                    "Bright is it here, O plain of Mac ind Oc!",
+                    "wide is thy road with traffic of hundreds;",
+                    "thou hast covered many a true prince",
+                    "of the race of every king that has possessed thee."
+                ],
+                [
+                    "Every bright wonder hath adorned thee,",
+                    "O clear shining plain with scores of hosts,",
+                    "O lucent land of grass and waggons,",
+                    "O virgin mead of birds and islands!"
+                ],
+                [
+                    "The house of Mac ind Oc above thy stead,",
+                    "a royal sod with true hospitality;",
+                    "there come in sooth above thy brown stream",
+                    "hostages from the fairy-hills of all Erin thither."
+                ],
+                [
+                    "The daughter of bold Pharaoh [lies] on thy floor",
+                    "a kind princess, precious was the diadem;",
+                    "over her was set the tower in that place,",
+                    "not sparing was the dirge over her head."
+                ],
+                [
+                    "I see the clear pool of Fiacc of the warriors",
+                    "west of thee, — not feeble the deed —",
+                    "till the day of Doom — mighty boast —",
+                    "shall he abide on the slope of the royal rath."
+                ],
+                [
+                    "Here slept a married pair",
+                    "after the battle of Mag Tuired yonder,",
+                    "the great lady [and] the swart Dagda:",
+                    "not obscure is their dwelling there."
+                ],
+                [
+                    "Thou hidest a brood bold and kind,",
+                    "O plain of the son of the swift Dagda!",
+                    "let men not punish the worship of the great God;",
+                    "it is worse for them where they are in torment."
+                ],
+                [
+                    "They are transient, thou abidest:",
+                    "every believing band rides around thee:",
+                    "as for them, their wisdom has befooled them;",
+                    "thou shalt attain a noble age."
+                ],
+                [
+                    "Boyne, a spot right green and bright,",
+                    "an omen with sound... beside thee",
+                    "... from you of the proud grandson",
+                    "of Senbec from the stead of noble poesy."
+                ],
+                [
+                    "Warlike and splendid is the centre of champions!",
+                    "swift their stroke, noble their assembly!",
+                    "it is a fold of glorious chieftains, with a track,",
+                    "it is a kennel of high-bred Avhelps, it is glorious."
+                ],
+                [
+                    "dosruluaid II; dosrulluaidh M; rosroluaidh 83. a ngces\\ ed.; a nibes LU;"
+                ]
+            ],
+            "incomplete": [
+                48,
+                41
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Brug II",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part II (Todd Lecture Series IX, 1906)",
+            "pages": null,
+            "scan": "https://archive.org/details/toddlectureseri02acadgoog",
+            "ga": [
+                [
+                    "Tarsain tucad, cialla cor,",
+                    "in mac dia néi mbliadna mbil,",
+                    "coa athair, ba cadla gair,",
+                    "dia thaig cosin Dagda ndil."
+                ],
+                [
+                    "Dognith ergnam leis dond rig",
+                    "isin tafd, tre brégrad mbúan,",
+                    "de até, ní ceist cen ran,",
+                    "Duma Treisc ar súil na slúag."
+                ],
+                [
+                    "Tarsin dlomais Dagda dúr",
+                    "asa dún, níb adba mbróin,",
+                    "co mbái i n-Ochain, fecht co núaill,",
+                    "iar n-othur slúaig, iar n-úair óil."
+                ],
+                [
+                    "Ferta Escláim, érimm sruith,",
+                    "a telctís cesta fir maith,",
+                    "fót co mbalc-raind, gním cen chleith,",
+                    "do mac Calpraind ba rót raith."
+                ],
+                [
+                    "In eol dúib Derc mBuaile bil",
+                    "comarba fil immon mag,",
+                    "asa n-ésib loimm lúath lib",
+                    "a dig don téluag, fiad glund glan."
+                ],
+                [
+                    "In eol dúib Lecht Cellaig crúaid",
+                    "co núaill ellaig, erotha gáeth:",
+                    "atbath tre beirt láechda lúaith,",
+                    "dia mbói thúaith for báethla báeth."
+                ],
+                [
+                    "In eól dúib Lecht Gabra ind rig",
+                    "Cinaeda cen galma ngaid;",
+                    "ruc búaid a siblachaib sréin",
+                    "do réir mic Irgalaig áin."
+                ],
+                [
+                    "A Cir a Currel na mná,",
+                    "cia bale itá cechtar de,",
+                    "meraid ó ’ndiu co ti bráth;",
+                    "ni ba measu ar chách a ngné."
+                ],
+                [
+                    "Fégaid lib, ba bag cech báird,",
+                    "ba fert fir din, fuaim cen meirg,",
+                    "forglitis iath ngéela gairg,",
+                    "sid da Lurgnig for leirg."
+                ],
+                [
+                    "And dognith rúamna dia thriath",
+                    "for cian-bla cliach ocus crích;",
+                    "ba h-ed slóg-dígal na túath,",
+                    "Mérrigan múad ditt i mbith."
+                ],
+                [
+                    "In eól dúib tre gnimrad ngnáth, “65",
+                    "fri fáth fir-glan, fichtib triath,",
+                    "iath n-acht-glan i mbátar scéith,",
+                    "Carcar ind Léith i mbái in Líath."
+                ],
+                [
+                    "In eól dúib tre chátha cend",
+                    "in glend i mbíd Mátha mall?",
+                    "robíth iar n-inriud slóg seng;",
+                    "dogníth mór do imniud and."
+                ]
+            ],
+            "en": [
+                [
+                    "Thereafter was brought, a clever compact,",
+                    "the boy, on that day nine full years after",
+                    "to his father, it was a short-lived joy,",
+                    "to the loved Dagda at his house."
+                ],
+                [
+                    "Entertainment was made by him for the King",
+                    "in the mound by means of lasting deception;",
+                    "thence is [named],—it is not a question without a key—",
+                    "Duma Treisc before the eyes of the hosts."
+                ],
+                [
+                    "Thereafter the stern Dagda refused his request,",
+                    "to whom belonged the keep, it was no abode of grief:—",
+                    "so he dwelt in Ochan, a journey with lamentation,",
+                    "after warlike labour, after a time of carousing."
+                ],
+                [
+                    "The trench of Esclam, pilgrimage revered,",
+                    "where good men used to cast questions:",
+                    "a sward with a brave portion, a deed without concealment,",
+                    "for the son of Calpurn it was a path of grace."
+                ],
+                [
+                    "Know ye the Well of Bualc the good,",
+                    "his successor throughout the plain,",
+                    "from which he drew a draught....",
+                    "a drink for the host, in presence of a bright hero (?)."
+                ],
+                [
+                    "Know ye the Grave of grim Cellach",
+                    "[surrounded] by wailing in unison, the breeze was filled",
+                    "[with the sound]:",
+                    "by a swift heroic pair he died,"
+                ],
+                [
+                    "when he was in the north on a foolish act unwise.",
+                    "Know ye the Grave of the Horse of the king,",
+                    "Cinaed free from rigour of need?",
+                    "he bore off victory from fleet ones of the bridle"
+                ],
+                [
+                    "at the will of the son of noble Irgalach.",
+                    "The Comb, the Coral of the woman,",
+                    "in whatever place each of them is,",
+                    "it shall abide till the Doom come;"
+                ],
+                [
+                    "their beauty shall not grow less and less.",
+                    "Behold before you—it was the boast of every bard,",
+                    "it was the grave of a noble man, fame without decay—",
+                    "they celebrated the meadow-land of a fierce slaying (?)—"
+                ],
+                [
+                    "the mound of Aed Lurgnech on the hill-slope.",
+                    "There was caused bloodshed by its chief",
+                    "upon the resort of ridges and territories:",
+                    "that was a general vengeance of the tribes"
+                ],
+                [
+                    "in the place where the great Morrigan was smitten.",
+                    "Know ye for noted deeds,",
+                    "with true-clear learning, with scores of chiefs,",
+                    "the plain of bright actions, where shields used to be,"
+                ],
+                [
+                    "the Prison of the Grey, where the Grey Steed was?",
+                    "Know ye by the refuse of heads",
+                    "the Glen where the sluggish Matha dwelt?",
+                    "it was slain after the incursion of lithe hosts:"
+                ],
+                [
+                    "much havoc was wrought there.",
+                    "Thereafter came (a deed without concealment),",
+                    "the kings from a pleasant land on account of him,",
+                    "to view the vast Matha,"
+                ],
+                [
+                    "and each planted on him pitilessly his stone.",
+                    "Buide planted his keen stone",
+                    "in the portion which is called Finn's Seat:",
+                    "in presence of the hosts of the glens he left"
+                ],
+                [
+                    "his head on the plain of Muired Mend.",
+                    "Thereafter came the mighty Ulstermen",
+                    "(Conn’s proper Share) against him,",
+                    "to strive with the might of the sluggish Matha"
+                ],
+                [
+                    "go his limbs were broken on Lece Bend.",
+                    "A solid barrow was built by them",
+                    "for a rampart over the bones of the beast:",
+                    "that was the trophy, a fight with lamentation,"
+                ],
+                [
+                    "which it possessed with victory and might.",
+                    "The wall of Oengus the blameless,—"
+                ]
+            ],
+            "incomplete": [
+                48,
+                66
+            ]
+        }
+    ]
+}

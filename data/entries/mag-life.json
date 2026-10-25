@@ -1,0 +1,90 @@
+{
+    "id": "mag-life",
+    "name_mir": "Mag Life",
+    "name_ga": "Magh Life",
+    "name_en": "Plain of the Liffey",
+    "county": "Kildare",
+    "county_ga": "Contae Chill Dara",
+    "kind": "plain",
+    "confidence": "certain",
+    "precision": "approximate",
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": null,
+    "wikipedia_ga": null,
+    "logainm": null,
+    "images": [],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 12,
+            "title": "Mag Lifi",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                303
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/303/mode/1up",
+            "ga": [
+                "Mag Life, canas ro ainmniged?",
+                "Ni ansa. Life ingen Cannain Cruthn/T doluid la Deltbanda mac Druchta, dailemoin Conaire Moir rig Temra. A Sid Buidb ar Femen do. Fodes didiu o Temraig gahsat, ar rop aloind lee in mag darsa tanic co wdatig a hainm fair. [Conna ro ddil Deltbanna do feraib Herenn coro ainmnigthe in mag út o anmum a mnd -.] Unde Mag Liji.",
+                "Nó co wbad5 Fea an ainm 7 li oni ba laind le ina flica."
+            ],
+            "en": [
+                "Life, daughter of Cannan the Pict went with (i. e. wedded) Deltbanna son of Drucht, the spencer of Conaire the Great, kingofTara. Out of the Elfmound of Bodb on Femen was he. South of Tara they set up, and because the plain over which she came seemed beautiful to her, she asked that her name might be on it; and Deltbanna dealt out no more (liquor) for the men of Erin until yon plain was called by his wife's name. Whence Mag Lift.",
+                "Or may be Fea was the name and Li- because what she saw seemed bright to her."
+            ],
+            "notes": [
+                "Also in LL. 159’ 26: BB. 5)8’: H. 17b: BodL no. 4. Edited in Silva GcuieUca, II, 482, 550.",
+                "Mag Lifi or Liphi (ad campuni Lifi, Book of Armagh, fo. 15b 1, in campo Liphi, ibid. lo-’ i, 10^ 2) a plain in the county ofKildare, through which the river Liffey winds. Femeii a plain near Cashel, co. Tipperary; Flaith Femin find, LL. 129. Conairc Mór, v. supra, no. 3."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Mag Life",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part II (Todd Lecture Series IX, 1906)",
+            "pages": null,
+            "scan": "https://archive.org/details/toddlectureserie09royauoft",
+            "ga": [
+                [
+                    "Life luchair, Ieór do blaid,",
+                    "ingen Channain chet-churchaig",
+                    "fuair gairm ngaire il-1óg astair",
+                    "ainm in ma ge, is mor-ascaid."
+                ],
+                [
+                    "Tuc ascaid togaide tig",
+                    "dalem Conaire clielig",
+                    "d' ingin Channain cet codal",
+                    "Deltbanna det drech-solam."
+                ],
+                [
+                    "Lamnad roloit Lifi laind",
+                    "i Purt Agmar i n-Araind:",
+                    "rue mudaid mac Druchta de,",
+                    "di chumaid lor leech-Life."
+                ]
+            ],
+            "en": [
+                [
+                    "Life the bright (fame in plenty!),",
+                    "daughter of Cannan of the hundred coracles,",
+                    "got as reward for her labour a title of pious observance,",
+                    "even the name of the plain; it is a mighty boon."
+                ],
+                [
+                    "A choice, pleasant boon gave",
+                    "the spencer of friendly Conaire",
+                    "to the daughter of Cannan, — an hundred hides,",
+                    "Deltbanna of the gleaming teeth."
+                ],
+                [
+                    "Child-birth was the death of eager Life",
+                    "at Port Agmar in Aran;",
+                    "thereby the son of Drucht got his death,",
+                    "from his great grief for heroic Life."
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1016 @@
+{
+    "id": "carman",
+    "name_mir": "Carman",
+    "name_ga": null,
+    "name_en": null,
+    "county": null,
+    "county_ga": null,
+    "kind": "assembly site",
+    "confidence": "unlocated",
+    "precision": null,
+    "reviewed": false,
+    "note": "Site of the Óenach Carmain, the great fair of Leinster. Its location is disputed: Wexford, the Curragh and Carnalway in Co. Kildare have all been proposed.",
+    "note_ga": "Láthair Óenach Carmain, mór-aonach Laighean. Tá a suíomh faoi dhíospóid: moladh Loch Garman, an Currach agus áiteanna eile i gContae Chill Dara.",
+    "wikipedia": null,
+    "wikipedia_ga": null,
+    "logainm": null,
+    "images": [],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 18,
+            "title": "Carman",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": null,
+            "scan": "https://archive.org/details/revueceltique15pari",
+            "ga": [
+                "Qirman, ainas ro ainninigcd?",
+                "Ni aiisa. Triar fear tancadar a liAthin, 7 oenlv;/ léo.i. tri mt'/c Dibfl(;W meic Doirci meic Aincis lad.i. Dian 7 Dub 7 Dothur a n-anmand, 7 Carmean ainm a máthai-.",
+                "T/ia hrïchtu 7 dicetla 7 cantana noliiited in mathnV cach maigin: tria fogail 7 esindrucwj ïmniorro, romilldis na lir.",
+                "Dolodzr dono co Herinn ar ulc re Tuaith dé Danaiin, do coll etha na hindsisea forro. OIcc uiruDi la Tuatha dd? Danaiin indsin. Doluid Aimflc OWoinanoúledaib, 7 Cridenbel o caintib, 7 Lugh Liiïbach o drai[d]ib, 7 Be cuille ona bantuathaib do cetol ïonosum, 7 ni ro scarsat friu ciir' cuirset in triar fer tar muir, 7 fac[ab]sat a ngiall afus.i. Cairmen a math(n'r, arna tisdais co Hérinn afrithisi, 7 tucsat dia cind in sechta - nos-fognad na ticfliidis airet beith muir im Hérinn.",
+                "Ba marb iiùis a mátbair sin do cumaid ina giallacht?, 7 roCLiindig for Tuaith de Dana)in airm i n-adnaiclidea co n-agtais a hitnach and, 7 co mbad hé a hainm nobeith an ajnach sin 7 in maigin semper. Unde [fo. 96'' i] Carmuin 7 aoenach CarjHuin, 7 fogniset-i Tuatha dé Danann hindsin aircat bad(/r i ViWérinn.",
+                "Vel ita. Sen-gairmun tainic indega/ secht n-erca 5 nEchach [Bélbuide] tue Lena mac Mes-reoda 7 Ucha ingen Oxa Rigct'rta a màihak in meic sin, 7 ba hen sen Mesgeagra meic Dato rig Láigen larmn. Bitar dono mardon la Lena ic sethad in buair sin hic Sen mac Duirb 7 Lochar Luath mac Smiraig <'' 7 Gunnait mac Suçait 7 Altach mac Duilb 7 Mothur mac Largaig/.",
+                ">, n-erc H., erc BB.",
+                "412 Wintley Stokes.",
+                "Fos-fuair Sengarmfln ic Raith Bic fri Dùn maie Datho an[d]es. Marhthar Ucha iarww cona. bandtrocht 7 in milid tucsat in mbuar, 7 tuc Sengarman leis a búar co Mag Mesca ingine Buidb iarna breith doswm a Sidh V'mdchada i Sleib Monaid i n-Alba//7;, co n-a[t]batli Mesca ar naire isin magin sin, 7 foclas a fert and.i. un Mesca ingine Buidb, 7 ruccsat.iiii. meic in Daté.i. Mes seda 7 Mes wcda 7 Mes deda 7 Mes de! mon, ïor Sengarmun isin maigin sin, 7 doc‘' Sengarman and, 7 foclass a fert and, 7 fo;miter/;i'enach nguba do gnim and, 7 co mbeit[h] a ainm in aenach sin 7 in maigin sin dogres, et unde Carmun 7 Sen-carmun dicHníur, 7 fognidis Laigin insin ar trebaib 7 artellaigib3 co Cathair Mor. Ni farlaic Catliair ïvamorro acht4 [d]o tellaigib) fodesin 7 remt/i' la sil Rosa Failge, a ïorgabail 7 an deoraid i lurg in aenaig, utsunt Laigsi 7 Fothairt,",
+                "Secht ngraifne and 7 sechtm.ùw fri agad bretha 7 cocerta a cuigid f/'i bliaJ7/;7.",
+                "Is and fognidis Laig//i Desgab/r in iaithi déidenach/ de. Is de adbérar echtres Osraige. Forud [a rig for deis ri(g) Carmun: forud 7] ri[g] Wua Failge fora cliu, 7 is amk/ a mna.",
+                "Hi VxWaind auguisf notéigdis ind, 7 hi sexid auguist noticdis as, 7 cac7; très hlmiain fognidis, 7 da bliaJa/;/. friatairecc",
+                "[.Lxxx. 7.d.]' hlvádan o rognid in cetna aenach and cw.vandara hïvádain aiborchat Úatha Ochtauin Augusti ir-rogeinir Cr isi.",
+                "Ith 7 hlicht doib ara denom, 7 cen forran coigid in° Hérinn foraib, 7 iir riglaig leo [7 mna;;/etha]- 7 suba la cach saintreb, 7 càcb meas mar taidbsin, lína lana o usnb, 7 meth 7 mochlcithe [ocus] rig occa doib mené denad insin.",
+                "■ 5. tellaidib R.",
+                "10..m. R.",
+                "11. riglaeich H.",
+                "12. Sic LL. 21 j--’ 27: for iiictba leg. maelha."
+            ],
+            "en": [
+                "There were three men who came from Athens and one woman with them, [their mother]. The men were the three sons of Dibad son of Doirche, son of Ainces, (‘Extinction son of Darkneás son of Ailment’), and their names were Dian and Dub and Dothur. (‘Violent, Black and Evil’), and the name of their mother was Carman.",
+                "By spells and charms and incantations the mother ruined every place. By plundering and dishonesty the men destroyed.",
+                "So they went to Ireland to bring evil on the Tuatha Dé Danann by blighting the corn of this island upon them. To the Tuatha Dé Danann that seemed ill. So Ai son of OUam of their poets, and Cridenbél^ of their lampooners, and Lugh Laebach of their wizards, and Bé cuille- of their witches went to sing charms upon them, and they parted not from them till they had driven the three men over sea. And the men left their mother Cairmen here as a pledge that they would not come again to Erin, and they also gave the Seven Things which they served (as security) that they would not come so long as sea surroundcd Ireland.",
+                "Their mother died of grief here in hcr hostageship, andshe asked the Tuath Dé Danann to hold her fair (oenach) at her burial-place, and that the fiir and the place should always bear her name. And the Tuatha Dé Danann performed this so long as they were in Erin. Hence Carman:\\.nà Oenach Carmiiin.",
+                "Or thus: Old-Germdn followed Eochaid Yellowmouth's seven cows which hadbeen carried oif by Lena son of Mesroeda. Ucha daughter of Oxa king of Certa(?) was Lena's mother, and she was wife of Mes gegra son of Dath King of Leinster.",
+                "Now along with Lena in driving those cattle were Sen son of Dorb, and Lochar the Swift son of Smirach, and Gunnait son of Sucat, and Altach son of Dolb, and Mothur son of Largach. OldGarman found the cows at Raith Becc to the south of Dún meic Datho. Then Ucha with her women is killed and the soldiers who carried oif the cows. And Old-German took his cows to the Plain of Bodb's daughter Mesca whom",
+                "5 1 4 Whltley Stokes.",
+                "he had carried oft from Síd Findchada on Sliab Monaid in Scotland. And Mesca died of shame in that place, and there they dug her grave, even the grave of Mesca daughter of Bodb. And Dath's four sons overtook Old German at that place, and [by them] there Old German fell, and there his grave was dug. And he begged them to establish there a ‘fair of Lamentation’, and that the fair and the place should always bear his name. Hence Carman and Sen-charman are so called.",
+                "And the Leinstermen used to hold that fliir according to habitation and hearths down to (the time of) Cathair the Great. Cathair, liowever, left it to his own hearths only, and precedence with the race of (his son) Ross Failge, their dépendent branches, such as the Laigsi and the Fothairt, and their exiles in the track of the fair.",
+                "There were seven horse-races there, and a week for promulgating the judgments and laws of the province for a year (rectius three years).",
+                "'T was on the last day thereof that the Leinstermen of SouthGabur i. e. the men of Ossory, held (their horserace). Thence is said ‘Ossory's horse-contest’. Their king's high-seat was on the right of the King of Carman: the high-seat of the king of Húi Failgi was on his left. Thus, too, were their wives.",
+                "They entered the fair on the kalends (i. e. the tirst) of August and left it on the sixth of the ides (i, e. the eighth) of August. Every third year they held it, two years being given to preparing it.",
+                "From the holding of the tirst fair there down to the 42d year of the reign of Octavian Augustus when Christ was born, are 580 years.",
+                "For holding it the Leinstermen (were promised) corn and milk, and freedom from control of any (other) province in L'eland: that they should have men, royal heroes; tender women: good cheer in every several house; every fruit like a show (?): and nets fuU (of lísh) from waters. But if it was not held they should have decay and early grayness and youngkings."
+            ],
+            "notes": [
+                "Also in BB. qóo-'’ 8 and H. 19-'. Partially in LL, 215’ 1-30. Versified LL. 2 15'’ 31-216’. Edited and translated in O'Curry's Manners andCustoms, II, 59-41; in, 526-529.",
+                "The Fair of Carman (now Wexford) was, according to O'Curry, rcvived A D. 718, by Dunchadh Kingof Leinster, and last celebrated A.D. 1023 by Donagli mac Gillapatrick."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Carmun",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                2,
+                24
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/2/mode/2up",
+            "ga": [
+                [
+                    "FULARTACH cecmit.",
+                    "Eistid, a Laiguiu nal-lecht,",
+                    "a sliiaig ós Raigniu rath-chert,",
+                    "co fagbaid uaim as cech aird"
+                ],
+                [
+                    "caem-senchas Carmain chloth-aird. Carmun cóte óenaig Feil,",
+                    "co faithchi róenaig roreid,",
+                    "in tsluaig tictis dia thaichmi,",
+                    "arfigti's a glan-graifni."
+                ],
+                [
+                    "Is railecc rig a ruam ran,",
+                    "cid sain-serc sliiag co sóer-grad;",
+                    "fail mor fo dumaib dala",
+                    "dia s!óg bunaid bith-grada."
+                ],
+                [
+                    "Do chainiud rigan is rig,",
+                    "d' faidiud digal is dignim,",
+                    "ba mence find-sluag fagmair",
+                    "dar slim-gruad sóer Sen-Charmain."
+                ],
+                [
+                    "In fir nó in fer co mót gal,",
+                    "nó in ben co n-ót anbal,",
+                    "rue gairm cen mimes marggaid,",
+                    "tuc ainm dfles deg-Carmain?"
+                ],
+                [
+                    "LRBYMEHSSsV. Parts of L are nearly illegible, especially 110-150. Ni fir is nf fer fergach,",
+                    "acht óen-ben dfan dfbergach,",
+                    "gliiair a tarmun is a tairm,",
+                    "ó fiiair Carmun a ce\"t-ainm."
+                ],
+                [
+                    "Carmun ben maic Dibaid dein",
+                    "maic Doirche dirmaig dag-feil",
+                    "maic Aincgeis co meit ratha,",
+                    "ba cend airdmeis ilchatha."
+                ],
+                [
+                    "Nistailged tairecc tarba",
+                    "fri sain-seirc na sóer-Banba,",
+                    "ddig ba sni'maig cech amm thair",
+                    "eland maic Dibaid 'a am-mathair."
+                ],
+                [
+                    "Cengsat siar dind ara chur",
+                    "Dfan ocus Dub is Dothur,",
+                    "ond Athain aidben anair,",
+                    "ocus Cairmen am-mathair."
+                ],
+                [
+                    "Nomiltis im Thiiathaib De",
+                    "in t-aes niiachair naimtide",
+                    "torad each thalman co traig:",
+                    "ba fogal adbal ecair."
+                ],
+                [
+                    "Cairmen as each bricht co mblaid",
+                    "aidcgled each mblicht mborr-thoraid,",
+                    "iar ngleicc as each dan nar dlecht,",
+                    "na meicc tria ag tria anrecht."
+                ],
+                [
+                    "larum rosrathaig Tiiath De\",",
+                    "rosbrathaig uath is amgne,",
+                    "ar each n-om-gnim gniset so",
+                    "sniset a comlin chucco."
+                ],
+                [
+                    "Crichinbel, ni saibad sin,",
+                    "is Lug Laibach mac Cachir,",
+                    "Bó Chuilli ós each rdi na rag,",
+                    "ocus Ai mac Ollaman,"
+                ],
+                [
+                    "Roraidset riu ar rochtain",
+                    "in cethrur cruaid comfortail:",
+                    "\" Ben sund i cend for mathar,",
+                    "triar fer don triur derbrathar."
+                ],
+                [
+                    "\" Bas diiib, ni regain roga,",
+                    "ni soraid, ni soer-thoga,",
+                    "no facbaid co gle\"-grind giall;",
+                    "drcid a Hórind óentriar.\""
+                ],
+                [
+                    "Na fir-sin dochiiatar uain,",
+                    "frith a riiacad co rochruaid,",
+                    "ciarb aidben leo facbat sund",
+                    "Cairmen beó 'n-a crii chumung."
+                ],
+                [
+                    "Cach fir dar' na tecar slan",
+                    "muir mil, nem, talam tond-ban,",
+                    "na tistais tess na tuir thind",
+                    "c&n nobeth muir im He\"rind."
+                ],
+                [
+                    "Cairmen rue bas is baide,",
+                    "nosaidled as ecaine;",
+                    "fuair a aidid, mar rodlecht,",
+                    "eter dairib na ndron-fert."
+                ],
+                [
+                    "Tancas sund tria gaine ngno,",
+                    "dia caine dia cet-gubo,",
+                    "la Tuaith De dar sóer-mag sair,...",
+                    "cetna óenach coir Cannain."
+                ],
+                [
+                    "Fertan Carmain cia rochlaid,",
+                    "in fagbaid no in fetabair?",
+                    "iar mes cech deg-athar dil",
+                    "Bres mac Eladan, eistid. E."
+                ],
+                [
+                    "Cethri fichit cóic ce\"t cain",
+                    "fail liad (ni bre*c) do bliadnaib,",
+                    "ó Charmein fo chisu cacht",
+                    "co salm-gein Isu iar ndóennacht."
+                ],
+                [
+                    "A dó trichat ceithri cót",
+                    "ó gein Crist, ni soeb in se\"t,",
+                    "co Crimthann ós Charmun cacht",
+                    "co Patric n-adbul n-etracht."
+                ],
+                [
+                    "Cóic rig trichat cen trist tair",
+                    "do Lagnib ria Crist creitim:",
+                    "a miall ós Hórind rosaich",
+                    "dit chiiain che\"l-bind, a Charmain:"
+                ],
+                [
+                    "Cóic rig cóicat, saethraig se,",
+                    "do laechraid na Cristaide",
+                    "ó Chrimthunn comdas na cned",
+                    "co Diarmait dron-mas durgen:"
+                ],
+                [
+                    "Ocht maic Galaim, lin a slog,",
+                    "Dond, Hir, Eber, Herimón,",
+                    "Amairgin, Colptha cen chrad,",
+                    "Herech, Febria, is Erennan:"
+                ],
+                [
+                    "Eop iatsin ratha ind oenaig",
+                    "cech tratha fri tren-móidim,",
+                    "oc tocht ind, oc tuidecht ass,",
+                    "cen nach n-e\"craitius n-amnass"
+                ],
+                [
+                    "ó Thiiaith D<§ co claind Miled",
+                    "ba din roban is rigfer;",
+                    "ó chlaind Miled, ba gnim ngle,",
+                    "ba din co Pdtric Machae."
+                ],
+                [
+                    "Nem, talam, grian, esca, is muir,",
+                    "toirthe tire ocus turscuir,",
+                    "beóil, cliiasa, suli, selbtha,",
+                    "cossa, lama, laech-thengtha,"
+                ],
+                [
+                    "Eich, claidib, carpait caine,",
+                    "gai, sc^ith is drecha daine,",
+                    "drucht, mess, daithen la duile,",
+                    "la 's adaig, traig, trom-thuile."
+                ],
+                [
+                    "Doratsat sin uile n-óg",
+                    "buidne Banba cen bith-brón",
+                    "co na beth fo chiabair chest",
+                    "cech tress bliadain ar tairmesc."
+                ],
+                [
+                    "Doringset genti Goidel",
+                    "ar menci fri mór-móidem",
+                    "óenach cen chain, cen chinaid,",
+                    "cen gnim aig na essidain."
+                ],
+                [
+                    ",: ••}• O Lucht baistid Crist, na celid,",
+                    "caistid ris, daig is demin",
+                    "is mó dlegait trist ar techt",
+                    "ó Christ is a Cristaidecht."
+                ],
+                [
+                    "Eig ocus naim Herend and",
+                    "im Phatric is im Chrimthand,",
+                    "iat rothennfastsat each cath;",
+                    "robennachsat in oenach."
+                ],
+                [
+                    "A nói re Tuathaib De daith",
+                    "ós bruachaib Carmuin chloth-maith,",
+                    "cóica n-a tren-medón trait",
+                    "ó Hórhnón co Patraic."
+                ],
+                [
+                    "A cóic cethri deich data",
+                    "ar sreith oenaig allata,",
+                    "ó Bresal bróenach cen brath",
+                    "cosin n-óenach ndedenach."
+                ],
+                [
+                    ", ó Chrimthund in cbrotha cain",
+                    "co cath ard Ocha anbail",
+                    "a nói raglana cen raind",
+                    "la sil Labrada laech-maill."
+                ],
+                [
+                    "Só rfg d^c, roderbaig dam",
+                    "cech sui cech senchaid solam,",
+                    "ó Charmun na ciian croebach",
+                    "dorat sliiag 'sin slat-óenach."
+                ],
+                [
+                    "A hocht a Dothra doinig,",
+                    "sliiag sochla fri sir-móidim,",
+                    "gni'set óenach cóir Carmain",
+                    "fo g!óir is fo glan-armaib."
+                ],
+                [
+                    "A do doc cen rudra im raind",
+                    "d' óenaigib urgna, atraaim,",
+                    "do churi gribda in gaiscid",
+                    "on tsfl rigda a ro-Maistin."
+                ],
+                [
+                    "A cóic a Fid Gaibli garg",
+                    "fichset ós Charmun chloth-ard",
+                    "oenach saidbir co srethaib,",
+                    "co saidlib, co srian-echaib."
+                ],
+                [
+                    "Sessiur de Eaigne re'imnig,",
+                    "de sfl Bresail brie be*imnig,",
+                    "sliiag find fri faglaib funid",
+                    "ós griiad Charmain che\"t-guinig."
+                ],
+                [
+                    "Patric, Brigit imalle,",
+                    "Cóemgen is Cholumcille,",
+                    "iat is airtbech ar cecb sluag",
+                    "na rolaimtber a marc-sluag."
+                ],
+                [
+                    "Oenach na naeb, nert dia chur,",
+                    "ar tus, is cert dia cborgud:",
+                    "oenach ardrig f... s glain",
+                    "issed bis ina degaid."
+                ],
+                [
+                    "Clucbe ban Lagen iar",
+                    "on tsluag ragel, ni rad ngó,",
+                    "bantrocht nach bee mess immacb",
+                    "isse a cete in tress oenach."
+                ],
+                [
+                    "Lagsig, Fotbairt, fota a mblad,",
+                    "leo dar £is chota na mban:",
+                    "is Ieó Lagin, lin a se\"t,",
+                    "na dagfir dod.. cbomet."
+                ],
+                [
+                    "Ka rigdamnaib sruttii sund",
+                    "in cóiced cluchi i Carmund:",
+                    "sluaig enig Herend, mased,",
+                    "dóib ra thren-gell in sessed."
+                ],
+                [
+                    "Fa deoid ra clannaib Condla",
+                    "cluche Carmain dag-comga:",
+                    "sech cech sliiag soer in sochur",
+                    "ós each róen is rfg-thorud."
+                ],
+                [
+                    "Secht cluchi, mar damair dait,",
+                    "issed forFacaib Patraic:",
+                    "in each la ra sechtmain sain",
+                    "ar bar serc-blaid sir-eistid. E."
+                ],
+                [
+                    "Donitis Lagin in sin",
+                    "iar trebaib iar tellaigib,",
+                    "ó Labraid longsech, lin sliiag,",
+                    "co Cathair comsech cleth-riiad."
+                ],
+                [
+                    "Nifarlaic Cathair Carmain",
+                    "acht dia maicne mor-adbail;",
+                    "'n-a tosach co saidbri sain",
+                    "sil Bossa Failgi fegaid."
+                ],
+                [
+                    "Forud rig Argatrois ain",
+                    "for deis rig Carmuin choern-nair;",
+                    "dia laim chli cen daidbri iiduail",
+                    "forad rig Gaibli gec-luain."
+                ],
+                [
+                    "Is lorg la sil Lugdach 1óir",
+                    "Laigsig maic Conaill chend-móir,",
+                    "is Fothairt, nach taidli tart,",
+                    "cen daidbri dia n-iarmoracht."
+                ],
+                [
+                    "Hi Kalaind Auguist cen ail",
+                    "tiagtis ind cech tress bliadain;",
+                    "agtfs secht ngraifne im gnim ngle",
+                    "secht laithe na sechtmaine."
+                ],
+                [
+                    "And luaitfs fri baga bil",
+                    "certa ocus cana in coicid,",
+                    "cecli recht riagla co rogor",
+                    "cech tress bliadna a chorogod."
+                ],
+                [
+                    "Ith, blicht, sith, sama sona,",
+                    "lina lana, lerthola,",
+                    "fir riglaich, co combaid cind",
+                    "dirmaig forrain for Herind."
+                ],
+                [
+                    "Acra, tobuch frithir fiach,",
+                    "£cnach, e\"craite, anriad,",
+                    "ni lamar la graifhe in gaid",
+                    "elud, aithne, athgabail."
+                ],
+                [
+                    "Cen dul fer i n-airecht mban",
+                    "cen mna i n-airecht fer findglan",
+                    "mad aithed and, nir'chlunter,",
+                    "cid athfer cid athmunter."
+                ],
+                [
+                    "Cipe ti dar recht na rig,",
+                    "Benen co becht rabiian-scrib,",
+                    "na beth ar as 'na fine",
+                    "acht a bas 'n-a bith-bine."
+                ],
+                [
+                    "Is iat a ada olla",
+                    "stuic, cruitti, cuirn chroes-tholla,",
+                    "ciiisig, timpaig cen triamna,",
+                    "filid, ocus faen-chliara."
+                ],
+                [
+                    "Fian-sruth Find, fath cen dochta,",
+                    "togla, tana, toclimorca,",
+                    "slisnige, is dule feda,",
+                    "dera, rune romera."
+                ],
+                [
+                    "Aroisc roscada ri gail,",
+                    "'s tecusca fira Fithail,",
+                    "dublaidi dindsenchais dait,",
+                    "tecusca Cairpri is Chormaic."
+                ],
+                [
+                    "Na fessa im Feis truhn Temra,",
+                    "óenaige im óenach Emna,",
+                    "annalad and, is fir so,",
+                    "each rand rorannad Hóreo."
+                ],
+                [
+                    "Seel tellaig Temra, nach timm,",
+                    "fis cech trichat in Herind,",
+                    "bansenchas, buidne, baga,",
+                    "bruidne, gessi, gabala."
+                ],
+                [
+                    "Deich-thimna Cathair ch^taig",
+                    "dia chlaind rachaim rig-metaig",
+                    "foirb cech duine mar as dleclit",
+                    "co mbet uile 'ca eistecht. E."
+                ],
+                [
+                    "Pipai, fidli, fir cengail,",
+                    "cnamfir ocus cuslennaig,",
+                    "sluag etig engach egair,",
+                    "bdccaig ocus buridaig."
+                ],
+                [
+                    "Turcbait a fedma uile",
+                    "do rig Berba bruthmaire:",
+                    "conerne in ri ran fri mess",
+                    "ar each dan a miad diles."
+                ],
+                [
+                    "Aitte, oirgne, aidbse cheóil,",
+                    "coimgne cinte coem-clieneoil,",
+                    "a reim rig, rath dar Bregmag,",
+                    "a chath is a chruad-engnam."
+                ],
+                [
+                    "Is e sin scor ind óenaig",
+                    "on tsliiag beoda bith-foelid,",
+                    "co tabar dóib on chomdid",
+                    "talam cona cóem-thorthib."
+                ],
+                [
+                    "G Lagen iar",
+                    "nóem in chotaig, ni cloen-ró,",
+                    "ós rath-lind Charmain co caid",
+                    "affrind, slechtain, salm-gabail."
+                ],
+                [
+                    "Troscud i fagmur, fofecht,",
+                    "i Carmun uile i n-óen-Fecht",
+                    "ra Lagnib, nach sam-therc sund,",
+                    "ra anrecht, ra ecomlund."
+                ],
+                [
+                    "Clerig, laeich Lagen ille,",
+                    "mnai na ndagFer co ndemne",
+                    "Dia rofitir mar rosdlig:",
+                    "ria n-itgib ana eistid. E."
+                ],
+                [
+                    "Oegidacht ua nDrona de,",
+                    "ocus ech-thress Ossairge,",
+                    "ocus niiall fri crunnu sleg",
+                    "ón tsliiag sunnu, 'sea dered."
+                ],
+                [
+                    "Cid Firt Mesca atbermais de,",
+                    "ni hespa ni he\"craite,",
+                    "is Sengarman fiar a fer,",
+                    "is sund co cian roclaided."
+                ],
+                [
+                    "Cid uadib sin nogairthe",
+                    "etir sliiagaib samaigthe,",
+                    "rosdlecht cen daidbri is rosdlig:",
+                    "a Laigni na lecht eistid. E."
+                ],
+                [
+                    "Bath ar Fichit, is biian blad,",
+                    "i fail sliiag fo thath talman,",
+                    "'sa lin railec cor-rablaid,",
+                    "i fail sain-serc sser-Charmain."
+                ],
+                [
+                    "Secht ndumai cen taidliud de",
+                    "do chainiud marb co mence,",
+                    "secht maige tarmain cen tech",
+                    "fo chluiche Charmain chaintech."
+                ],
+                [
+                    "Tri marggaid 'sin tir treoraig,",
+                    "marggad bid, marggad beochraid,",
+                    "marggad mor na nGall ngrecach",
+                    "i mbid ór is ardd-etach."
+                ],
+                [
+                    "Fan na n-ech, fan na fuine,",
+                    "fan na mban, dal fri druine,",
+                    "fer do sluag... ngairech",
+                    "nfsmaided nisimchained."
+                ],
+                [
+                    "Fil ara nemdenam de",
+                    "maile is meth is moch-leithe,",
+                    "rig cen geri, cen grinni,",
+                    "cen feli cen firinni."
+                ],
+                [
+                    "Co se ba brfgach bara",
+                    "sliiag linmar lis Labrada;",
+                    "each sliiag nach saigthech bid secc,",
+                    "laimther ocus ni laimet. E."
+                ],
+                [
+                    "Failte ic sliiag nemda na nóeb",
+                    "dam, ic Dia delbda deg-chóem,",
+                    "ri cor-rath-buidnib nosrig:",
+                    "ri each n-athchuingid eistid. E."
+                ]
+            ],
+            "en": [
+                [
+                    "Hearken, ye Leinstermen of the graves,",
+                    "O host that rule Baigne of hallowed rights,",
+                    "till ye get from me, gathered on every hand,",
+                    "the fair legend of Oarmun high in fame!"
+                ],
+                [
+                    "Carmun, gathering place of a hospitable fair,",
+                    "with level sward for courses: —",
+                    "the hosts that used to come to its celebration",
+                    "conquered in its bright races."
+                ],
+                [
+                    "A burial-ground of kings is its noble cemetery,",
+                    "even specially dear to hosts of high rank;",
+                    "under the mounds of assembly are many",
+                    "of its host of a stock ever-honoured."
+                ],
+                [
+                    "To bewail queens and kings,",
+                    "to lament revenges and ill deeds,",
+                    "there came many a fair host at harvest-time",
+                    "across the noble smooth cheek of ancient Carmun."
+                ],
+                [
+                    "Was it men, or a man of mighty prowess,",
+                    "or woman with passionate jealousy,",
+                    "that brought the market a title not unreputed,",
+                    "and gave its proper name to noble Carmun?"
+                ],
+                [
+                    "Not men it was, nor wrathful man,",
+                    "but one fierce marauding woman —",
+                    "bright was her precinct and her fame —",
+                    "from whom Carmun got its name at the first."
+                ],
+                [
+                    "Carmun, wife of the son of fierce Dibad,",
+                    "son of right hospitable Doirche of the hosts,",
+                    "son of Ancgeis rich in substance,",
+                    "was a leader with experience in many battles."
+                ],
+                [
+                    "No supply of gain appeased them",
+                    "in their ardent desire for noble Banba;",
+                    "because they were distressed perpetually in the East,",
+                    "the children of the son of Dibad and their mother."
+                ],
+                [
+                    "They fared westward for the second time",
+                    "— Dian and Dub and Dothur, —",
+                    "from the East out of distant Athens,",
+                    "they and Carmun their mother."
+                ],
+                [
+                    "In the borders of the Tuatha De",
+                    "the folk of a hostile wedlock ravaged",
+                    "the fruit of every land to the shore:",
+                    "it was a dreadful lawless pillage."
+                ],
+                [
+                    "Carmun, by means of every spell of fame,",
+                    "destroyed all sap of swelling fruit,",
+                    "after strife waged with all arts unlawful,",
+                    "and the sons through battle and lawlessness."
+                ],
+                [
+                    "Then the Tuatha De perceived them;",
+                    "horror and hideousness betrayed them:",
+                    "for every cruel deed they did,",
+                    "the Tuatha De inflicted the like number upon them."
+                ],
+                [
+                    "Crichinbel — no deception this!",
+                    "and Lug Laebach son of Cacher",
+                    "Be Chuilli... above all battlefields",
+                    "and Ai son of Ollam,"
+                ],
+                [
+                    "The stern four, equal-strong,",
+                    "said to them on overtaking them,",
+                    "\" A woman is here to match your mother,",
+                    "three men to the brothers three;"
+                ],
+                [
+                    "\" Death to you — no choice ye would choose,",
+                    "no blessing, no lucky wish!",
+                    "or else leave with good grace a hostage;",
+                    "depart from Erin ye three only! \""
+                ],
+                [
+                    "Those men departed from us;",
+                    "stern means were found to expel them;",
+                    "though it seemed distant to them, they leave here",
+                    "Carmun — alive in her narrow cell."
+                ],
+                [
+                    "Every pledge [was given] that is not transgressed with safety,",
+                    "the sea with its beasts, heaven, earth with its bright array,",
+                    "that the strong chiefs should not come southward",
+                    "so long as the sea should be round Erin."
+                ],
+                [
+                    "Carmun, death and extinction carried her off.",
+                    "it came upon her in ungentle shape:",
+                    "she found her fate, as was right,",
+                    "among the oaks of the strong graves."
+                ],
+                [
+                    "Thither came, for the delight of her beauty,",
+                    "to keen and raise the first wailing over her,",
+                    "the Tuath De over this noble plain eastward:",
+                    "it was the first true fair of Carmun."
+                ],
+                [
+                    "The grave of Carmun, who digged it?",
+                    "do ye learn, or do ye know?",
+                    "according to the judgment of every esteemed elder",
+                    "it was Bres son of Eladu: hearken!"
+                ],
+                [
+                    "Five fair hundred four score",
+                    "years it is since then — no lie!",
+                    "from Carmun, a captive under tribute,",
+                    "to the psalm-sung birth of Jesus in human form."
+                ],
+                [
+                    "_ Four hundred two and thirty",
+                    "from the birth of Christ — not false the count!",
+                    "to Crimthand [ruler] over captive Carmun",
+                    "to Patrick great and glorious."
+                ],
+                [
+                    "Five and thirty kings in the east without a curse",
+                    "of the Leinstermen before the faith of Christ;",
+                    "the noise of them reached over Erin",
+                    "from thy sweet-omened company, O Carmun!"
+                ],
+                [
+                    "Five and fifty kings — laborious these! —",
+                    "of the warriorhood of Christendom",
+                    "from Crimthann, mark for wounds,",
+                    "to Diarmait Durgen, stout and goodly:"
+                ],
+                [
+                    "Eight sons of Galam, with the number of their hosts,",
+                    "Donn, Hir, Eber, Heremon,",
+                    "Amairgen, unvexed Colptha,",
+                    "Herech, Febria, and Erennan:"
+                ],
+                [
+                    "These were the warranties of the Fair,",
+                    "loudly acclaimed at all seasons,",
+                    "at coming in and at going forth",
+                    "without any rude hostility."
+                ],
+                [
+                    "From the Tuatha De to the children of Mil, 10&",
+                    "it was a refuge for noble ladies and princely men;",
+                    "from the children of Mil ('twas a clear fact),",
+                    "till Patrick of Ard Macha, it was a refuge."
+                ],
+                [
+                    "Heaven, earth, sun, moon, and sea,",
+                    "fruits of earth and sea-stuff,",
+                    "mouths, ears, eyes, possessions,",
+                    "feet, hands, warriors' tongues,"
+                ],
+                [
+                    "Horses, swords, chariots fair,",
+                    "spears, shields, and faces of men,",
+                    "dew, mast, sheen on leaf,",
+                    "day and night, ebb and flow: —"
+                ],
+                [
+                    "The hosts of Banba, free from enduring sorrow,",
+                    "gave all these completely [as pledges]",
+                    "that it should not lie under gloom of disputes",
+                    "to interrupt it, every third year."
+                ],
+                [
+                    "The Gentiles of the Gaels held",
+                    "often time with great acclamation",
+                    "a Fair, without law, without sin,",
+                    "without deed of violence, without impurity."
+                ],
+                [
+                    "People of Christ's baptism, conceal it not!",
+                    "hearken to him, for it is certain",
+                    "men deserve a curse the more when they depart,",
+                    "from Christ and from Christianity. j"
+                ],
+                [
+                    "Kings and saints of Erin there",
+                    "around Patrick and Crimthand:",
+                    "they it was who strictly checked every fight;",
+                    "they blessed the Fair."
+                ],
+                [
+                    "Nine fairs before the time of the active Tuatlia De",
+                    "over the borders of well-famed Carmun:",
+                    "fifty in the midst of her, quickly,",
+                    "from Herimon to Patrick. i"
+                ],
+                [
+                    "Five times forty pleasant",
+                    "glorious fairs in succession",
+                    "from Bresal Broenach without treachery",
+                    "till the final fair."
+                ],
+                [
+                    "From Crimthand pure of beauty",
+                    "to the high battle of violent Ocha",
+                    "nine right famous fairs without division",
+                    "[held] by the seed of heroic -gentle Labraid."
+                ],
+                [
+                    "Sixteen kings, I am certified",
+                    "by every sage, every glib shanachie, —",
+                    "from Carmun of the winding harbours",
+                    "did the host bring into the mighty fair."
+                ],
+                [
+                    "Eight from populous Dothra,",
+                    "a host of renown, ever boasted,",
+                    "duly held the fair of Carmun",
+                    "with pomp and with pure weapons."
+                ],
+                [
+                    "Twelve without long possession of a share",
+                    "in famous fairs, I own,",
+                    "were of the falcon-like company of valour",
+                    "sprung of the royal seed from great Maistiu."
+                ],
+                [
+                    "Five from fierce Fid Gaibli",
+                    "gathered above Carmun high in fame",
+                    "a fair rich with streamers,",
+                    "with saddles, with bridle -horses."
+                ],
+                [
+                    "Six men from Raigne of the races,",
+                    "of the seed of Bresal Brec the smiter;",
+                    "a fair-haired band for raidings of the west",
+                    "over the cheek of hundred-wounding Carmun."
+                ],
+                [
+                    "Patrick and Brigit together,",
+                    "Caemgen and Columcille,",
+                    "it is they that are warranty against every troop",
+                    "that none dare assail their own troop of riders."
+                ],
+                [
+                    "The fair of the saints in the first place,",
+                    "strength to hold it and law to direct it:",
+                    "the fair of the high kings with pure...",
+                    "it is this that comes next in order."
+                ],
+                [
+                    "The game next day of the women of Leinster",
+                    "from the radiant host — no false saying —",
+                    "womenkind not small in esteem abroad;",
+                    "this is their gathering, the third fair."
+                ],
+                [
+                    "The Laigsi, the Fothairt, enduring their fame —",
+                    "their turn was after the women's share:",
+                    "Leinster with all her treasures is theirs,",
+                    "the brave men set to guard them."
+                ],
+                [
+                    "By honoured princes there",
+                    "was held the fifth game in Carmun:",
+                    "the honourable companies of Erin, however,",
+                    "to them was firmly pledged the sixth."
+                ],
+                [
+                    "Lastly by the Clann Condla [was held]",
+                    "the game of well-protected Carmun:",
+                    "noble was the compact beyond every host",
+                    "above every triumph and high fruition."
+                ],
+                [
+                    "Seven games, as he granted to you,",
+                    "that is the charge Patrick left,",
+                    "every day for a week set apart:",
+                    "for the sake of your loved fame, steadily hearken!"
+                ],
+                [
+                    "The Leinstermen use to do on this wise",
+                    "by tribes and by households,",
+                    "from the days of Labraid Longsech, with number of hosts,",
+                    "to powerful Cathair of the red spears."
+                ],
+                [
+                    "Cathair of Carmun left nothing",
+                    "save only to his mighty offspring:",
+                    "at their head, with special wealth,",
+                    "behold the seed of Eos Failge!"
+                ],
+                [
+                    "The seat of the noble king of Argatros",
+                    "on the right of the pleasant, modest king of Carmun;",
+                    "at his left hand, with no beggarly inheritance,",
+                    "the seat of the king of bright-scioned Gaible."
+                ],
+                [
+                    "The Laigsi are descendants of the seed",
+                    "of mighty Lugaid son of Conall Cendmor;",
+                    "and the Fothairt, whom drought visits not,",
+                    "free from poverty to persecute them."
+                ],
+                [
+                    "On the kalends of August free from reproach",
+                    "they would go thither every third year:",
+                    "they would hold seven races, for a glorious object,",
+                    "seven days in the week."
+                ],
+                [
+                    "There they would discuss with strife of speech",
+                    "the dues and tributes of the province,",
+                    "every legal enactment right piously",
+                    "every third year it was settled."
+                ],
+                [
+                    "Corn, milk, peace, happy ease,",
+                    "full nets, ocean's plenty,",
+                    "greybearded men, chieftains in amity",
+                    "with troops overbearing Erin."
+                ],
+                [
+                    "Suing, harsh levying of debts,",
+                    "satirising, quarrelling, misconduct,",
+                    "is not dared during the races...:",
+                    "evasion, injunction, nor distraint."
+                ],
+                [
+                    "No men to go into an assembly of women,",
+                    "no women into an assembly of fair, pure men;",
+                    "as for elopement, it is not to be heard of there,",
+                    "neither a second husband nor a second family."
+                ],
+                [
+                    "Whoever transgresses the law of the kings",
+                    "Benen prescribed firmly for ever",
+                    "that he should not thrive in his tribe,",
+                    "but should die in his mortal sin."
+                ],
+                [
+                    "These are the Fair's great privileges:",
+                    "trumpets, fiddles, hollow -throated horns,",
+                    "pipers, timpanists unwearied,",
+                    "poets and meek musicians."
+                ],
+                [
+                    "rogar, &c. BYHSSs: corgor M. 217. sdmaj samad, &c. YS; isama M.",
+                    "Tales of Find and the Fianna, a matter inexhaustible,",
+                    "sacks, forays, wooings,",
+                    "tablets, and books of lore, satires, keen riddles:"
+                ],
+                [
+                    "Proverbs, maxims of might,",
+                    "and truthful teachings of Fithal,",
+                    "dark lays of the Dindsenchas for thee,",
+                    "teachings of Cairpre and Cormac;"
+                ],
+                [
+                    "The feasts round the mighty Feast of Tara,",
+                    "the fairs, round the Fair of Emain;",
+                    "annals there, this is true;",
+                    "every division into which Erin has been divided:"
+                ],
+                [
+                    "The tale of the household of Tara, that is not scanty,",
+                    "the knowledge of every cantred in Erin,",
+                    "the chronicle of women, tales of armies, conflicts,",
+                    "hostels, tabus, captures:"
+                ],
+                [
+                    "The ten-fold Testament of hundreded Cathair",
+                    "to his right pleasant offspring kingly of stature:",
+                    "[assigns] the estate of each man as is due,",
+                    "so that all may listen to it."
+                ],
+                [
+                    "Pipes, fiddles, gleemen,",
+                    "bones-players and bag-pipers,",
+                    "a crowd hideous, noisy, profane,",
+                    "shriekers and shouters."
+                ],
+                [
+                    "They exert all their efforts",
+                    "for the King of seething Berba:",
+                    "the king, noble and honoured, pays",
+                    "for each art its proper honour."
+                ],
+                [
+                    "Tales of death and slaughter, strains of music;",
+                    "exact synchronising of the goodly race;",
+                    "his royal pedigree, a blessing through Bregmag",
+                    "his battle and his stark valour."
+                ],
+                [
+                    "One and twenty raths — their fame endures —",
+                    "where lies the host under earth's sod,",
+                    "and their count of graveyards right famous",
+                    "where lies the beloved of noble Carmun."
+                ],
+                [
+                    "Seven mounds next, unvisited,",
+                    "for frequent keening of the dead,",
+                    "seven plains, purlieus without a house,",
+                    "under the funeral games of Carmun."
+                ],
+                [
+                    "Three busy markets in the land,",
+                    "the market of food, the market of live stock,",
+                    "the great market of the Greek foreigners,",
+                    "where were gold and fine raiment."
+                ],
+                [
+                    "The slope of the horses, the slope of the cooking,",
+                    "the slope of the women met for embroidery;",
+                    "no man of the host of the noisy [Gaedil]",
+                    "boasted of them nor reviled them."
+                ],
+                [
+                    "There comes for neglect of it",
+                    "baldness, weakness, early greyness,",
+                    "kings without keenness or jollity,",
+                    "without hospitality or truth."
+                ],
+                [
+                    "Vigorous till now has been the wrath",
+                    "of the numerous hosts of Labraid's keep:",
+                    "every host that is not aggressive is sapless,",
+                    "men dare, and they dare not."
+                ],
+                [
+                    "A welcome with the heavenly host of the saints",
+                    "for me, and with God, beautiful, noble, and kind!",
+                    "the King with blessed hosts offers it;",
+                    "to every supplication he hearkens."
+                ]
+            ],
+            "incomplete": [
+                324,
+                296
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "ess-ruaid",
+    "name_mir": "Ess Ruaid",
+    "name_ga": "Eas Aodha Rua",
+    "name_en": "Assaroe Falls, Ballyshannon",
+    "county": "Donegal",
+    "county_ga": "Contae Dhún na nGall",
+    "kind": "waterfall",
+    "confidence": "certain",
+    "precision": "approximate",
+    "reviewed": false,
+    "note": "The falls on the Erne at Ballyshannon were submerged by the hydro-electric scheme of the 1950s.",
+    "note_ga": "Báthadh an t-eas ar an Éirne ag Béal Átha Seanaidh faoin scéim hidrileictreach sna 1950idí.",
+    "wikipedia": "Ballyshannon",
+    "wikipedia_ga": "Béal Átha Seanaidh",
+    "logainm": "13830",
+    "images": [
+        {
+            "file": "img/ess-ruaid-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Ballyshannon_in_the_Morning_Sun_2012_09_17.jpg",
+            "author": "Andreas F. Borchert",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "Ballyshannon in the morning sun.",
+            "date": "2012-09-17"
+        },
+        {
+            "file": "img/ess-ruaid-2.jpg",
+            "era": "historical",
+            "source_url": "https://commons.wikimedia.org/wiki/File:River_and_weir_at_Ballyshannon_(21318965668).jpg",
+            "author": "National Library of Ireland on The Commons",
+            "licence": "No restrictions",
+            "licence_url": "https://www.flickr.com/commons/usage/",
+            "caption": "Leaving the French nobility behind, today we visit rural Ireland in the Stereo Pairs collection. This fine view of a river with bridge and weir has a super POV and is very nicely composed. The masses ",
+            "date": ""
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 81,
+            "title": "Ess Ruaid",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 16 (1895)",
+            "pages": null,
+            "scan": "https://archive.org/details/revueceltiqu16pari",
+            "ga": [
+                "(Lee. p. 49 8b).",
+                "Eas Ruaid, canas rohainmniged?",
+                "Ni ansa. Aed Ruad mac Baduir[n]d ri Erind robaided and oc faircsin a delba [p. 49 9a] oc snam an esa, a quo Eas Ruaid nominatur. Is e a sid, Sith iEda, ar ur an easa.",
+                "Aliter: Ruad ingen Maine Milscoith meic Duinn Desa doroega Aed2 mac Labrada Leisbric meic Roga [Rodaim]. Is as taim'c a hilathaib Maigi Maein. I curach creduma Abcain3 eigis tairac 7 a lam cle fri hErind. Dia luid la Gaeith mac Gaisi Glaine do aenach Fer Fidga tuarcaib a seol creda fora churach ind n-ingen, 7 doluid a[o]enur isin n-inbear, cwus-faca JEd [don tsuidiu ir-raba, 7 ni fidir Aed] cia bae in ingen, [7 ni fitir in ingen] cia tir inda- raba, co cuala dord na samguba4 isinn mbiur nach cuala nech [riam], 7 asbert: ‘Bid he seo inbtr bus ainiu i n-Erind,’ 7 dothuill 5 'na suan, 7 dolig6 tar bruindi a lunga, cor' baidead. Coma de asbearar Eas Ruaid.",
+                "No comad o iEd Ruad mac Baduirn.i. o rig Erenn 110- hainmnichthea dia rofelleastaír ara oclach ina thuáristal, dia brisistair na reanna aicsidi 7 nemaicsidi fair, coro greis in t-oclach na curu i cenn in rig.i. muir 7 gaeth 7 grian 7 eoitheoir 7 firmaimint, cor' thogair JEd tre theasbach dul 'san cas da tbthrucud r. Eas nDuinn meic Cubain meic Bili a hainm roime sin nocor'baithead JEd tre firt mara 7 morgaithi. Unde diciliiv Eas Ruaid.",
+                "§§ 1-3 are also in LL. 1654: BB. 3 9 1 b 25; and H. 50*. Bodl. no. 42. The curious § 4 is found only in Lee. Versified, LL. 213a 22. Edited from BB. in Silva Gadelica, II, 479, 52b: from Bodl. in Folklore, III, 505.",
+                "Ess (Aeda) Ruaid, the salmonleap at Ballyshannon, co. Donegal, is anglicised Assaroe."
+            ],
+            "en": [
+                "It was Aed Ruad, son of Badurn, king of Ireland, that was drowned there while gazing at his image and swimming the rapid. From him Es s Ruaid ‘Ruad's Rapid’ is named. His gravemound, Sid Aeda, is on the rapid's brink.",
+                "Aliter: It was Ruad, daughter of Maine Milscoth son of Donn Desa, who chose Aed [R6n] son of Labraid Lcsbrccc, son of Roga Rodam. Where she came from was out of the ilatha(?) of Mag Maen. In Abcan the poet'.s boat of bronze she came, with Ireland on the larboard side2. Whenshe went with Gaeth, son of Gaes Glan, to the assembly of the Men ot Fidga the girl hoists her sail of tin on his boat, and entered the inver alone. Whereupon Aed saw her from the seat lie occupied, but lie knew not who the girl might be, and she knew not what land she was in. In the inver then she heard the mermaid's melody which none had ever heard, and she said: ‘This inver is the noblest in Erin!’ And she fell asleep (at the music), tumbled over the bow of her boat, and was drowned. Hence is said Ess Ruaid.",
+                "Or it may have been named from Aed Ruad son of Badurn, king of Ireland, when he defrauded his champion concerning his stipend, and broke upon him the stars, visible and invisible 3. Thereupon the champion incited against the king the surcties, to wit, sea and wind, sun, ether and firmament, andcallcd Aed, by means of(the sun's)sultriness, to enter the rapid and bathe. Ess Ditinii ‘the Rapid of Donn, son of Dubán, son of Bile’ had been its name before that, till Aed was j. I do not understand this. It is probably an idiom denoting a gross breach of faith.",
+                "drowned (therein) by a miracle of sea and mighty wind. Hence Ess Ruaid ‘(Aed) Ruad's Rapid’ is said.",
+                "A brief dindsenchas corresponding with £ 2 is found in LL. 2ob 10: Aed Ruad tri atbath dib artús.i. badud robáded i n-Es-ruaid, 7 co tucad a chorp issin sid sin. Unde S'd n-yEda 7 Ess Rúaid. ‘Nowofthem Aed Ruad was the first to die, to wit, he was drowned a drowning in Assaroe, and his body was brought into that sid. Whence ‘Aed's Sid ‘and ‘Ruad's Rapid’. As to boats of bronze, see above, nos. 5 and 45; and cp. the lungine crédume in LU. 45;l.",
+                "According to the poem in LL. 213, the object of the lady Ruad's hapless love was Aed Rón son of Imchad (dia tue in morgrad mada | d'Aed Róu mar mac Imchada).",
+                "For another instance of the action of the sun and wind when given as sureties (ratha), see LU. 1 58b, Rolls Tripartite Life, p. 567."
+            ],
+            "notes": []
+        }
+    ]
+}

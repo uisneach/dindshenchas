@@ -1,0 +1,220 @@
+{
+    "id": "port-lairge",
+    "name_mir": "Port Láirge",
+    "name_ga": "Port Láirge",
+    "name_en": "Waterford",
+    "county": "Waterford",
+    "county_ga": "Contae Phort Láirge",
+    "kind": "settlement",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Waterford",
+    "wikipedia_ga": "Port Láirge",
+    "logainm": "1383828",
+    "images": [
+        {
+            "file": "img/port-lairge-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Waterford_by_night.jpg",
+            "author": "Typhoon",
+            "licence": "CC BY-SA 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "caption": "Waterford by night",
+            "date": "2007-07-07"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 42,
+            "title": "Port Lairge",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                429
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/429/mode/1up",
+            "ga": [
+                "Port Lairge, cxnas ïoainuiuicd?",
+                "Ni ansa: Vqous dolúidh Roth mac Cithaing meic righ Indsi Aine a tirib iat[h] Fomorach Li haircing 5 tire do cuairt coi- crich, co cimla anni, dord na mwrduchanndo Muiricht. Rolmrdidh forsin fairgi co comtarnaig f/'iù. Issed fuath atcondairc ann, na mí<rduchaind.i. ingena macdachta as coeme cruth 7 denum, co mongaib buidhe, co c[n]essaib gela ùas ulscib léo. Méimhir oen na tular/; daw in t-ichdar brothwHuibnech biastaide- dofil léo fo uísgib. Cechnadar dord n-amra doRoth, co rotuil súan, com‘-dailsed na piassda ina dóchcum 7 nambrethcd i n-aigib, 7 faidhid in muir a Idairg [liijsunda, 7 notalladh 61 cet a mael a chnamha. Unde Fort Lairg[e] 7 assin rofoillsig Maen mac Etna:",
+                "Cur croderg cet n-ilach bréo dána bar niad iath Aine truagh 3 airle techt turthaid céim 4 cechaing",
+                "(ecbt ïordail goth nathzr bas bosgill fore guba.",
+                "fit m///Vbri;zd ceol tuilsi 5 os Ich[t]-muir dord duchand drecht nurgart dith n-senmaic cruaidh Cithaing Roth comainm triath araich min[a]airlech codh m[b]íasda tonn turchur iath nElga coït mbodba/ mul mácha sorb sulmer slis comfat tocht troimfer lón lairci lecht miled dian magus9 port curadh.",
+                "[coir ceachaing ar cach bac‘r.] Cur."
+            ],
+            "en": [
+                "Once upon a time Roth son of Cithang, son of the king cf. Inis Aine, went from the lands of the Fomorians' countries, with the chieftain of the land to go round his boundary, when he heard somewhat, the burden of the mermaids of the Ictian",
+                "I.",
+                "m R.",
+                "6.",
+                "ndelga R.",
+                "2.",
+                "sic BB. bíasddighe R.",
+                "7 • mbadha R.",
+                "•> truadh R.",
+                "8.",
+                "slorb R.",
+                "4.",
+                "*céin R.",
+                "9- sic BB. and Lee. madhar R.",
+                "S.",
+                "duilsi?/5 R.",
+                "Sea. He rowed on the sea till he met them. This is the apparition that he beheld there, the mermaids, to wit, grown-up girls, the fairest of shape and make, with yellow hair and white skins above the waters. But hus;er than one of the hills was the hairy-clawed bestial lower part which they had beneath. They sang a wonderful burden to Roth, so that he slept a sleep. Then the monsters flocked towards him, and they carry him ofF in joints, and the sea sends his thigh here (to Port Ldirge), and the drink of a hundred would fit on the flat of its bone. Hence Port Làirge ‘Port of the Thigh’, and 'tis that which Maen son of Etain made manifest [in the foUowing poem:]",
+                "A bloodred champion of hundreds of paeans, the bold flame of your heroes’, etc. ^"
+            ],
+            "notes": [
+                "Also in BB. 372b: H. 26’ and Lee. 470’. A variant in LL. 169’ 11 and Bodl. no. 24.",
+                "Port Lairge now Waterford. Mu'ir nlcht the Channel between England and France. Inis Aine not identified.",
+                "Miirducljaimi. A synonymous samguha occurs infra. In the description of the mermaids and the effects of tlieir song, the Dindsenchas agrées with Physiologus; see Médiéval Lorc, 1893, p. 136."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Port Lairge",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                190,
+                193
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/190/mode/2up",
+            "ga": [
+                [
+                    "Fil sund aige do churp rig;",
+                    "dafuc saile dar srib-gnfm",
+                    "fri soer-seirc sith-baill suilig",
+                    "oen-meicc Cithaing cet-guinig."
+                ],
+                [
+                    "A hlnis Aine na n-arg",
+                    "rue Rot a baire bith-garg,",
+                    "in taur testa each thfre:",
+                    "ba caur cnesta cocrfche."
+                ],
+                [
+                    "Etir tir ocus tuind tig",
+                    "cechaing mac in duind deinmig:",
+                    "a chle fri muir nlcht n-etal,",
+                    "a dess fri bruig mbuan-Bretan."
+                ],
+                [
+                    "Cociiala in fagur andsin,",
+                    "ropo magur co mor-nim,",
+                    "muirn na mur-duchand mara 1",
+                    "ós na tonnaib tocb-glana."
+                ],
+                [
+                    "Caine suire fri each seilb;",
+                    "ba caime cech duine-deilb",
+                    "a cuirp ós tonnaib tuile,",
+                    "cona mongaib ór-buide."
+                ],
+                [
+                    "Tuilfitis s!óig in betha",
+                    "ria ng!óir is ria nglan-gretha:",
+                    "nistibred im baig mbithe",
+                    "dail fria cness fria cóem-chiche."
+                ],
+                [
+                    "Ina mbid fo uisce dib",
+                    "ropo cnuiscle cen chain-brig:",
+                    "metithir tulaig tend-glain",
+                    "do muraig do mór-femnaig."
+                ],
+                [
+                    "Tuc mac Cithaing sain-seirc sair;",
+                    "ni frith sere do 'na chommain:",
+                    "fuair Rot, cen gre\"s ria nguide,",
+                    "olc ba bós don ban-chuire."
+                ],
+                [
+                    "Romuchad, romarbad Rot,",
+                    "is rodamnad a dond-chorp:",
+                    "cen bad buidech, mar baigid,",
+                    "dia bith marb 'na min-aigib."
+                ],
+                [
+                    "Doriacht anair dar sal seng",
+                    "corogab iath-port nErenn",
+                    "larac ós bund, mar baige,",
+                    "cp fil sund a sóer-aige."
+                ],
+                [
+                    "Desin is raitte each iath",
+                    "Port Lairgge nal-lethan-sciath:",
+                    "daine is dian ar gurt mad glecc",
+                    "doig is lucht fial co failet. F."
+                ]
+            ],
+            "en": [
+                [
+                    "There is here a limb from the body of a king:",
+                    "over the streaming currents the sea bore him",
+                    "towards the noble love, long-limbed, winsome,",
+                    "of hundred-wounding Cithang's only son."
+                ],
+                [
+                    "From Inis Aine of the heroes",
+                    "Rot ever-fierce, won his goal,",
+                    "the chieftain renowned in every land:",
+                    "he was a gentle border-champion."
+                ],
+                [
+                    "By land and fair sea alike",
+                    "fared the idle prince's son;",
+                    "his left hand to the pure Ictian Sea",
+                    "his right to the country of enduring Britons."
+                ],
+                [
+                    "And there he heard the sound,",
+                    "it was a lure of baleful might,",
+                    "the chant of the mermaids of the sea",
+                    "over the pure-sided waves."
+                ],
+                [
+                    "The loveliness of the sea-maids equalled any wealth:",
+                    "fairer than any human shape were",
+                    "their bodies above the waves of the tide,",
+                    "with their tresses yellow as gold."
+                ],
+                [
+                    "The hosts of the world would fall asleep",
+                    "listening to their voice and their clear notes;",
+                    "Rot would not give up for woman's troth",
+                    "union with their bodies, with their pleasant bosoms."
+                ],
+                [
+                    "As much of them as was under water —",
+                    "it was a secret with no kindly power —",
+                    "was big as a broad bright hill",
+                    "of shell-fish and heaps of weed."
+                ],
+                [
+                    "The son of Cithaing gave strong fervent love:",
+                    "no love was got in return;",
+                    "Rot found, without persistence in beseeching them,",
+                    "the evil fate that was the custom of the women-folk."
+                ],
+                [
+                    "Choked and killed was Rot",
+                    "and his noble body overcome,",
+                    "without being satisfied, as ye may guess,",
+                    "by his being dead and torn piecemeal."
+                ],
+                [
+                    "There came from the east across the narrow sea,",
+                    "till it found a level shore of Erin,",
+                    "a thigh-bone, from the sole upward, as thou mayest guess,",
+                    "so that here rests his noble limb."
+                ],
+                [
+                    "Therefore to be told of in every land",
+                    "is Port Lairge of the broad shields;",
+                    "men that are swift in the field if there be strife,",
+                    "it is likely that they are generous folk."
+                ]
+            ]
+        }
+    ]
+}

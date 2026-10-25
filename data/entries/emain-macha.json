@@ -1,0 +1,63 @@
+{
+    "id": "emain-macha",
+    "name_mir": "Emain Macha",
+    "name_ga": "Eamhain Mhacha",
+    "name_en": "Navan Fort",
+    "county": "Armagh",
+    "county_ga": "Contae Ard Mhacha",
+    "kind": "royal site",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Navan Fort",
+    "wikipedia_ga": "Eamhain Mhacha",
+    "logainm": null,
+    "images": [
+        {
+            "file": "img/emain-macha-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Navan.jpg",
+            "author": "Jon Sullivan",
+            "licence": "Public domain",
+            "licence_url": null,
+            "caption": "Navan Fort, County Armagh",
+            "date": "2002-06-21"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 161,
+            "title": "Emaix Mácha",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 16 (1895)",
+            "pages": [
+                279
+            ],
+            "scan": "https://archive.org/details/revueceltiqu16pari/page/279/mode/1up",
+            "ga": [
+                "(LL. 20*46).",
+                "Cid dia ta Emain Mácha?",
+                "Ni ansa. Tri ris; bdtar ior Her//z?z i comtlathiw. Do Ultail* lb dóib.i. Dithorba mac Dimmdin a hUsniuch Mide, Aed Rúad mac Baduirn mfl/c,Argaitmair a Tir Aeda, Cimbaeth mac Fin- tain meic Argatmair a Finnabair Maige Inis. Doniat córa iarum na rig sin, [20b i] secbt mbliadna car/; fit dib ir-rige. Tri secbt mbliadna. Ratha et//rru secbt iidruid, secbt filid, secbt n-ócthig/rn. Na secht ndruid dia rimsad tria bric[h]tu. Na secbt filid dia nglamad 7 dia n-erraacra, 7 na secbt tóisig dia rïguin l 7 dia loscud meni tacbad in fer dib in rige i cind secbt mbliadan: co cornet fir flatha.i. mess car/;a bliadne 7 cen meth rúamna cecb datha 7 cen mna d'écaib de banaidid.",
+                "Timchelsat teora cúarda cecb fir dib ir-rige.i. lxiii. 2. Aed Ruad tri atbath dib artús À. badud robaded i n-Es-Ruaid, 7 co tucad a chorp issin sid-sin. Unde Sid n-Aeda 7 Ess-Rúaid. Ni fargaib in t-Aed sin claind acht oen ingen.i. Mácha Mongrùad a hainm-side. Gwattaig-side sel a hathar don rige. Atbrrt Cimbaeth 7 Dithorba ni thibrnàis rige do mnai. Fechta cath etwrru 7 maidid in cath re Mácha. Dorumalt secbt mbliadna ir-rige. Dorochair Dhhorba i Corund íóisede. Fordcaibsede cóic mtfccu maithe.i. Baeth 7 Bras, Bétach 7 Uallach 7 Borbchas. Conatchetar sede rige. Atben Mácha na tibred dóib, ami ó ráthaibtuc, ac ht ar roi chatha arécin. Fecta cath et‘rru. Brissis Mácha in cath ïor mflccaib Dithorba co fargaibset dr cend aicce. Co ro chuir iat ar innarba iartain i ndithrubaib Co;macht. Tue Mácha iarsain Cimbaeth chucci do chéile di 7 do thaisigecht a 5 amsaige imme.",
+                "O robatar oentadaig tri Mácha 7 Cimbaeth, luid Mácha do iarair mac nDithorba ir-richt chlaimsige.i. táes secail 7 rota racomled impe, conos-fiuair i mBairind Co?/nacht oc fune tuirc allaid*. IArfaigit na fir scéla di, 7 innissid si dóib, 7 dobmtt biad di 'con tenid si. Atbe ir fer dib: ‘Is alaind rose na calligi: óentaigem fria.’ Nos-beir-side leis fon caillid. Cenglaidsi in fer sain al-lus nirt, 7 facbaid é 'sin chaillid. Tic-si doridisi don tenid. ‘Cade in fer dachoid latt?’ ar siat. ‘Mebol lais,’ ar si, ‘tiachtain chucaibsi 'ar n-oentugud friclaimsig.’ ‘Ni ba mebol,’ ar iatsum, ‘ar dogenamni uli a cetna.’ Nos-beir car/; fer fon caille. Cenglaid-si car/; fer dib ar niurt, ocus nos-beir i n-oencheiigul lé iat co hUltu. AsWrtatar Ulaid am-marbtfi. ‘Ni thó,’ ar sisi, ‘ar is coll fir flatha damsa, acht a ndoirad fo dóire 7 claidet raith immumsa, corop hi bas p/ïmchathir Ulad co brath.’",
+                "Coro thóraind-si dóib in dún cona heo (.i. delg) óir imma muin.i. Emuin.i. eo muin.i. éo imma muin Mácha. Coic bliadna ar.cccc. ria rigein Christ ocus.1. blkdan aile ar.cccc. [2ia 1] 6 gein Crist co twrscur Emna Macba (i. co tuttim d'Ultu co Airgialla) dona tri Collaib iar rhbrissiud chatha Achaid Lethdeirg i Fernmaig, i torchair Fergw Foga mac Fraichair Fortren, tiugflaith Ulad i n-Emain Mácha."
+            ],
+            "en": [
+                "There were three kings over Erin in joint-sovranty. Of the Ulaid were they, even Dithorba son of Dimmdn, of Usnech of Meath, Aed the Red, son of Badurn, son of Argatmar, from Tir Aeda, and Cimbaeth, son ofFintan, son of Argatmar, of Finnabair of Mag Inis. Now those kings make an arrangement that each of them should be seven years in the kingship. Thrice seven years. The sureties between them were seven druids, seven poets, seven captains. The seven druids to bewitch (?) them l by means of spells: the seven poets to satirise them and denounce them, and the seven chieftains to wound and burn them, unless each man of them should give up the kingship at the end of his seven years, with safeguarding a prince's truth, to wit, mast every year, and no failure of dyestuff(?) of every colour, and no women to die in childbed.",
+                "Each man of them took three turns2 in the kingship, that is, sixty-three (years in ail). Now Aed the Red was the first ot them to die: he was drowned a drowning in Ess Rúaid (‘Ruad's cataract’), and his body was borne into the elfmound there. Hence Sid n-Aeda (‘Aed's Elfmound’) and Ess Rúaid. That Aed left no children save one daughter, whose name was Mácha of the Ruddy Haïr. She demanded her father's turn of the kingship. But Cimbaeth and Dithorba would not surrender the kingship to a woman. So a battle is fought between them, and Mácha routs them in the fight. She spent seven years in thekingship. Dithorba fell in Corann at that time. He left five noble sons, namely Baeth and Bras, Bétach and Uallach and Borbchas. Theyclaimed the kingship; but Mácha said that she would not surrender it to them because it was not from sureties that she had got it, but by force on a foughten field. So a battle was fought between them, and Mácha routed Dithorba's sons, and they left with her a ‘slaughter of heads’. Thereafter she banished them into the déserts of Connaught. Then Mácha took Cimbaeth to be her husband and to lead her soldiery for her.",
+                "So when Mácha and Cimbaeth were united, Mácha went to seek Dithorba's sons in the guise of a lepress — that is, ryedough and red bog-stuff were rubbed over her — and she found them in Boirenn Connacht (around a fire), cooking a wild boar. The men ask tidings of her, and she tells them (the news), and they give her food by this fire. One of them says: ‘Beautiful is the hag's eye! let us lie with her.’ He carries her off through the wood. She binds that man by dint of her strength and in the wood she leaves him. She cornes again to the fire. ‘Where is the man who went away with thee?’ say they. ‘He is ashamed,’ quoth she, ‘to corne to you after lying with a lepress.’ ‘'Tis no shame,’ say they, ‘for ail of us will do the same.’ So each of them carries her through the wood, and she binds each of them by force, and brings them in one bond to Ulster. The Ulstermen said that they should be killed. ‘Nay,’ quoth she, ‘since it would be for me a violation of a prince's truth. But let them slave in slavery, and dig a rath around me, so that it may be Ulster's chief city for ever.’",
+                "Then she marked out the fortress with her brooch (eo) of gold that was at her neck (mudri). Hence Emuin, that is, eonut'ni, the eó that was at Mácha' s initia.",
+                "Four hundred years and five (was this) before the birth of Christ, nnd (there were) fifty other years and four hundred from the birth of Christ to the severance of Emain Mácha (i. e. after its fall from Ulster to Oriel) by the three Collas after they won the battle of Achad Lethdeirg in Fernmag, where- in fell Fergus Foga son of Fraichar Fortrén, the last prince of the Ulaid (who reigned) in Emain Mácha."
+            ],
+            "notes": [
+                "Edited with the exception of the last paragraph by O'Curry in his Lectures on the MS. Materials of Ancient Irish History, pp. 526-528. See F. M. A. M. 4532.",
+                "Emain Mácha, now the Navan Fort, two miles west of Armagh. See the",
+                "Macha's smearing herself with rye-dough and red bog-stuff has been supposed to be one of thesavage punapal Kyveïai discussed by Mr. Andrew Lang in his Myth, Ritual and Religion, I, 285-286. But here it seeras only a means of disguise. Compare the Boroma, Rev. Celtique, XIII, 80, where Rón Cerr disguises himself with rve-dough and calPs blood.",
+                "Fernmag now Farney. The battle of Achad Lethdeirg was fought A.D. 321 or 322.",
+                "‘Safeguarding a prince's truth, to wit, mast every year’, etc. Compare the Odyssey, XIX, 109."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "id": "sliab-mis",
+    "name_mir": "Slíab Mis",
+    "name_ga": "Sliabh Mis",
+    "name_en": "Slieve Mish Mountains",
+    "county": "Kerry",
+    "county_ga": "Contae Chiarraí",
+    "kind": "mountain",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Slieve Mish Mountains",
+    "wikipedia_ga": null,
+    "logainm": null,
+    "images": [
+        {
+            "file": "img/sliab-mis-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Baurtregaum_NW_Top.jpg",
+            "author": "Stephen Murphy",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "Baurtregaum NW Top, Kerry, Ireland",
+            "date": "2010-06-21"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 51,
+            "title": "Slíab Mis",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                445
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/445/mode/1up",
+            "ga": [
+                "Sliab Mis, canas ro aintnniged?",
+                "Ni ansa. Mis ingen Mairedha, ben Caeimgin Congancnis meic Degad, is di tucad Sliab Senaig Gairb meic Degad ina toc/;ra 7 ar airisem 'go a lir treis na himirce dia tanic Eochaid 7 Rib da mac Ma/reda meic Cairedha, a qu'ibus Loch nEchach",
+                "446 Whitley Síokes.",
+                "7 Loch Ri, cundased forb forsa rir Mis atliarda, in sliab ucat. Unde Sliab Mis.",
+                "Ailit‘'; Sliah Mis no Sliab Mifis, ar a ni ba mifis.i. ba hanfis do macaib MUed in sluag dolfa fnth ann la Fodla 7 Banba 7 Eriu."
+            ],
+            "en": [
+                "Mis dauglíter of Mairid son of Cairid and wife of Coimgen Hornskin son of Dega. 'Tis to her the mountain of Senach the Rough son of Dega was given as her dowry and for staying with her husband after the flitting (of her family) when Eochaid and Rib, Mairid's two sons (a quibus Lough Neagh and Lough Ree) set forth. So that the land for which Mis bartered a patrimony, is yon mountain.",
+                "Otherwise, Sliab Mis or Sliab-Ml-fis, because the magical army, there devised by Fodla and Banba and Eriu, was a mi-fis ‘mis-knowledge’, that is, was a delusion, to the sons of Mil."
+            ],
+            "notes": [
+                "Also in BB. 3 76b 49: H. 30^: Lee. 474'^. A version of § 2 in LL. i68b 19: Bodl. no. 17; and Ed. fo. 3* 2. See too Silva Gadelica, II, 485, 532.",
+                "Sliah Mis now Slieve Mish, a mountain in Kerry, between Tralee and Killarney.",
+                "For the story of the elopement of Eochaid and Rib see LU. 39=^-39'', and the dindsenchas of Loch nEcliach, Ed. no. 55: BB. 390-’: H. 49a; and Lee. 4962(edited from Ed., Folklore, IV, 474); see also infra no. 79.",
+                "As to Fodla, Banba and Ériu, the three queens of the Tuatha dé Danann, see the Four Masters, A. M. 3500 and O'Mahony's Keating, p. 198. The spectral army conjured up to resist the sons of Mil is referred to in the Franciscan Liber Hymnorum p. 38, cited in the Rolls Tripartite Life, p. 426."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Sliab Miss",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": null,
+            "scan": "https://archive.org/details/toddlectureserie10royauoft",
+            "ga": [
+                [
+                    "Miss, ingen Maireda muaid,",
+                    "male Caireda claideb-ruaid,",
+                    "rogab sliab 'n-a selb-raind sain",
+                    "co cian ós derb-chlaind Dedaid."
+                ],
+                [
+                    "Dia farcabsat crich inaic Sin",
+                    "clanna Maireda mor-mir —",
+                    "Echaid is Bi, rigda in scor,",
+                    "barr-thus dirma cen dochor,"
+                ],
+                [
+                    "Ba soer-ben sliiaig co saine",
+                    "do Choemgen chriiaid chongnaide,",
+                    "Miss, fuair, cen a dedail de,",
+                    "sóer-druim Senaig 'n-a slaibre."
+                ],
+                [
+                    "Senach garb mac Dedaid dein,",
+                    "is and ba marb forsin tsleib:",
+                    "and fail fo thath fo thuba",
+                    "a rdth is a roen-guba."
+                ],
+                [
+                    "Fuair Miss ós dairib na nddm,",
+                    "ingen Mairid co mor-grad,",
+                    "fri fosnaidm, cen deine ndiss,",
+                    "sogairm soer sleibe sen-Miss. M."
+                ]
+            ],
+            "en": [
+                [
+                    "Miss, daughter of mighty Mairid",
+                    "son of Cairid Bed- Sword,",
+                    "took a mountain as her own special portion",
+                    "for ever over the genuine line of Dedad."
+                ],
+                [
+                    "When the children of great, active Mairid &",
+                    "left the land of the son of Sen —",
+                    "(Echaid and Ki, royal the band,",
+                    "first beginning of a host free from mischance) —"
+                ],
+                [
+                    "Coemgen, stern ally,",
+                    "had to wife a noble woman chosen from the host, 1C",
+                    "Miss, who obtained, never to part from it,",
+                    "the noble hill of Senach as her bride-gift."
+                ],
+                [
+                    "Fierce Senach, son of keen Dedad,",
+                    "it is there he died, on the mountain:",
+                    "there close covered by the sod is",
+                    "his rath, with the wail for his defeat."
+                ],
+                [
+                    "Miss, the much-loved daughter of Mairid.",
+                    "above the thickets of the troops, acquired",
+                    "by covenant, with eagerness not slight,",
+                    "the noble, lucky title of the mountain of Sen-Miss."
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1674 @@
+{
+    "id": "temair",
+    "name_mir": "Temair",
+    "name_ga": "Teamhair",
+    "name_en": "Hill of Tara",
+    "county": "Meath",
+    "county_ga": "Contae na Mí",
+    "kind": "hill",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Hill of Tara",
+    "wikipedia_ga": "Teamhair",
+    "logainm": "1410576",
+    "images": [
+        {
+            "file": "img/temair-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Collinaditara.jpg",
+            "author": "Patrick Brown",
+            "licence": "CC BY-SA 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "caption": "The Hill of Tara, County Meath",
+            "date": "2005-08-29"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 1,
+            "title": "Temair",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": null,
+            "scan": "https://archive.org/details/revueceltique15pari",
+            "ga": [
+                "§ I. Temair d'idiu, ol Amorgein, múr Tea ingine Lu'igdech mie Itha dia luidh co Geidhe n-Ollgothach. Is ina flaith sein ba bind[ithjir la cách nduine i n-Ere guth aroile bedis téda mendcrot ar méd in sidha 7 na cairdine bói la cdch diaroile ind Ere. Comdh aire is sruithiu - cach múr in múr sin, fobith hit é cétnai saorchu[i]r Erend, cuir Tea inghine Luïgdech fri Gefdhe n-Ollgothach.",
+                "§ 2. Nó Temhair.i. Teipc múr.i. múr Teiphis ingine Bachtir ri Espainia, is hi bai ac[C]anthon mac [CJaithmend ri Breatan conïd romarb occo si, 7 doradudh Heithiurún idhal na mBretan friataisecc go mba béo nó marb. Ruccrti/ sidhe iarum iarna bds co hEspain co ‘dernadh múr impe and.i. Teipe múr, Atro;niairc Tea dïdiu ben Eirimoin insin.i. múr Te- phis. Luid-sidein co hEirind le fear 7 dohardh. [fo. 90- 2] di cacb tulach toghadh in E'mnii, conïà le mnini ronarnecht mur amail múr Tephis, coiïid inde rohadhnacht. Unde Temair dicitur.",
+                "§ 3. Temhair 7 Druim Cdin 7 Liathdruim 7 Cathair Cro[f]ind, Druim nDéscm.u. anmanda Temrach indsin.",
+                "§ 4. Vel ita: Temair a uerbo graeco temorio quod latine interpretatur conspicio. Huius oppidi quod Temoriam uocamus nomen esse deriuatum auctores affirmant; omnisque locus conspicuus et eminens, siue in campo, siue in domo, siue in quocumque loco sit, uocabulo quod dicitur Ten/r nominari potest.Sic in prouerbio scotico reperitur, ut dicitur temnV na tuaithl et Temair in toighi, quam sententiam in suo Silentio Cormaccus de hoc nomine disputando possuit. Hoc 5 igitur oppidum multorum sibi commune uindicat, nunc cunctis enim Hibernensibus oppidisexcellens congrucnter eorum commune uocabulum possidet, quippe cum huius rector usque [hodie] totius insolae Scotorum monarchiam sortitur-.",
+                "Liathdruim ‘Grey-ridge’ and Caíhair Crofinn ‘Crofinn's city y> and Druim nDéscen ‘Prospect Ridge’ those areTara's five names.",
+                "§ 5. Nemnach-.i. tipnt lil ocon tsidh ind oirrtéTtuaiscrt na Temrach. Glais dono teid a Nemnaigh 5.i. Nith a hainm. Is fuirre ata in ccYna muilend doronadh ind Ere la Ciarnait cumhaiH Cormaic.",
+                "§ 6. Lathrach tighi Mairisen fil osin tsidh fri Nemnaigh atuaidh, 7 tri clocha becca [imbe]. Is amlaidh rosuidh[ig]edh in tech sin, lar ard 7 tùaradh airiseal. Mairiseo do;w bantreabtach hx i comré 5 fri Cormnc. Cach tech su'idigthir in tucht sin ni ba duaibseach 7 ni bia cen ana and.",
+                "§ 7. Raith Loeguirc m/c Neill fri sodhoin atúaidh. Cethri doirtsi ach ardx indti, 7 rosuidigt'rf [corp] Lasgw/Ve fo sciatht;aiss;iudh f/isin clodh imechtrach n-airt/;é'/'deiscf;'Wr/; na rihratha Loeguirc hi Tcmraig 7 a aghaidh fodes ic cathugud fri Laighniu.i. fri claind Breasail Bricc.",
+                "§ 8. Ata hi tdob ratha Loeguire anairdes lecht Niata morglondaigh.i. iimus bratbfrtach robai hi foil Cormaic. Robadr Idann cethrar- ócclóech ic ckiichi5 hi taob ratha Loegw/n anoirdes. Foeruirim Niata a.iiii. dar cuimgib al-les hi talamh.",
+                "§ 9. Rath rig hi tœb ratha Lxguin atuaidh. Atdt tri deccra i suidhiu.i. lathrach tighi Cormaic ind ort/;rdescgrf na ratha il-leith fri raith Lxguin fodes: lathrach in forraid hi tasb lathraige4 tigi Cormaic anoir. Mur Tea [eturru] il-leith fodes, conid dosam rohainmnig'i Temair À. Tea múr.i. in cnoc becc fil etcr na da múr i Icith buddes is and ata.",
+                "§ 10. Caprach Corma/c.i. tipra fil fo tíeb Ratha na rig anoir; 7 tri hanmand fuirre.i. Liaig 7 Tipra bo finde 7 Derc dub. Is de ata ‘ni tast a lasg go liaigh’ [.i.] indara n-doi a Temraig soir 7 aroile a Temrai siar.",
+                "§ II. Duma na Bo.i. glass> Temnïr/; fri duma [na n Giall] aniar.",
+                "§ 12. Duma na nGiall fri lathrach in fwraidh inairtuaidh,",
+                "§ 13. Fal hi taeb Dama; na nGiall atùaid.i. in cloch no geiss fo chosaib car/; rig nogeibedh Hériiui. [p. 90'' 2] Fal ainm na cloichi sin.i. fo-ail.i. ail fo righ.",
+                "§ 14. Lecht Con 7 Cethin isin leitir hi coma.rdus Katha na rig siar. Atat di cloich and, hcht Con indara n-6i, lecht Cethin aroile, conid gnathfoczd ‘domgniis Cù 7 Cethen’.i. Cù romarb Cethen rondaire Cormaic ar Idr in tighi, coro gaib [cachjndirghi iarsain fo digais na Temrach siar, co narrus and, co[nid] ro marb brathair in fir romarbsum, 7 atbrt Cormflc na romarbtha Cù 7 ni tarrus œdarghaire co romarbaid simul7.",
+                "282 Whiiley Stokes.",
+                "§ 15. Ata tobwf isin comfdn oLecht Ceihin fotúaidh. Lpegh a hainm: siar car/; ndirgha bruindes.",
+                "§ 16. Ata lathrach cuchtrach Connaic ïor a bru isin leitir os L;:g a noir.",
+                "§ 17. Raith na Senadh hi comhuir Dumhas na nGiall. Kaitb Senaid fri Fal atúaidh.",
+                "§ 18. Lathrar/; Pupaill Adhamhnain isin raith sin, 7 a c/;ros arbeloib na ratha sin soir, 7 a suidhe 7 a duma fri crois andes.",
+                "§ 19. Lecbt Maine mcic Munrem///r tri Raith na righ anoir.",
+                "§ 20. Ata lathrar/; in tighi roloiscfif for Bcnen gilla Patraicc 7 ïor Lucad Mœl drai Lxguiri, ed hec o c/;rois Adhomhnain sairdes.i. hi toeb na conaire anair a bic-.",
+                "[§ 21. Ataat teora clocha beca i tœb Ratha na Senad tuaid.i.] teora 5 cloclia roldit[h]i forsna dru[id]ib, hit é a n-anmand.i. Móel 7 Blocc 7 Bluicne. Moel soir 7 Blocc fodes 7 Bluicne fotúaidh.",
+                "§ 22. Ata Lecht ind Abaic friu anoir. Is amlaid -ata in cubát, sairdes 7 siardes. Tri troigthi nama a tomus 'na escaid bicc tis4. Is -dmlaid ata in lighi 7 cloch becc fo talmain ina hnhur 7 aroile ina oirt/;t'r. Fogabtrr tri traigidh ind indara fer/;/, a tri co leith in iecht n-aile.",
+                "§ 23. Atat dà dhumha; frisin cuhat atúaidh.i. Dali 7 Dorchœ.i. Dali teas [leg. tiar?] 7 Dorchii; tíar [leg. toir] 7 cach romarb aroile dib, 7 ni fuil múr atarru 7 na clocha 7 in cubát.",
+                "§ 24. Múr na tri cogar i fail Luinge na mBan.",
+                "§ 25. Lia na fian fri slighe\" anoir arbélaib Ratha Senaidh.",
+                "§ 26. Ata Long na mBan.i. Tech Midhcuarta on dumha; oirrt/;<'rach soirtúaidh. Is -ánúiiid rosuidhigcJ lathrar/; in tighi sin.i. leith[red] fóa fotúaidh 7 a urard ánes 7 comturgbdil múir ime anoir 7 aniar. Is tíllti bicc in leith túaiscrrt de, fotúaidh 7 fodes ata [a] coir. Fuath tighi fota co ndih doirrsib",
+                "I,",
+                "Adhamhanain R.",
+                "2.",
+                "Sic LL. hi taob a ratha atúaidh R.",
+                "5 •",
+                "Tri R.",
+                "4-",
+                "Esc bec this, LL.",
+                "5- traididh R.",
+                "6.",
+                "slidhe R.",
+                "déc fair iió a cethar déc À. [fo. 91-''] a sechi siar 7 a sQcht soir, 7 isbcrad is annsin domeil'ti feis Temrach. D/hb/r sin ar notalltad forgla fer wvenn and do dóinib, 7 is é sin [in] tcch mór milib am//i\".",
+                "§ 27. Ata duniiï; [becc] fn lathrach[in taige] anairdcss- isin oircend deiscrtaigh.i. Duma na mBanamhus [a ainm]?.",
+                "§ 28. Ata comfot Ca:lc[h]on 7 a arad hi comardus in cind túaiscrtais: 5 do Luins; na mban. Caslchu andsin mac Loairnd mie Ráaidh mie Qoïmaic Cais di oganacht Caisil, is dia sil Tuath-fis oc Temhraigh'.",
+                "§ 29. Treduma; Neisi ingine Eachach Salbuide mathar Coiicohair isin cind airt/;e;'ach tuaisct'rtaigli lii comard/5 cind oirt/;rtuaisccrtaigh Luingi na mBan.",
+                "§ 30. Rath Coiicohair mie Nesahi taeb inTredumi 7 atúaidli 7 a dorus soir a comardwi' Corwj-a cind 7 meide Conculainn.",
+                "§ 31. Ata lathrar/; Sccith Conculainn cona Thul hi comard//5 na méidi sairtúaidh. [Ijs amlaid ata raith, cutrama cosmaii frisin talmain 7 cnocán becc 'na medón Idn na telach di úir.",
+                "§ 32. Ata Sescand Temicacb lii comardwi Luinge na mBan siartuaidh.i. sescand salach becc fil hi taob Cairnn na macraidhe andes. '",
+                "§ 33. Ata Raith Grainne o Seiscend Temrach aniar for forard na telca.",
+                "§ 34. Ata ¥othad Ratha Grainne atúaid fo [Fan] na Carpat hi comardi- na Clx-nfortœ túaiscertaighi sair.",
+                "§ 35. Atat na di Cic-enfertai fn Raith Grainne aniar. Isin Cloenfertœ desct'rtaigh ro ort in ingemad la Laighniu dia samhnai. Issin Clxnkrlai tunïscertaig rue Lugaid in ngùhreith isin glaisin do orgain dona cairchib.",
+                "§ 36. Ata Carnn [na] macraidhe Laighen hi txb sescaind Temrach atúaidh.",
+                "§ 37. Atúaid atà Gros Vergusa noebailit[h]ir, is é fil hi Carraic Cluman hi u-eb Cairnn na mflícraidhe.",
+                "§ 38. [Ata Dessel Temra et/r in da Charn na maccraide].i. etir in carnn deiscertach 7 in carnn tuaiscenach.",
+                "§ 39. -Ata Carnn macraidhe Hua Neill hi tdob Deisil na Temrach atiíaidh,",
+                "§ 40. Raith Colman mie Faolcon o Carnn Maccraide Hua Neill sairtiiaidh.i. in carnn tua'iscertach.",
+                "§ 41. Ata Dumh ind Luchduinn hi iceb Ratha Colman mie Vœlcbon aniar.",
+                "§42. Ata Adlaic 7 Diadhlac hi comhardw Ratha Cohimin sairtúaid.i. hi taob leitrech frisin raith anair-[fo. 9i''2]-tùaidh.i. di tipraid indsin, Adlaic indara n-ói 7 Di-adlaic aroile, acht- ni uil deochair eturra.",
+                "TARA s REMARKABLE PLACES, THIS BELOW."
+            ],
+            "en": [
+                "This is the story of the notable steads of Ireland, which Amorgein mac Aulay, the poetto the Dési ofTara, composed. He was Diarmait son of Cerball's poet. Tis he that made demand of Finntan son of Lamech at Tara, when there was a convention of the men of Erin round the king of Tara, Diarmait son of Cerball, and round Fland Febla son of Scandlan a successor of (Saint) Patrick, and round a sage of the men of Ireland, Cenn-foelad son of Ailill, son of Eogan, son of Niall, and round Finntan son of Lamech the chief elder of Ireland. And Amorgein fasted qn Finntan for three days and three nights, in the présence of the men of Erin and boys and girls at Tara, so that Finntan might déclare to him thestories of the noteworthy steads of the island of Erin, because Finntan had dismissed from it every person and every génération trom the time of Cessair daui?hter of Bith — 'tis he who who first occupied Ireland — till the reign of Diarmait son of Cerball. So he said this:",
+                "A similar introduction is contained in BB. 349^ and Bodl. ii> i. It is quite unhistorical, the writer (e. g.) synchronizing Diarmait mac Cerbaill, who reigned from A.D. 559 to 558, with Fland Febla, who died A.D. 704.",
+                "Fintan, here called son of Lamech, is elsewhere made son of Bochra. He is ùbled to have sarvived the Déluge and died in the seventh century after Christ. For the ‘fasting’ upon him compare the dindsenchas of Carn Conaill (infra, no. 78), the note in the Tripartite Life, p. 560, and the Brahmanic pra.cùœ práyopaveçana, now commonly called dharna.",
+                "Cessair is said to have been a granddaughter of Noah and to have died A. lïi. 2242.",
+                "As to Cennfoelad see O'Currj^'s Lectures pp. 47-49.",
+                "[I. temair]",
+                "§ I. Te-.mair then, quoth Amorgein, is the múr ‘rampart’ of Tea daughter of Lugaid son of Ith, when she wedded Geide the Loud-voiced. Tis in his reign that every one in Erin deemed the other's voice as sweet as strings of lútes would be, because of the greatness of the peace and the friendship that each man had for the other in Ireland. Therefore, then, is that rampart more vénérable than every rampart, because thèse are Erin's first free covenants, the covenants of Tea daushter of Lugaid with Geide the Loud-voiced.",
+                "§ 2. Or Te-mair, that is Teipe-múr, that is the rampart of Tephe daughter of Bachter king of Spain. 'Tis she that lived with Canthon son of Cathmenn king of Britain, till she died with him, and Heithiuriin, the idol of the Britons, had been given as security) for her return (to Spain) whether alive or dead. So after her death she was brought to Spain, and there a rampart was built around her to wit, Teipc-mi'ir. Now Tea Eremon's wife saw that, to wit, the rampart of Tcphis. She went to Ireland with her husband, and every hill she would choose in Erin was given to her, and afterwards she designed [on the hill of Tara] a rampart like the rampart of Tcphis, and therein she was buried. Hence it is called Temair.",
+                "§ 3. Temair and Druim Cain ‘Beautiful Ridge’ and",
+                "§ 4. Or thus: Temair: Authors affirm that the name of this town which we call Temoria is derived- from the Greek word óswpsw which in Latin is interpreted conspicio; and every conspicuous and eminent place, whether on a plain or in a house or wherever it may be, may be called by this word Temair. Thus it is found in this Scotic saying, temair na tuaithe or temair in toige, which sentence Cormac, when treating of this name, has inserted in his Glossary. This town, therefore, chiims for itself what is common to many [i. e. the name Temair], and as it now surpasses ail [other] Irish towns, aptly possesses their common name, for its ruler even to this day obtains the sovranty of the whole island of the Scots.",
+                "§ I is also in LL. i59-' and Bodl. 60 1 1-': §§ i, 2, 3, 4 also iuBB. 349-', whence they have been published with translations and notes by Pétrie (Tara, pp. 104-107) and Crowe, Journal of the Kilkenny Archaeological Association, July 1872, pp. 140-143.",
+                "[dindgnai temrach inso sis] ^",
+                "§ 5. Nemnach, a well which is at the elf-mound in the north-eastern part of Tara. Out of Nemnach cornes a stream named Nith. 'Tis on this that the first mill was built in Ireland for the benefit of Ciarnait, Cormac's bondmaid.",
+                "§ 6. The site of Mairisius House is over the elfmound to the north of Nemnach, and there are three small stones about it. Thus was that house settled: its floor high and its ti'iarad^Q) very low. Now Mairisiu was a widow contemporary with Cormac. Every house that is settled in that wise will not be gloomy and will not be without treasures in it.",
+                "§ 7. To the north of that is the Fort of Loeguiir sou ofNiall. Therein are four doors facing the cardinal points, and Loeguire's body, with his shield and spear, was set in the outer south-easterly rampart of Loeguire's royal fort at Tara, with his ftce to the south, fighting against Leinster, to wit, the clan of Brcsal Brecc.",
+                "§ 8. Beside the Fort of Loeguire on the south-east is the Grave of Niaia of the Mighty Deeds, a plundering (?) soldier who livcd with Cormac. One day four warriors were playing beside the Fort of Loeguire on the south-east. Niata pressed down the four of thcm into the ground above the narrows of their haunches.",
+                "§ 9. The Kings' Fort beside the Fort of Loeguire on the north. In this are three strange things, to wit, the site of Cormac's Hoiise in the south-eastern part of the Fort on the side to the south of Raith Loeguiri: the site of the His^h-seat beside the site of Cormac's House on the east; and betweenthem Tea's Rampart, from which was named Temair, i. e. Tea-múr, that is, the hillock between the two ramparts on the southern side it is.",
+                "§ 10, Cormac s Capracb (?J, a well under the eastern side of the Kings' Fort. And it has three names, to wit, Leecb and The IVhitc Coiu's Well and Dark Eye. Hence is (the saying) ‘Its Calf ^ does not go to its Leech ‘; one of the two (wells respectively called Calf and Leech) being east of Tara and the other west of Tara.",
+                "§11. The Moiind of the Coiu, that is, the green of Tara to the west of the Mound of the Hostages.",
+                "§ 12. The Mound of the Hostages to the north-east of the site of the High-seat.",
+                "§ 13. Fàl beside the Mound of the Hostages on the north, to wit, the stone that used to roar under the feet of every King that would take possession of Ireland. Of that stone the name was Foi, i. e. fo-ail ‘under-stone’, i. e. a stone under a King.",
+                "§ 14. The Monument of Cil and Cethen on the hilislope as high as (?) the Kings' Fort on the west. Two stones are there, one of them Cú's monument, the other Cethen's: and there is a proverb: ‘Thou hast acted for me Cù and Cethen’. That' is, Cú killed Cethen, Cormac's spencer, in the midst of the house, and thereafter went straight under the height of Tara westward, and there he was overtaken, and a kinsman of the",
+                "I. See infra §15.",
+                "286 Whiíley Stokes.",
+                "man whom he had slain slew him, and Cormac had said that Cú should not be killed, but no interposition was found until they — Cu and Cethen — had both been killed.",
+                "§15. There is a well in the slope northwards from Cethen's monument. Calf is its name, and it springs due westward.",
+                "§ 16. The site oï Cormac' s Kitchcn is upon its brink on the hillslope over’ Calf’ to the east.",
+                "§ 17. The Fort of the Synods overagainst the Mound of the Hostages (§ 12). The Fort of a Synod to the north ofFal (§13).",
+                "§ 18. The site oí Adaninàn's Pavilioii is in that fort, and his Cross before that fort to the east, and his Seat and his Mound to the south of (his) Cross.",
+                "§ 19. The Monmiieiit of Maine son of Munremor to the east of the Fort of the Kings.",
+                "§ 20. The site of the house which was burnt over Benén (Saint) Patrick's servant, and over Lucat Moel, (King) Loeguire's wizard, is a short distance to the south-east of Adamndn's Cross, beside the path a little to the east.",
+                "§ 21. Beside the Fort of the Synods to the north stand three small stones, to wit, the stones that were setover the wizards. Thèse are their nanies: Moel and Blocc and BJuicne. Moel to the east, Blocc to the south and Bluicne to the north.",
+                "§ 22. To the east of them is the Monument of the Dwarf. Thus stands the grave, south-east and south-west (sic!) Three feet only is its measurement in its little quagmire below. Thus is the grave: a small stone under ground to the east of it and another to the west. Three feet are found in it at one time and three and a half at another time.",
+                "§ 23. North of the (Dwarf s) grave are two mounds, namely Dali ‘Blind’ and Dorchae ‘Dark’: Dali to the south [leg. west?] and Dorchae to the west [leg. east?], and each of them [i. e. the persons buried under them] killed the other, and there is no wall between them and the stones (§ 21) and the grave (§ 22).",
+                "§ 24. The Ranipart of the Three Whispers is near the House of the Women (see infra, § 26).",
+                "§ 25. The Stone of the Fia ns is to the east of a road in front of the Fort of the Synod (§ 17).",
+                "§ 26. The Houseof the IVomen, tliat is Tech Midchuarta is north-east from the enstern mound (§23). Thus was the site of that house settled, the lower part to the north and its high part to the south, and the érection of a wall about it to the east and west. The northern side of it is a little bent: north and south it oiight to be. It has the form of a long house \\\\'\\úï twelve doors, or with fourteen, that is seven to the west and seven to the east. And men say that there the Feast of Tara was consumed. That was reasonable, for the choice of the men of Erin would lit therein, and this is the Great House with a Thousand Soldiers:",
+                "§ 27. There is asmall mound to the south-west of the site of the House in the southern angle. The Mound of the IVoman-solditrs is its name.",
+                "§ 28. The Grave of Caelchii and his fort near the northern end of the House of the Women. Caelchu is there, son of Loarn, son of Ruad, son of Cormac Cass of the Eoganacht of Cashel. Of his seed is the Tuath-fis at Tara.",
+                "§ 29. The Triple Mound ofNess óiino\\\\ie\\:oi'Eoc\\\\2.ià.Yt\\\\o\\Yheel and mothcr of Conchobar is at the north-eastern end near the north-eastern end of the House of the Women.",
+                "§ 30. The Fort of Conchobar Mac Nessa beside the Triple Mound with its door in the east, near the Adjustment of Ciichulainn's Head and Neck.",
+                "§31. The site of Ci'ichulainn's Shichi with its Hollow is in the neighbourhood of the Neck in the north-east. Thus is the fort, level like the ground and in the midst thereof a little hillock which was the fuU of the Hollow ot clay.",
+                "§ 32. Tara' s Moor is near the House of the Women in the north-east, a dirty little moor which is beside the Cairn of the Children in the south.",
+                "§ 33. Gràinne's Fort is from the Moor of Tara from the west on the summit of the hill.",
+                "§ 34. The foundation of Gràinne's Fort is from tlic north under the Slope of the Chariots near the northern Cloenfertae (‘inclined grave’).",
+                "§ 35. The Tiuo Cloenfertaes are to the west of Gniinne's Fort, In the southern Cloenfertae the girls were slain by the Lcin-",
+                "288 Whiíley Stokes.",
+                "stermen on the day of samain (Nov. i). In the northern Cloenfertae Lugaid (Mac con) passed the erroneous judgment regarding the woad destroyed by the sheep.",
+                "§ 36. The Cairn of the Chiidren of Leinster is beside the Moor of Tara to the north.",
+                "§ 37. To the north are the Cross of Fergus a holy pilgrim: 'tis he who is (i. e. whose remains are) in Carraic Cluman beside the Cairn of the Chiidren.",
+                "§ 38. The Dessel of Tara is between the two Cairns of the Chiidren, that is, between the southern cairn and the northern cairn.",
+                "§ 39. The Cairn of the Chiidren of the Hni Néill is beside the Dessel of Tara to the north.",
+                "§ 40. The Fort of Colmán son of Faelchu is from the Cairn of the Chiidren of the Hùi Néill to the north-east, i. e. the northern cairn.",
+                "§ 41. The Mound of the Luchdofin (?) is beside the Fort of Colman son of Faelchu to the west.",
+                "§ 42. Adlaic ‘Désire’ and Diadlaic ‘Créát Désire’ are near Colmán's Fort north-east, that is on the side of the hillslope to the north-east of the Fort. Two wells arethose, Adlaic is one of the two, and Diadlaic the other; but there is no différence between them."
+            ],
+            "notes": [
+                "Also in LL. 30 and BB. 349'' 35 — 5 5°'' 49-",
+                "5 5. As to Cormàc and Ciarnait see BB. 351, 11. 18-25, and Lives of Saints from the Book of Lismore, p. 361.",
+                "§ 7. Loeguire son of Niall overking of Ireland temp. Patrick. His burial in armour with his face to his lifelong foes is also mentioned in Lebor na hUidre, p. 566, cited and translated in the Rolls édition of the Tripartite Life, pp. 566, 567.",
+                "§ 8. Ni'ata ‘heroic ‘is Mata in LL. and BB.",
+                "5 13. As xo Fdl, whence two of the bardic names for Ireland, Mag Fait and Inis Fàil, see also LL. 9’, lines 15-22, BB. 350^’ lines 17-20, and Rcv. Celtique, Xn, 56, § 3.",
+                "§ 20. For an account of the fiery ordeal here referred to, see the Tripartite Life, p. S 8.",
+                "§§ 29, 39. As to Ness (or Nessa) and her son king Conchobar see LL. 106 and Lives of Saints from the Book of Lismore, pp. xxxiv-xxxv.",
+                "§ 31. Compare LL. 121b 37-41: Benair a làm dói daHo di Choinculainn dia digail. Documlat ass iarum in tsluaig 7 doberat leo cend Conculainn 7 a laim dói co tancatar Ttmraig, conid and atá otharlige a chind 7 a hume doi 7 lán lainne a scéith di úir ‘So Cùchulainn's right hand is struck off him to avenge Lugaid's. Theu the hosts march thence, taking with them Cùchulainn's head and his right hand, till they came to Tara, and the grave of his head and his right hand is therc, and the full of the cover (?) of his shield of mould’.",
+                "§ 35. As to the úrst cloeiifertae, where the thirty princesses and their attendants were killed by Dunlaing son of Enna Nia, see Revue Celtique, XIII, 51, and Rawl. B. 502, fo. 73b i. As to the second doenfertae and Lugaid's false judgment st&Rerc. Celtique, XIII, 460-462."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Temair I",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part I (Todd Lecture Series VIII, 1903)",
+            "pages": null,
+            "scan": "https://archive.org/details/toddlectureserie09royauoft",
+            "ga": [
+                [
+                    "Temair Breg, cid ni diata",
+                    "indisid a ollamna!",
+                    "cuin do dedail frisin mbruig?",
+                    "cuin robo Temair Temair?"
+                ],
+                [
+                    "IN ac Partolan na cath,",
+                    "nó 'n ac cet-gabail Cesrach,",
+                    "in ac Nemed co neim n-iir",
+                    "nó ac Cigal garb gligar-glun?"
+                ],
+                [
+                    "IN ac Feraib Bolg na mbad?",
+                    "nó do line Lupracan?",
+                    "sloindid ca gabail dib-sin",
+                    "ó ta Temair ar Temraig."
+                ],
+                [
+                    "A Cuban, a Findchaid fell,",
+                    "a Brain, a Chualad eim,",
+                    "a Thuain, bar coiciur cain,",
+                    "cid ón cid diata Temair?"
+                ],
+                [
+                    "Dobi tan ba coll-chaill chain",
+                    "i n-aimsir meic ain Ollcain,",
+                    "noco roslecht in caill cais",
+                    "Liath mac Laigni lethan-glais."
+                ],
+                [
+                    "ó sin amach ba Druim Le\"ith,",
+                    "a harbur ba harbur meith,",
+                    "noco toracht Cain cen chrad,",
+                    "mac-sen Fiachach Cendfindain."
+                ],
+                [
+                    "ó sin amach ba Druim Cain",
+                    "in tulach a te\"igdis mair,",
+                    "noco toracht Crofind chain,",
+                    "ingen Alloid oll-bladaig."
+                ],
+                [
+                    "Cathir Chrofind, nirbo chamm,",
+                    "a hainm ac Tuaith De\" Danann,",
+                    "co toracht Tea, nar chle\",",
+                    "ben Erimoin co n-ard-gne*."
+                ],
+                [
+                    "Roclaitea clad imma tech",
+                    "ac Tea móir ingin Lugdech;",
+                    "roadnacht iar miir amuig,",
+                    "conad uaithi atd Temair."
+                ],
+                [
+                    "Forad na rig ba hainm di,",
+                    "rigrad mac Miled inti;",
+                    "cóic anmand uirri iarsin,",
+                    "ó ta Fordruim co Temair."
+                ],
+                [
+                    "Is mise Fintan fili,",
+                    "nirsam dene óen-lindi;",
+                    "is and romtócbad co mblaid",
+                    "ar in fót-brug os Temair."
+                ]
+            ],
+            "en": [
+                [
+                    "Temair Breg, whence is it named?",
+                    "declare O sages!",
+                    "when did the name part from the stead?",
+                    "when did Temair become Temair?"
+                ],
+                [
+                    "Was it under Partholan of the battles?",
+                    "or at the first conquest by Cesair?",
+                    "or under Nemed of the stark valour?",
+                    "or under Cigal of the knocking knees?"
+                ],
+                [
+                    "Was it under the Firbolgs of the boats?",
+                    "or from the line of the Lupracans?",
+                    "tell which conquest of these it was",
+                    "from which the name Temair was set on Temair?"
+                ],
+                [
+                    "O Duban, O generous Findchad,",
+                    "O Bran, O quick Cualad,",
+                    "O Tuain, ye devout five!",
+                    "what is the cause whence Temair is named?"
+                ],
+                [
+                    "There was a time when it was a pleasant hazel-wood",
+                    "in the days of the noble son of Oilcan,",
+                    "until the tangled wood was cut down",
+                    "by Liath son of Laigne Lethan-glas."
+                ],
+                [
+                    "Thenceforward it was called Druim Leith —",
+                    "its corn was rich corn —",
+                    "until there came Cain free from sorrow,",
+                    "the son of Fiachu Cendfindan."
+                ],
+                [
+                    "Thenceforward it was called Druim Cain,",
+                    "the hill whither chieftains used to go,",
+                    "until Crofhind the chaste came,",
+                    "the daughter of all-famous Allod."
+                ],
+                [
+                    "Cathair Crofhind ('twas not amiss)",
+                    "was its name under the Tuatha De Danand,",
+                    "till there came Tea, never unjust,",
+                    "the wife of Erimon lofty of mien."
+                ],
+                [
+                    "Bound her house was built a rampart",
+                    "by Tea daughter of Lugaid;",
+                    "she was buried beyond the wall without,",
+                    "so that from her is Temair named."
+                ],
+                [
+                    "The Seat of the Kings was its name:",
+                    "the kingly line of the Milesians reigned in it:",
+                    "five names accordingly were given it",
+                    "from the time when it was Pordruim till it was Temair."
+                ],
+                [
+                    "I am Fintan the poet,",
+                    "I am a salmon not of one stream;",
+                    "it is there I was exalted with fame,",
+                    "on the sod-built stead, even Temair."
+                ]
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Temair II",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part I (Todd Lecture Series VIII, 1903)",
+            "pages": null,
+            "scan": "https://archive.org/details/toddlectureserie09royauoft",
+            "ga": [
+                [
+                    "Ni cheil maissi dona mnaib",
+                    "Temair cen taissi ar tocbail;",
+                    "fiiair ingen Lugdach 'n a laim,",
+                    "tul-mag bad liach do lot-baig."
+                ],
+                [
+                    "Ellom rogaid ben Gede",
+                    "for a cele, rochuala,",
+                    "dindgna dath-glan, dróim n-dine,",
+                    "ba hathlam dine im liaga."
+                ],
+                [
+                    "Arus ba dun ba dindgna,",
+                    "ba cadus, miir cen mannur,",
+                    "forsmbiad lecht Tea iar tuinnem,",
+                    "combad fuilled fria hallud."
+                ],
+                [
+                    "Robói ic Erimon umal",
+                    "ben i ngle-medon gemel;",
+                    "rue uad each roga romer;",
+                    "atnóimed cech ni atbered."
+                ],
+                [
+                    "Brega Tea, treb tuilltech,",
+                    "rocluinter uair ba haird-ben,",
+                    "fert fosfail in mor mergech,",
+                    "in róm relgech nd rairged."
+                ],
+                [
+                    "Ingen Foraind co lin argg,",
+                    "Tephi rolaind, luaded leirg,",
+                    "rochum cathraig, croda in chuird,",
+                    "dia luirg rostorna is dia deilg."
+                ],
+                [
+                    "Dorat ainm dia cathraig cairn",
+                    "in ben co n-aib rathmair rig;",
+                    "Mur Tephi fristoirged dail,",
+                    "asnoirged cen grain cech ngnfm."
+                ],
+                [
+                    "Ni clethe in run ria rada,",
+                    "mur thair Tephi, rochiiala;",
+                    "fiiisain sund, cen dual digna,",
+                    "cumsat mór rigna ruama."
+                ],
+                [
+                    "Fat lethet tige Tephi,",
+                    "cen trethi midit suthi,",
+                    "sesca traiged cen tlathi,",
+                    "confógsat fathi is driithi."
+                ],
+                [
+                    "Atchiiala i n-Espain uillig",
+                    "ingin lesc-bain laech-buillig,",
+                    "cin ó Bachtir mac Buirig;",
+                    "dosfuc Camsón caem-chuingid."
+                ],
+                [
+                    "Tephi a hainm ó cech górad;",
+                    "mairg forsmelad a nmrad!",
+                    "rath sescat traiged tó1ach",
+                    "leo dorónad dia runad."
+                ],
+                [
+                    "Nistuc ri Bregoin cen brón,",
+                    "ciarbo debaid la Camson,",
+                    "combeth a haisec dia hón,",
+                    "cid mór cid min cid marb-són."
+                ],
+                [
+                    "Erlam Camsoin, ni clethe,",
+                    "Etherun, ba herchrede,",
+                    "is sliiag na nglas-derc nglethe",
+                    "uad fri tassec tre\"n-Tephe."
+                ],
+                [
+                    "EC truag Tephe tanic tuaid,",
+                    "nir gnim clethe fri hoen-iiair,",
+                    "Camsón ro leic luing cen liiaig",
+                    "le dar tuind saili sóeb-iiair."
+                ],
+                [
+                    "Eoscart barr Bretan ó'n bruch,",
+                    "ar ba hetal Etherun,",
+                    "co marblaig fria mess 'sin miir",
+                    "tess forstarblaig Tephi-run."
+                ],
+                [
+                    "Is fon samla-sin sunna",
+                    "gnith co calma a cet-chuma",
+                    "Temrach, cen taidlius trumma,",
+                    "ar aibnius, ar ^trumma."
+                ],
+                [
+                    "Temair cech n-ard cech n-irgna",
+                    "forsnibit sosta so-dindgna;",
+                    "Temair cech mbennach mbirda,",
+                    "acht mad Emain airirgna."
+                ],
+                [
+                    "Temair tuathi ocus tigi",
+                    "cen luathi cen laech-miri,",
+                    "mathair anai cech fini,",
+                    "co nosbrathaig baeth-bini."
+                ],
+                [
+                    "Ba targa triath ocus tor,",
+                    "ba hadba niath, nith co neim;",
+                    "Temair cen taissi cen traig",
+                    "a maissi do mnaib ni cheil. D."
+                ]
+            ],
+            "en": [
+                [
+                    "Temair free from feebleness hides not",
+                    "the glory due to women for its building;",
+                    "the daughter of Lugaid obtained in her possession",
+                    "an open plain that it were pity to pillage."
+                ],
+                [
+                    "The wife of Gede begged a dower",
+                    "from her husband, as I have heard,",
+                    "the clear-hued fortress, stately ascent;",
+                    "keen was the game for graves."
+                ],
+                [
+                    "The abode was a keep, was a fortress,",
+                    "was a pride, a rampart free from ravage,",
+                    "whereon was to be the grave of Tea after death,",
+                    "so that it should be an increase to her fame."
+                ],
+                [
+                    "Erimon the lowly had",
+                    "a wife in the very midst of imprisonment;",
+                    "she got from him all her eager desires;",
+                    "he granted everything she spoke of."
+                ],
+                [
+                    "Brega Tea, a teeming home,",
+                    "is famed because Tea was a noble dame;",
+                    "the funeral mound under which is the great one of the standards,",
+                    "the burying ground that was not rifled."
+                ],
+                [
+                    "The daughter of Pharaoh, with tale of warriors,",
+                    "Tephi the bright, who used to cross the hill-slope,",
+                    "framed a stronghold (hardy the labourer!)",
+                    "with her staff and with her brooch she traced it."
+                ],
+                [
+                    "She gave a name to her fair stronghold,",
+                    "the king's wife gracious and lovely:",
+                    "the Rampart of Tephi, who would affront an army,",
+                    "who would dare without dread any deed."
+                ],
+                [
+                    "Not hidden is the secret place that it should not be spoken of,",
+                    "the Rampart of Tephi in the east, as I have heard;",
+                    "in such wise at that place with no unworthy tradition",
+                    "did many queens build their sepulchres."
+                ],
+                [
+                    "The length and breadth of the House of Tephi",
+                    "not ignorantly the learned measure —",
+                    "sixty feet in full;",
+                    "diviners and druids beheld it."
+                ],
+                [
+                    "I have heard in many-cornered Spain",
+                    "of a maiden fair and indolent, heroic in fight,",
+                    "offspring of Bachtir son of Buirech;",
+                    "Camson, gentle champion, bore her away."
+                ],
+                [
+                    "Tephi was her name, from every warrior;",
+                    "ill-luck to him whom her entombment should wear out",
+                    "a rath of sixty feet, full measure,",
+                    "was built by them for her concealment."
+                ],
+                [
+                    "The king of Bregon free from sorrow did not bear her away,",
+                    "though there was strife between him and Camson,",
+                    "that she might be restored to her....",
+                    "were it for better or for worse, or were she dead."
+                ],
+                [
+                    "The tutelar of Camson, not hidden,",
+                    "Etherun (he was transitory),",
+                    "and the host of the clear grey eyes",
+                    "were sent by him as a pledge for the restitution of mighty Tephi."
+                ],
+                [
+                    "The sad death of Tephi who came to the north,",
+                    "was a deed not concealed for a moment;",
+                    "Camson launched a vessel without payment",
+                    "with her over the surface of the cold and treacherous sea."
+                ],
+                [
+                    "The chief of Britain sent them from the shore,",
+                    "(for Etherun was pure;)",
+                    "with the lifeless body to do it honour in the rampart",
+                    "in the south, on which settled the name Tephirun."
+                ],
+                [
+                    "It was after this likeness in this place",
+                    "was made boldly the first frame",
+                    "of Temair, that has no match nor mate",
+                    "for beauty and for gaiety."
+                ],
+                [
+                    "' Temair ' is the name of every lofty and conspicuous spot",
+                    "whereon are dwellings and strong keeps;",
+                    "' Temair ' is the name of every peaked and pointed hill",
+                    "except the far-seen Emain."
+                ],
+                [
+                    "Temair of the cantred, and of the house,",
+                    "without hurry, without frenzy of heroes,",
+                    "was mother of the wealth of every tribe",
+                    "till a foolish crime destroyed her."
+                ],
+                [
+                    "It was a shield of lords and chiefs",
+                    "it was a home of heroes, valiant in fray,",
+                    "Temair free from feebleness and faintness",
+                    "hides not its glory from womankind."
+                ]
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Temair III",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part I (Todd Lecture Series VIII, 1903)",
+            "pages": null,
+            "scan": "https://archive.org/details/toddlectureserie09royauoft",
+            "ga": [
+                [
+                    "Temair toga na tulach,",
+                    "foatd Eriu indradach,",
+                    "ard-chathir Cormaic meic Airt,",
+                    "meic Chuind ch£t-chathaig comnairt."
+                ],
+                [
+                    "Cormac, ba cundail a maith;",
+                    "ba siii, ba file, ba flaith;",
+                    "ba fir-brethem fer Fene,",
+                    "ba cara, ba cocele."
+                ],
+                [
+                    "Cormac, roehlai cóicait cath,",
+                    "rosilaig Saltair Temrach;",
+                    "isin tSaltair-sin at&",
+                    "a n-as dech sund senchusa."
+                ],
+                [
+                    "Is i in tSaltair-sin adbeir",
+                    "secht n-aird-rig hErend inbir,",
+                    "cóic rig na cóiced dosgni,",
+                    "ri hErend is a hairri."
+                ],
+                [
+                    "Is inde atd do cech leith",
+                    "ina ndlig cech ri cóicid;",
+                    "ina ndlig ri Temrach thair",
+                    "do rig cech cóicid cheó1mair."
+                ],
+                [
+                    "Coimgned, comamserad caich,",
+                    "cech rig diaraile do raith;",
+                    "cricha cech cóicid fo chriiaich",
+                    "ót& traiged co trom-thuaith."
+                ],
+                [
+                    "Tricha ar thrichtaib-cót fosgeib",
+                    "do thrichtaib-cót cech cóicid;",
+                    "in cech cóiciud dib ata",
+                    "secht prim-ficb.it prim-dingna."
+                ],
+                [
+                    "Eosfitir Cormac, ba ri;",
+                    "ro la ciiairt hErend fo thri;",
+                    "tuc giall cecha miiir amuig,",
+                    "co rostaiselb i Temraig."
+                ],
+                [
+                    "Duma na nGiall, glaine glac,",
+                    "do na giallaib thuc Cormac;",
+                    "do Chormac tarfas 'n-a tig",
+                    "cech decair ata i Temraig."
+                ],
+                [
+                    "Rostarf as d' Fergus mar ta",
+                    "ait i fuil Cros Fergussa;",
+                    "Fan na Carpat concerta",
+                    "etorro is na Claen-Ferta."
+                ],
+                [
+                    "Claen-Ferta a ngaeltis aindre,",
+                    "Claen-Ferta na claen-chaingne,",
+                    "fri Eaith Grainde aniar ani's,",
+                    "atait cen erchra a n-óendis."
+                ],
+                [
+                    "O Eaith Grainde sair 'sin glinn",
+                    "ata Sescend Temrach tind;",
+                    "ata fri Sescend anair",
+                    "Eath Nessa, Eath Chonchobair."
+                ],
+                [
+                    "Corus Cind Chonchulainn chriiaid",
+                    "ó Eaith Chonchobair sair-thiiaid;",
+                    "tomus a Sceith fo a Chobrad",
+                    "is ingnad is imadbul."
+                ],
+                [
+                    "Lige Mail ocus Midna",
+                    "i Temraig iar u-a tigba;",
+                    "de ata a lige 's a lecht,",
+                    "daig in chind.rochommaidset."
+                ],
+                [
+                    "Immraidem fós Long na Laech",
+                    "frisanabar Bare Ban mbaeth;",
+                    "Tech na Fi'an, nirbo long lac,",
+                    "co cethri doirsib deac."
+                ],
+                [
+                    "Duma na mBan iar n-a mbrath",
+                    "forsin innell uachtarach;",
+                    "Dall is Dorcha fris andes,",
+                    "rocromtha fri comaidces."
+                ],
+                [
+                    "Dall tes-thiar Dorcha dogra;",
+                    "ba dib Duma Dall-Bodra;",
+                    "romarb each dib araile",
+                    "ac cosnam a n-almsaine."
+                ],
+                [
+                    "Doluid in t-abac, triiag do,",
+                    "do etargaire etorro,",
+                    "co romarbsat in abacc",
+                    "fo a cossaib iar crin-amarc."
+                ],
+                [
+                    "ó lecht ind abaic-sin siar",
+                    "Mael, Bloc, Bluicne, borb a ciall,",
+                    "forru atait na tri clocha",
+                    "dusfarlaicc Mai mór-Macha."
+                ],
+                [
+                    "Mur clethe na tri cocur",
+                    "etir luing is laech-thopur;",
+                    "Lia na Fian fri slige anair",
+                    "ar inchaib Eatha Senaid."
+                ],
+                [
+                    "Eath na Senad, sógda biiaid,",
+                    "fri Fal na Temrach atuaid;",
+                    "ó'n raith sair i taeb ind Liac",
+                    "in tech as' terna Beniat."
+                ],
+                [
+                    "Senad Patraic 'con raith rain,",
+                    "Senad Brenaind is Euadain,",
+                    "Senad Adamnain iarsin,",
+                    "ac escaine Irgalaig."
+                ],
+                [
+                    "Fri Eaith Eig am's, ni gó,",
+                    "Lecht Con, Lecht Cethen, Cnoc Bó,",
+                    "ata frisin raith anair",
+                    "Lecht Maine meic Munremair."
+                ],
+                [
+                    "Maraid fri Eaith Eig andes",
+                    "Eath Loegairi is a Les,",
+                    "is a Lecht for lar a lis,",
+                    "firen Fiadat rodforbris."
+                ],
+                [
+                    "Fógaid Tech Mairise mend,",
+                    "ar primit aille h^rend,",
+                    "ard aniar irard atuaid,",
+                    "isel liad sair, ba saer-biiaid."
+                ],
+                [
+                    "Is ann rosuidiged-se",
+                    "in tech ar bru Nemnaige;",
+                    "'mon tech-sin tar Mide amach",
+                    "rosilta tige Temrach."
+                ],
+                [
+                    "Temair diatd Temair Breg,",
+                    "Mur Tea mnd meic Miled,",
+                    "Nemnach liad sair, sruth fo glenn,",
+                    "fors' tart Cormac cet-muilenn."
+                ],
+                [
+                    "Ciarnait cumal Cormaic cóir",
+                    "mór c£t nobiathad a bróin;",
+                    "deicb melcb le cecb lai do bleith,",
+                    "nirb opair duine denmeich."
+                ],
+                [
+                    "Rostarraig aicce in ri ran",
+                    "i n-a tig a boenuran;",
+                    "co rostoirccestar fo chleitb;",
+                    "iarsin foremid robleith."
+                ],
+                [
+                    "Iarsin rosaircbis iia Cuind,",
+                    "tuc saer muilinn tar mor-tbuind;",
+                    "cót-muilenn Cormaic meic Airt",
+                    "robo cbobair do Cbiarnait."
+                ],
+                [
+                    "Capracb Cormaic i Raitb Rig;",
+                    "ó Raitb Rig sair, is e a fir,",
+                    "ata in topur tuirme eland,",
+                    "frisnapar na tri banmand."
+                ],
+                [
+                    "Liaig Bail Duib Duirb, Tuath Linne,",
+                    "ocus Tipra Bó Finne,",
+                    "tri hanmand dia sloind amach,",
+                    "do silad topuir Temracb."
+                ],
+                [
+                    "DA",
+                    "Topur aile, adbal tres,",
+                    "a Temraig siles siardes;",
+                    "Laeg a ainm, cen co din bii;"
+                ],
+                [
+                    "Cucbtair Cormaic for a brii.",
+                    "Bruindid a Temraig atuaid",
+                    "Adlaic Diadlaic in tsluaig,",
+                    "d& tbopur fo decbair de"
+                ],
+                [
+                    "sis co Cam na Macraide.",
+                    "Etir da Cham na nGillai",
+                    "Deisel Temrach tes Crinnai;",
+                    "fót co rath ria ndul ar eel, a sóitis daine deisel."
+                ],
+                [
+                    "Atiiaid frisin tulaig truimm",
+                    "Eath Cholmain in Domnain duind;",
+                    "Lecht Caelchon fo chochma cloch,",
+                    "sair-thiiaid ó Luing Ban Temrach."
+                ],
+                [
+                    "Caelchu mac Loairn meic Biiaid,",
+                    "meic Cormaic Cais, carad buaid,",
+                    "prim-giall fer Human amach,",
+                    "ó tait ruirig Euis Temrach."
+                ],
+                [
+                    "Tech Temrach imata in raith,",
+                    "asa tardad dliged caich,",
+                    "maraid fos miad dia samlaib",
+                    "ac rigaib ac rig-domnaib."
+                ],
+                [
+                    "Ei ocus ollam filed,",
+                    "sui, brugaid, bertis dliged,",
+                    "lepta na loiscti lochit,",
+                    "laraig ocus 1ón-chrochit."
+                ],
+                [
+                    "Liaig is dalem, goba giir,",
+                    "rechtaire, randaire run,",
+                    "mail na cethra dóib uile",
+                    "i tig ind rig barr-buide."
+                ],
+                [
+                    "Eindaide, rathbuige re\"il,",
+                    "sciathaire, is fianaide feig,",
+                    "i tig rig noibdis corn,",
+                    "ba b.ó a ndliged diles dorn."
+                ],
+                [
+                    "Driith, fidchellacb, fuirseóir faen,",
+                    "cuislendach, clesamnach claen,",
+                    "colpa a cuit feola iar fir,",
+                    "in tan tigdis i tech rig."
+                ],
+                [
+                    "Kigtbech cuit senmaire sair,",
+                    "caisleór is cerda ima staib;",
+                    "cornaire, bonnaire ar brig,",
+                    "de\"de romeltis midmir."
+                ],
+                [
+                    "Muiridin do Mai Midi,",
+                    "cairemain is cirmairi,",
+                    "dliged don droing threbair thro\" in,",
+                    "ichtar remur in tslinnein."
+                ],
+                [
+                    "Dromanna dronna in cech tbreib",
+                    "do driiitbib, do doirseóirib;",
+                    "uruscla ingen cen ach",
+                    "iar n-indrum tige Temracb."
+                ],
+                [
+                    "Colum Cille, crenad brait,",
+                    "robris in cath for Diarmait;",
+                    "re ndul dó tar muir amacb",
+                    "rongiallsatar tuir Temrach."
+                ],
+                [
+                    "Cretem Crist, roche\"s i cri,",
+                    "rocbuir cecb nert ar nemni;",
+                    "ar brón do daim De\" 'n-a tig",
+                    "ni tart termann do Tbemraig."
+                ]
+            ],
+            "en": [
+                [
+                    "Temair noblest of hills,",
+                    "under which is Erin of the forays,",
+                    "the lofty city of Cormac son of Art,",
+                    "son of mighty Conn of the hundred fights."
+                ],
+                [
+                    "Cormac, constant was his prosperity,",
+                    "he was sage, he was poet, he was prince;",
+                    "he was a true judge of the men of Fene.",
+                    "he was a friend, he was a comrade."
+                ],
+                [
+                    "Cormac, who gained fifty fights,",
+                    "disseminated the Psalter of Temair;",
+                    "in this Psalter there is",
+                    "all the best we have of history."
+                ],
+                [
+                    "It is this Psalter that tells of",
+                    "seven warlike high kings of Erin;",
+                    "five kings of the provinces it makes,",
+                    "the king of Erin and her viceroy."
+                ],
+                [
+                    "In it is set down on every hand",
+                    "what is the right of every king of a province,",
+                    "what is the right of the king of Temair eastward",
+                    "from the king of every songful province;"
+                ],
+                [
+                    "The correlation, the synchronising of every man,",
+                    "of each king one with another together;",
+                    "the limits of every province marked by a stone-rick,",
+                    "from the foot to the full barony."
+                ],
+                [
+                    "The Grave of Mai and Midna",
+                    "is in Temair since their slaying:",
+                    "thence is their grave and their sepulchre,",
+                    "on account of the head they boasted."
+                ],
+                [
+                    "Let us consider too the Hall of the Heroes",
+                    "which is called the Palace of Vain Women;",
+                    "the House of the Warriors, it was no mean hall,",
+                    "with fourteen doors."
+                ],
+                [
+                    "The Mound of the Women after their betrayal",
+                    "was hard by the upper structure;",
+                    "south of it are Dall and Dorcha,",
+                    "they were bowed down both alike."
+                ],
+                [
+                    "Dall is south-west of sad Dorcha,",
+                    "from them was called Duma Dall-Bodra;",
+                    "each of them killed the other",
+                    "in fighting over their alms."
+                ],
+                [
+                    "The dwarf came, to his sorrow,",
+                    "to interpose between them,",
+                    "so they killed the dwarf",
+                    "under their feet, through their dimness of sight."
+                ],
+                [
+                    "Westward from the Grave of this dwarf",
+                    "are Mael, Bloc, and Bluicne — foolish their wisdom!",
+                    "over them are the three stones",
+                    "that the Prince of great Macha flung."
+                ],
+                [
+                    "The secret Kampart of the three Whispers",
+                    "is between the Hall and the Heroes' Well;",
+                    "the Stone of the Warriors is east of the road,",
+                    "over against the Kath of the Synod."
+                ],
+                [
+                    "The Bath of the Synods, noble excellence,",
+                    "lies north of the Precinct of Temair;",
+                    "eastward from the Bath beside the Stone",
+                    "is the house whence Beniat escaped."
+                ],
+                [
+                    "The Synod of Patrick was at the noble Bath,",
+                    "The Synod of Brendan and of Buadan,",
+                    "The Synod of Adamnan thereafter,",
+                    "assembled to curse Irgalach."
+                ],
+                [
+                    "Below from the Bath of the Kings (it is not false)",
+                    "are the Grave of Cu, the Grave of Cethen, the hill of the Ox;",
+                    "east of the Bath is",
+                    "the grave of Maine son of Munremar."
+                ],
+                [
+                    "There remains south of the Bath of the King",
+                    "the Bath of Loegaire and his Keep",
+                    "and his Grave on the floor of his Keep;",
+                    "the righteous one of the Lord overcame him."
+                ],
+                [
+                    "Behold the noble House of Mairise",
+                    "chief for beauty in Erin;",
+                    "it is high to the west, very high to the north,",
+                    "level eastward of it, — it was a triumph of the mason."
+                ],
+                [
+                    "It is there was situated",
+                    "the house, on the margin of Nemnach;",
+                    "about this house away across Meath",
+                    "were scattered the houses of Temair."
+                ],
+                [
+                    "Temair, whence Temair Breg is named,",
+                    "Bampart of Tea wife of the son of Miled,",
+                    "Nemnach is east of it, a stream through the glen",
+                    "on which Cormac set the first mill."
+                ],
+                [
+                    "Ciarnait, hand-maid of upright Cormac,",
+                    "used to feed from her quern many hundreds,",
+                    "ten measures a day she had to grind,",
+                    "it was no task for an idler."
+                ],
+                [
+                    "The noble king came upon her at her task",
+                    "all alone in her house,",
+                    "and got her with child privily;",
+                    "presently she was unable for heavy grinding."
+                ],
+                [
+                    "Thereupon the grandson of Conn took pity on her,",
+                    "he brought a mill-wright over the wide sea;",
+                    "the first mill of Cormac mac Art",
+                    "was a help to Ciarnait."
+                ],
+                [
+                    "The Caprach of Cormac is in the Rath of the Kings;",
+                    "eastward from the Rath of the Kings (that is the truth of it)",
+                    "is the Well of the Numbering of the Clans,",
+                    "which is called by the three names:"
+                ],
+                [
+                    "Liaig Dail Duib Duirb, Tuath Linde,",
+                    "and Tipra Bo Finne,",
+                    "three names to designate it,",
+                    "to make known the well of Temair."
+                ],
+                [
+                    "Another spring (mighty force),",
+                    "which flows south-west from Temair;",
+                    "Calf is its name, though it never sucked a cow;",
+                    "Cormac's Kitchen is on its margin."
+                ],
+                [
+                    "There rise north of Temair",
+                    "Adlaic and Diadlaic of the host;",
+                    "two springs flow diverse thence",
+                    "down to the Carn of the Boys."
+                ],
+                [
+                    "Between the two Cams of the Lads",
+                    "is the Deisel of Temair south of Crinna,",
+                    "a sward that brings luck before going to death,",
+                    "where men used to make a turn right-hand-wise."
+                ],
+                [
+                    "North of the great hill",
+                    "is the Rath of Colman, the brown Domnan;",
+                    "the Grave of Caelchu under a like heap of stones,",
+                    "lies north-east from the Hall of the Women of Temair."
+                ],
+                [
+                    "Caelchu son of Loarn son of Ruad",
+                    "son of Cormac Cas, who loved victory,",
+                    "was the first hostage out of the men of Munster;",
+                    "from him descend the princes of Ros Temrach."
+                ],
+                [
+                    "The House of Temair, round which is the rath,",
+                    "from it was given to each his due;",
+                    "honour still continues to such as them",
+                    "at the courts of kings and princes."
+                ],
+                [
+                    "King and Chief of the Poets,",
+                    "sage, farmer, they received their due,",
+                    "couches that torches burn not,",
+                    "the thighs and the chine-steaks."
+                ],
+                [
+                    "Leech and spencer, stout smith,",
+                    "steward, portly butler,",
+                    "the heads of the beasts to all of them",
+                    "in the house of the1 yellow-haired king."
+                ],
+                [
+                    "Engraver, famed architect,",
+                    "shield-maker, and keen soldier,",
+                    "in the king's house they drank a cup;",
+                    "this was the special right of their hands."
+                ],
+                [
+                    "Jester, chess-player, sprawling buffoon,",
+                    "piper, cheating juggler,",
+                    "the shank was their share of meat in truth,",
+                    "when they came into the king's house."
+                ],
+                [
+                    "The shins were the share of the noble musician,",
+                    "of the castle-builder and artificer, round the bowl;",
+                    "the cup-bearer, the lusty foot- servant,",
+                    "both consumed the broken meats."
+                ],
+                [
+                    "A charge on the prince of Meath,",
+                    "were the cobblers and comb-makers,",
+                    "the due of the strong skilled folk",
+                    "was the fat underside of the shoulder."
+                ],
+                [
+                    "The backs, the chines in every dwelling",
+                    "were given to druids and doorkeepers.",
+                    "there was protection for maidens with never an \" aeh \"!",
+                    "after serving the house of Tara."
+                ],
+                [
+                    "Colum Cille, who used to redeem captives,",
+                    "broke the battle against Diarmait;",
+                    "before he went away over-sea",
+                    "the lords of Temair gave him obedience."
+                ],
+                [
+                    "The faith of Christ who suffered in the flesh",
+                    "has brought all strength to nought;",
+                    "because of the sorrow of the people of God in its house",
+                    "He gave not protection to Temair."
+                ]
+            ],
+            "incomplete": [
+                188,
+                160
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Temair IV",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part I (Todd Lecture Series VIII, 1903)",
+            "pages": null,
+            "scan": "https://archive.org/details/toddlectureserie09royauoft",
+            "ga": [
+                [
+                    "Domun duthain a lainde,",
+                    "comul caire cet cuire,",
+                    "brec ilar lith fri labrad,",
+                    "acht adrad rig na n-uile."
+                ],
+                [
+                    "Rof&ith each recht im road,",
+                    "roscaich each cert co grian;",
+                    "Temair indiu cid fasach,",
+                    "bói re ba nasad niad."
+                ],
+                [
+                    "Nirbo thraig a tor tóebach,",
+                    "diarbo hoenach scor scelach;",
+                    "ba mor ndam diarbo domgnas",
+                    "in diinad fondglas ferach."
+                ],
+                [
+                    "Ba dind n-ordnide n-imglicc;",
+                    "ba borg-bile co mbodb-slait;",
+                    "fri taidbsin ba druimm n-airdirc",
+                    "i n-aimsir ui Chuind Cormaic."
+                ],
+                [
+                    "Is c&em in gairm noscóema,",
+                    "ainm doróega sech riiama;",
+                    "tarca Bóind bró baga",
+                    "Cathir Chrófind, cro biiada."
+                ],
+                [
+                    "Dia mboi Cormac fri clotha,",
+                    "ba reil roblad a retha:",
+                    "ni frith dun amail Temraig,",
+                    "ba si run belaig betha."
+                ],
+                [
+                    "Bale a brig-sain fiad buidnib",
+                    "ind rig-sain raided Temraig;",
+                    "is ferr diiin tó1aib fine",
+                    "tuirem a thige teglaig."
+                ],
+                [
+                    "IN tech mór milib amus",
+                    "do dinib nirbo dolus;",
+                    "cathir glan glerib glain-fer",
+                    "secht cet traiged a tomus."
+                ],
+                [
+                    "Nistairchell baise burba,",
+                    "na cumga gaise garga;",
+                    "nirbo rubach fria terba,",
+                    "só cóic cubat a harda."
+                ],
+                [
+                    "Nói cluid, nisclui garb-drend,",
+                    "la nói ndiii 'n-a timchell,",
+                    "fri find-airbert na find-chrand,",
+                    "cathir imairderc imthend."
+                ],
+                [
+                    "Adba ind rig, riad rinde,",
+                    "forsndailte fin co finde,",
+                    "ba din, ba dun, ba dindgna,",
+                    "tri chóicait imda inde."
+                ],
+                [
+                    "Tri chóicait laech co laindib,",
+                    "nirbo borg baeth ar bruidin,",
+                    "ba só lucht, Hnib dindgnai,",
+                    "cecha imdai de suidib."
+                ],
+                [
+                    "Ba halaind in s!óg samlaid;",
+                    "taitned ór ar a n-idnaib:",
+                    "tri choicait airel n-ergnaid,",
+                    "cóica each airel imglain."
+                ],
+                [
+                    "Secht cubait, cen nach condail,",
+                    "fiad in daim drongaig drennaig,",
+                    "fri hannud sutrall solus,",
+                    "ba se tomus in tellaig."
+                ],
+                [
+                    "A secht n-aile, rochuala,",
+                    "fri cert glaine cen sóna,",
+                    "sógda sainemla saera",
+                    "caema caindelbra creda."
+                ],
+                [
+                    "IN chathir grianach glan-sm",
+                    "fledacb fianach co fondsib,",
+                    "inde fri soichli solus",
+                    "da secht ndorus de dorsib."
+                ],
+                [
+                    "Ba hó dliged ind rig-sin,",
+                    "61 asnibed in slog-sin;",
+                    "ba mót mór-mór in Ian-sin,",
+                    "tri chót 61 isind 61- sin."
+                ],
+                [
+                    "A n-61 n-uidech fri hiiabur",
+                    "na ruirech riiad, na rain-fer,",
+                    "nirbo dimbraig don airem;",
+                    "tri chót dailem nosdailed."
+                ],
+                [
+                    "Nói cóicait stab a roga,",
+                    "ba si dal, toga a tuile,",
+                    "sech ba carrmocol glan-balc,",
+                    "ba hor ba hargat uile."
+                ],
+                [
+                    "Tri chóicait coica ngalach,",
+                    "cen nach n-anad fri fuirech,",
+                    "fri hairer, cennach tó1ach,",
+                    "na rig rógach, na ruirech."
+                ],
+                [
+                    "Coica rechtaire randa",
+                    "lasin flaith f alda firda;",
+                    "coica foss fledach fir-glan",
+                    "la cóicait ri'glach rigda."
+                ],
+                [
+                    "Cóica laech i n-a sessam",
+                    "connoitis in fael fossad,",
+                    "cóin bid in ri ac óul,",
+                    "ar na bad doud dossam."
+                ],
+                [
+                    "Ba ban don mal ba móu,",
+                    "ar each 1óu ba lia:",
+                    "tricha cet nochonfuirged,",
+                    "mac Airt tuirmed each dia."
+                ],
+                [
+                    "Cend-drong filed fo firda,",
+                    "saigtis dliged a ndala,",
+                    "is derb ni baes cia 'tbera",
+                    "co n-aes chena each dana."
+                ],
+                [
+                    "Tuirmem teglach i ndalaib",
+                    "tige Temrach do dinib:",
+                    "is i-seo a n-arim fire,",
+                    "tricha mile de milib."
+                ],
+                [
+                    "Diambói Cormac i Temraig,",
+                    "ar roblat ós each rogail,",
+                    "rig-athgein meic Airt óenfir",
+                    "ni frith de dóinib domain. D."
+                ],
+                [
+                    "Cormac co cajme chrotha",
+                    "ba fotha fond-bale flatha;",
+                    "genair ó Echtaig imgil",
+                    "mac do ingin Uilc Acha."
+                ],
+                [
+                    "O bói Solom oc siriud,",
+                    "ferr each ciniud fri comul,",
+                    "gein bad chumma fri Cormac",
+                    "a De in tormalt domun? D."
+                ]
+            ],
+            "en": [
+                [
+                    "This world, transient its splendour",
+                    "perishable gathering of an hundred hosts;",
+                    "deceitful to describe is the multitude of delights,",
+                    "save only the adoration of the King of all things."
+                ],
+                [
+                    "Perished is every law concerning high fortune,",
+                    "crumbled to the clay is every ordinance;",
+                    "Temair, though she be desolate to-day,",
+                    "once on a time was the habitation of heroes."
+                ],
+                [
+                    "There was no exhaustion of her many-sided towers,",
+                    "where was the assembly of storied troops;",
+                    "many were the bands whose home was",
+                    "the green-soiled grassy keep."
+                ],
+                [
+                    "It was a stronghold of famous men and sages,",
+                    "a castle like a trunk with warrior-scions,",
+                    "a ridge conspicuous to view,",
+                    "in the time of Cormac grandson of Conn."
+                ],
+                [
+                    "Fair is the title that adorns it,",
+                    "the name he chose [to mark it out] among cities;",
+                    "the Fort of Crofind, pen of victory,",
+                    "excels Boand, millstone of combat."
+                ],
+                [
+                    "When Cormac was among the famous",
+                    "bright shone the fame of his career;",
+                    "no keep like Temair could be found;",
+                    "she was the secret place of the road of life."
+                ],
+                [
+                    "Strong before hosts was the might",
+                    "of this king who used to ride through Temair;",
+                    "better for us than tribes unnumbered",
+                    "is the tale of his household retinue."
+                ],
+                [
+                    "The great house with thousands of soldiers",
+                    "was not obscure to posterity;",
+                    "the shining fort with distinctions of the illustrious,",
+                    "seven hundred feet was its measure."
+                ],
+                [
+                    "Fierce folly did not hold sway over it,",
+                    "nor strictness of harsh wisdom;",
+                    "there was no violence to annoy it,",
+                    "six times five cubits was its height."
+                ],
+                [
+                    "Nine walls it had, fierce fight could not demolish,",
+                    "with nine ramparts round about them;",
+                    "with noble equipment of the noble scions,",
+                    "it was a fort illustrious and impregnable."
+                ],
+                [
+                    "The dwelling of the king, commotion of lances,",
+                    "whereon was poured out the sparkling wine,",
+                    "was a refuge, a keep, a fortress,",
+                    "there were thrice fifty chambers in it."
+                ],
+                [
+                    "Thrice fifty heroes with coronets, —",
+                    "(it was a castle not foolish and brawling)",
+                    "that was the tale, according to the counts of fortresses,",
+                    "in every chamber of the number."
+                ],
+                [
+                    "Goodly was the throng in this wise,",
+                    "the gold gleamed from their weapons;",
+                    "thrice fifty stately couches there were,",
+                    "and fifty men to each shining couch."
+                ],
+                [
+                    "Seven cubits, without any dividing,",
+                    "before the crowded warlike company,",
+                    "with blazing torches burning,",
+                    "that was the measure of the hearth."
+                ],
+                [
+                    "Other seven, I have heard,",
+                    "made in truth a brightness beyond denial,",
+                    "majestic, notable, noble,",
+                    "beautiful chandeliers of brass."
+                ],
+                [
+                    "This sunny shining citadel,",
+                    "festive, martial, with cask-staves,",
+                    "therein, amid radiant hospitality,",
+                    "were doors twice seven in number."
+                ],
+                [
+                    "This was the right of that king —",
+                    "a vessel from which that host would drink,",
+                    "a vast capacity was the full content thereof,",
+                    "three hundred draughts there were in that vessel."
+                ],
+                [
+                    "Harmonious and stately was the carouse",
+                    "of the fiery chieftains and noblemen; —",
+                    "there were none neglected of the number;",
+                    "three hundred cupbearers dispensed the liquor."
+                ],
+                [
+                    "Nine times fifty beakers to choose from;",
+                    "this was the custom, — a plentiful choice for all;",
+                    "except what was carbuncle, clear and strong,",
+                    "all was gold and silver."
+                ],
+                [
+                    "Thrice fifty steaming cooks,",
+                    "in attendance unceasingly,",
+                    "with victuals, an abundant supply,",
+                    "on the jolly kings and chieftains."
+                ],
+                [
+                    "Fifty noble stewards",
+                    "with the lordly honourable prince,",
+                    "fifty festive spruce lackeys,",
+                    "with [each] fifty of kingly champions."
+                ],
+                [
+                    "Fifty men standing",
+                    "guarded the sturdy wolf,",
+                    "as long as the king was a-drinking,",
+                    "that no trouble might visit him."
+                ],
+                [
+                    "It was glory to the prince that was greatest,",
+                    "every day [his retinue] was more numerous;",
+                    "thirty hundreds whom he kept in attendance",
+                    "the son of Art counted daily."
+                ],
+                [
+                    "The chief company of the good genuine poets",
+                    "who declared the rule of their assembly,",
+                    "along with the professors of every art in general,",
+                    "'tis certain whatever that company says is not folly."
+                ],
+                [
+                    "Let us tell in full tale the household",
+                    "of the house of Temair for posterity;",
+                    "this is their right number,",
+                    "thirty thousands in all."
+                ],
+                [
+                    "When Cormac was in Temair,",
+                    "beyond all high prowess for his great might,",
+                    "a kingly equal to the son of Art Oenfer",
+                    "was not to be found among the men of the world."
+                ],
+                [
+                    "Cormac, fair of form,",
+                    "was the firm set foundation of the kingdom;",
+                    "he was born of white-skinned Echtach,",
+                    "[he was] son of the daughter of Ulc Acha."
+                ],
+                [
+                    "Since Solomon was...",
+                    "who was better than all progenies together,",
+                    "what offspring that would match Cormac",
+                    "hath the earth devoured, O God?"
+                ]
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Temair V",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part I (Todd Lecture Series VIII, 1903)",
+            "pages": null,
+            "scan": "https://archive.org/details/toddlectureseri02acadgoog",
+            "ga": [
+                [
+                    "Temair, Tailtiu, tír n-denaig,",
+                    "Baigne, Rachru, ráith n-dabair,",
+                    "Cnuillend oo n-abainn Crommad,",
+                    "Tromra, Trommad, Druim Suamaig,"
+                ],
+                [
+                    "A síd i mBruig, bid euman,",
+                    "Cumar Druman, Druim Oalad,",
+                    "Belat, Blatine, Bruigin,",
+                    "Muincille, Mured, Maigin,"
+                ],
+                [
+                    "Cermna, Caprach, is Callann;",
+                    "Mag mBreg co n-ilar drummann,",
+                    "Cnoo Dabilla, Mag-Mellenn,",
+                    "Crinna, Oerrenn, Colt, Cuillend,"
+                ],
+                [
+                    "Muirtemne, Tlachtga, Tuirbe,",
+                    "Séilighe, Slanga, Semne,",
+                    "Sid Muine méerda mrechtgna,",
+                    "Echtga, Ochaine, Ai, Aigle,"
+                ],
+                [
+                    "” Nás, Carman, Cualu, Celbe,",
+                    "Raigniu, Rafann, is Rairenn, n",
+                    "Dún Inteing, Dún Cláir, Dún Cres,",
+                    "Dún mBrea, ocus Dún Cairenn, so"
+                ],
+                [
+                    "Ba Ed HSS8:VX. Partly illegible in Ed & H, almost entirely ao in",
+                    "Temair, Tailtiu, land of assembly,",
+                    "Baigne, Rachra, proud rath,",
+                    "Cuillend with the river Crommad,"
+                ],
+                [
+                    "Tromra, Trommad, Druim Suamaig,",
+                    "The Mound at Brug, it shall be remembered,",
+                    "Camar Droman, Druim Calaid,",
+                    "Belst, Blaitine, Bruigin,"
+                ],
+                [
+                    "Muincille, Mured, Maigin,",
+                    "Cermna, Caprach, and Callann,",
+                    "Mag Breg with numerous hills,",
+                    "Cnoc Dabills, Mag Mellenn,"
+                ],
+                [
+                    "Crinna, Cerrenn, Colt, Cuillend,",
+                    "‘Muirtemne, Tlachtga, Tuirbe,",
+                    "BSuilighe, Slangs, Semne,",
+                    "Sid Muine, majestic, many-hued,"
+                ],
+                [
+                    "Echtga, Ochaine, Ai, Aiglo,",
+                    "Nas, Carman, Cualu, Celbe,",
+                    "Raigniu, Rafann, and Rairenn,",
+                    "Dun Inteing, Dun Clair, Dun Crea,"
+                ],
+                [
+                    "Dun Brea, and Dun Cairenn, -",
+                    "Uisnech, Athais, Ard Feds,",
+                    "Slemun, Sláine, Sid Cobs,",
+                    "Dermag dairechda druimnech,"
+                ],
+                [
+                    "Lusmag, Luimnech, Lecce Lega,",
+                    "- Druim Réaid, Druim Rig, Druim Rossa,",
+                    "Druim Criad, Druim Cáin, Druim Cressa,",
+                    "Druim nDían, Druim nDailb, Druim nEssa,"
+                ],
+                [
+                    "Druim Meith, Druim nAird, Druim nDressa,",
+                    "Eithmann, Aisi, Ard nGabla,",
+                    "Cernna, Collamair, Cnogba,",
+                    "Crufot, Crinna, Créach Aigle,"
+                ],
+                [
+                    "Uachtar nAilbe, Ard Odba.",
+                    "Brí Scáil, Bri Aire, Bri Áine,",
+                    "Brí Breg, Bri Ech, Bri Féle,",
+                    "Brí Molt, Brí Dam, Brí Díle,"
+                ],
+                [
+                    "Brí Léith, ocus Bri Ele,",
+                    "Loch Dá Dall, Loch Faife find,",
+                    "Loch nIng, Loch nGabur, Loch nGand,",
+                    "Loch nDub, Loch nDreman, Loch nDond,"
+                ],
+                [
+                    "Loch Corr, Loch Cera, Loch Camm,",
+                    "Loch Rib, Loch Oúan, Loch Codail,",
+                    "Loch Uair, Loch Airc, Loch Enaig,",
+                    "Loch Lein, Loch Léig, Loch Lugair,"
+                ],
+                [
+                    "Loch Cuil, Loch Cimmi Cnedaig,",
+                    "85",
+                    "Uisnech, Athais, Ard Feda,",
+                    "Slemun, Slaine, Sid Coba,"
+                ],
+                [
+                    "Dermag of the oakwoods and the hills,",
+                    "Lusmag, Luimnech, Leco Loga,",
+                    "Druim Ruaid, Druim Rig, Druim Rossa,",
+                    "Druim Criad, Druim Cain, Druim Oressa,"
+                ],
+                [
+                    "Druim Dian, Druim Dailb, Druim Essa,",
+                    "Druim Meith, Druim Aird, Druim Dressa,",
+                    "Eithmann, Aisi, Ard Gabla,",
+                    "Cernna, Collamair, Cnogba,"
+                ],
+                [
+                    "Crafot, Crinna, Cruach Aigle,",
+                    "Uachtar Ailbe, Ard Odba,",
+                    "Bri Scail, Bri Aire, Bri Aine,",
+                    "Bri Breg, Bri Ech, Bri Fele,"
+                ],
+                [
+                    "Bri Molt, Bri Dam, Bri Dile,",
+                    "Bri Leith, and Bri Ele,",
+                    "Loch Da Dall, bright Loch Faife,",
+                    "Loch Ing, Loch Gabur, Loch Gand,"
+                ],
+                [
+                    "Loch Dub, Loch Dreman, Loch Dond,",
+                    "Loch Corr, Loch Cera, Loch Camm,",
+                    "Loch Rib, Loch Cuan, Loch Codail,",
+                    "Loch Uair, Loch Airc, Loch Enaig,"
+                ],
+                [
+                    "Loch Lein, Loch Laig, Loch Lugair,",
+                    "Loch Cuil, Loch Cimmi Cnedaig,",
+                    "Aire) airg Bd 883; airco V; scail H. — 34. Brí Ech) bri each Bd; bri aird H;",
+                    "Mag mBreg, Mag Find, Mag Ferai,"
+                ],
+                [
+                    "Mag Luirg, Mag Lí, Mag Line, '",
+                    "Mag Slecht, Mag Cé, Mag Cummai,",
+                    "Mag Moen, Mag Marc, Mag Mide,",
+                    "Sinan, Sligech, Srath nDomna,"
+                ],
+                [
+                    "Boand, Banna, ocus Berba,",
+                    "Goistine gleérda, Gréne,",
+                    "Féle, Life, Lind Segsa,",
+                    "Ath Oliath, Ath Croich, Ath Cuile, -"
+                ],
+                [
+                    "Ath f, Ath Oro, Ath Ele,",
+                    "Ath Luirg, Ath Lisin, Ath Créibe,",
+                    "Ath Fréich, Ath Fian, Ath Féne,",
+                    "Uasal eanad na cóic n-e88,\""
+                ],
+                [
+                    "Ess Ruaid, ba ri na sen-ess,",
+                    "Ess Croich, Ess Muiriath amuig,",
+                    "Ess Dubthaig, Ess Tigernaig,",
+                    "Báth Guill, Ráth Goirt, Ráth Gabra,"
+                ],
+                [
+                    "Ráth Mór, Ráth Méel, Ráth Medba,",
+                    "Réth Beco, Ráth Eich, Ráth Emna,",
+                    "Ráth Truim, Ráth Tail, Ráth Temra;—",
+                    "Dindgnai hErend farsodain"
+                ],
+                [
+                    "fosfdcbus, rád cen mebail,",
+                    "do nach ailiu bus chiallda,",
+                    "nodastrialla co Temair.",
+                    "Mag Breg, Mag Find, Mag Ferai, '"
+                ],
+                [
+                    "Mag Luirg, Mag Li, Mag Lino,",
+                    "Mag Slecht, Mag Ce, Mag Cummai,",
+                    "Mag Moen, Mag Maro, Mag Mide,",
+                    "Sinann, Sligech, Bruth Domna,"
+                ],
+                [
+                    "Boand, Banna, and Berba,",
+                    "shining Goistine, Grene,",
+                    "Fele, Life, Lind Begsa,",
+                    "Ath Cliath, Ath Croich, Ath Cuili,"
+                ],
+                [
+                    "Ce beith ós Banbai brainig",
+                    "ríg amrai, ard a medair, Ma",
+                    "ní fuil rechtas rig foraib",
+                    "acht a rig techtas Temair,"
+                ],
+                [
+                    "Maelsechlaind, géc co nglan-rath,",
+                    "focheird síth ima sen-mag;",
+                    "sech brón mbáis ós each diniu,’",
+                    "robé i rigiu Temrach."
+                ],
+                [
+                    "Tarain co bráth rosfodail",
+                    "re cách ós chách cen mebail,",
+                    "a d fri soichle sirblad,",
+                    "natab dfbdad i Temair. T."
+                ]
+            ],
+            "en": [
+                [
+                    "Though there be over imperial Banba",
+                    "famous kings—high their mirth!",
+                    "no kingly authority is binding on them",
+                    "save from the king that possesses Temair."
+                ],
+                [
+                    "Maelgechlaind, branch of bright fortune,",
+                    "spreads peace about the ancient plain,",
+                    "free from mortal pain beyond all generations,",
+                    "may he be in the kingship of Temair!"
+                ],
+                [
+                    "Thereafter, till Doomsday, may it be shared,",
+                    "before and above everyone without shame,",
+                    "by his line, ever famed for hospitality;",
+                    "may it never be extinct in Temair!"
+                ],
+                [
+                    "H8,V; gurib Rd. —¢_rigiw) hir rigu Ba; a righea Ed; a righe 88; a ricche",
+                    "V; illeg.in H. Tomrash) a teamair Ed; a Temraigh, &¢.,8:V. 17. rosfedail)",
+                    "83; rusfod V; rosfogail H; ronfoghail 883; fodairi Bd; iarsodhain Ed."
+                ]
+            ],
+            "incomplete": [
+                136,
+                15
+            ]
+        }
+    ]
+}

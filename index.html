@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https://tiles.maps.eox.at https://*.tile.opentopomap.org; style-src 'self'; script-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<title>Dindshenchas Map</title>
+<meta name="description" content="The places of the metrical and prose dindshenchas, the medieval Irish lore of places, mapped on modern Ireland.">
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <h1>Dindshenchas</h1>
+  <p class="tagline" data-i18n="tagline">Ireland's place lore</p>
+  <button type="button" id="ui-lang-btn" class="link-btn" lang="ga">Gaeilge</button>
+  <button type="button" id="about-btn" class="link-btn" aria-haspopup="dialog" data-i18n="about">About</button>
+</header>
+
+<main class="layout">
+  <div id="map" role="application" data-i18n-aria="mapLabel" aria-label="Map of Ireland with dindshenchas places"></div>
+
+  <aside id="panel" class="panel" aria-live="polite">
+    <div id="panel-home">
+      <h2 data-i18n="places">Places</h2>
+      <p class="hint" data-i18n="choose">Choose a marker on the map, or a name below.</p>
+      <ul id="place-list" class="place-list"></ul>
+      <h3 data-i18n="unlocated">Not yet located</h3>
+      <p class="hint" data-i18n="unlocatedHint">Places whose modern location is disputed or unknown.</p>
+      <ul id="unlocated-list" class="place-list"></ul>
+      <div class="legend">
+        <span><i class="dot certain"></i> <span data-i18n="legendCertain">Identification certain</span></span>
+        <span><i class="dot probable"></i> <span data-i18n="legendProbable">Probable</span></span>
+        <span><i class="swatch"></i> <span data-i18n="legendArea">Extent of a lake, river or range</span></span>
+        <span><i class="swatch approximate"></i> <span data-i18n="legendApprox">Approximate extent</span></span>
+      </div>
+    </div>
+
+    <article id="entry" hidden>
+      <button type="button" id="back-btn" class="link-btn" data-i18n="back">← All places</button>
+      <h2 id="entry-title"></h2>
+      <p id="entry-subtitle" class="subtitle"></p>
+      <p id="entry-note" class="note" hidden></p>
+      <div id="entry-figures"></div>
+      <div class="tabs" role="tablist" data-i18n-aria="textLanguage" aria-label="Language of the text">
+        <button type="button" role="tab" id="tab-en" aria-selected="true" data-lang="en" data-i18n="tabEnglish">English</button>
+        <button type="button" role="tab" id="tab-ga" aria-selected="false" data-lang="ga" data-i18n="tabIrish">Old Irish</button>
+      </div>
+      <div id="entry-sections"></div>
+      <footer class="sources">
+        <h3 data-i18n="sources">Sources</h3>
+        <ul id="sources-list"></ul>
+        <p class="ocr-note" data-i18n="ocrNote">Text transcribed by machine from scans of the printed editions and not yet proofread. Follow the scan links to check readings.</p>
+        <p id="entry-links" class="links"></p>
+      </footer>
+    </article>
+  </aside>
+</main>
+
+<dialog id="about">
+  <div data-ui-lang="en" lang="en">
+    <h2>About this map</h2>
+    <p>The <i>dindshenchas</i> (“lore of places”) is a medieval Irish collection of stories explaining how places got their names, in prose and in verse.</p>
+    <p>Texts are from public-domain editions: Whitley Stokes, “The Prose Tales in the Rennes Dindshenchas”, <i>Revue Celtique</i> 15–16 (1894–95), and Edward Gwynn, <i>The Metrical Dindshenchas</i>, Parts I–III (1903–1913) and <i>Poems from the Dindshenchas</i> (1900), via scans at the Internet Archive.</p>
+    <p>The original-language text is Middle Irish, the later medieval stage of the language usually grouped with Old Irish.</p>
+    <p>Satellite imagery: EOxCloudless by EOX IT Services GmbH (contains modified Copernicus Sentinel data), non-commercial licence CC BY-NC-SA 4.0. Terrain map: © OpenTopoMap (CC BY-SA) and © OpenStreetMap contributors. Area shapes: lake and river outlines © OpenStreetMap contributors (ODbL); mountain extents traced from EU-DEM elevation data (Copernicus, funded by the European Union). Coastline: Natural Earth (public domain). Place data: Wikidata (CC0) and Logainm.ie (CC BY 4.0). Photos: Wikimedia Commons, credited on each place.</p>
+    <!-- Replace YOUR_HANDLE (twice in each language) with the real X/Twitter account -->
+    <p class="contact">Made by <a href="https://x.com/YOUR_HANDLE">@YOUR_HANDLE</a>. If you would like to contribute a translation, a correction, a photograph or a proofread text, or just want to talk about the dindshenchas, get in touch there.</p>
+  </div>
+  <div data-ui-lang="ga" lang="ga" hidden>
+    <h2>Faoin léarscáil seo</h2>
+    <p>Bailiúchán meánaoiseach Gaeilge is ea an <i>dindshenchas</i> (“seanchas na n-áiteanna”) de scéalta, i bprós agus i véarsaíocht, a mhíníonn conas a fuair áiteanna a n-ainmneacha.</p>
+    <p>Is ó eagráin atá i bhfearann an phobail na téacsanna: Whitley Stokes, “The Prose Tales in the Rennes Dindshenchas”, <i>Revue Celtique</i> 15–16 (1894–95), agus Edward Gwynn, <i>The Metrical Dindshenchas</i>, Codanna I–III (1903–1913) agus <i>Poems from the Dindshenchas</i> (1900), trí scananna sa Internet Archive.</p>
+    <p>Meán-Ghaeilge atá sa bhuntéacs, an chéim dhéanach mheánaoiseach den teanga, a áirítear go minic leis an tSean-Ghaeilge.</p>
+    <p>Íomhánna satailíte: EOxCloudless ó EOX IT Services GmbH (ina bhfuil sonraí Copernicus Sentinel leasaithe), ceadúnas neamhthráchtála CC BY-NC-SA 4.0. Léarscáil thír-raoin: © OpenTopoMap (CC BY-SA) agus © rannpháirtithe OpenStreetMap. Cruthanna limistéir: imlínte locha agus abhann © rannpháirtithe OpenStreetMap (ODbL); fairsinge sléibhte rianaithe ó shonraí airde EU-DEM (Copernicus, maoinithe ag an Aontas Eorpach). Cósta: Natural Earth (fearann an phobail). Sonraí áite: Wikidata (CC0) agus Logainm.ie (CC BY 4.0). Grianghraif: Wikimedia Commons, le creidiúint ag gach áit.</p>
+    <p class="contact">Rinne <a href="https://x.com/YOUR_HANDLE">@YOUR_HANDLE</a> an suíomh seo. Más mian leat cur leis, le haistriúchán, ceartúchán, grianghraf nó téacs profléite, nó más maith leat labhairt faoin dindshenchas, déan teagmháil ansin.</p>
+  </div>
+  <form method="dialog"><button type="submit" data-i18n="close">Close</button></form>
+</dialog>
+
+<script src="vendor/leaflet/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,310 @@
+{
+    "id": "loch-n-erne",
+    "name_mir": "Loch nÉrne",
+    "name_ga": "Loch Éirne",
+    "name_en": "Lough Erne",
+    "county": "Fermanagh",
+    "county_ga": "Contae Fhear Manach",
+    "kind": "lake",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Lough Erne",
+    "wikipedia_ga": "Loch Éirne",
+    "logainm": null,
+    "images": [
+        {
+            "file": "img/loch-n-erne-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Lough_Erne.jpg",
+            "author": "The original uploader was Neutrality at English Wikipedia.",
+            "licence": "Public domain",
+            "licence_url": null,
+            "caption": "en:Lough Erne in en:County Fermanagh of en:Northern Ireland. Photograph taken en:June 18, en:2002, with a Canon D60 camera. [1]",
+            "date": "24 October 2004 (original upload date)"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 80,
+            "title": "Loch nÉrne",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": null,
+            "scan": "https://archive.org/details/revueceltique15pari",
+            "ga": [
+                "(Lee. 498O.",
+                "Loch n-Eirne, c:nas rohainmniged?",
+                "Ni ansa. Fiacha Labraindi dorad cath and do Ernaib, coinid and romebaid in loch fo thir, unde Loch n-Erne dicitur. no for Ernaib.",
+                "Ailittv; Erni ingen Buirc Buircadáich maie Ma[n]chin maie Machon5, bantaisech ingenraid[e] na Cruachnai 7 banchoi-",
+                "484 Whiiley Stokes.",
+                "medaith do chiraib 7 do clioirib Meidbi Cruachan. Fecht ann doluid Ole Ai a huaim Chruachan do chomroc fri hAimirgiii nlargi[u]ndach dia rofai la Findchaim ingiii Magach, cond.d and rochroith Ole Ai a ulcha 7 robean a deda, co ndeachaid Erne coin hingenaib [p. 498''] for fualang ar a imoman, co riacht Loch iiÉrne, co robaidead and diblinaib. Unde Loch nErnc dicitur."
+            ],
+            "en": [
+                "Fiacha Labrainnc gave battlc there to the Ërnai and there (during the battle) the lake burst forth under ground, whence Loch Erne is said.",
+                "Otherwise: Erne daughter of Borg the Bellowing, son of Manchín, son of Machu', chieftainess of the giris of Cruachan and keeper of Medb of Cruachan's combs and caskets4. Once npon a time Ole Ai issued from the Cave of Cruachu to contend with Amorgen the Blackhaired when he slept with Findchoem daughter of Magach. And then Ole Ai shook his beard and gnashed his teeth so that Érne and her maidens because of her terror went to flight, and reached Loch Ërne, and there they were ail drowned. Whence Loch Èrne is said."
+            ],
+            "notes": [
+                "Also in BB. 591-^ 18: H. 49^'; and Ed. 4b i. Vcrsified, LL. 212'^'. Ediicd (froni Lee), Procecdings of Ibe R. I. A., Irish MSS. Séries, I, 186: (from Ed.), Folklore, IY,A^6.",
+                "Amargen the father of Conall Cernach. Sec LU. 98t.",
+                "Fiacha Lahraiune so called hecause the first evcnt of his reign was the burstuig forth of Loch Labrainnc. Sec the Coir Ainuann and Four Masters, A. M. 37^1."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Loch Erne",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                460,
+                467
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/460/mode/2up",
+            "ga": [
+                [
+                    "Loch nErne, ard a oscur,",
+                    "ba lind garg cen glan-fostud,",
+                    "diar' thadbain a thescul tiiaid",
+                    "i fescur fagmair find-luain."
+                ],
+                [
+                    "Fiachu Labraind, h'nib sluag,",
+                    "ós cech arm-raind co n-iraluad,",
+                    "glace cen imroll im gnim nga,",
+                    "mace do Smirgoll mace Smertha."
+                ],
+                [
+                    "Smertha co n-engnom fuilech",
+                    "mace do Senboth sir-guinech",
+                    "fer i n-il-ernmais fichthig,",
+                    "mace Tigernmais tren-rigthig."
+                ],
+                [
+                    "Eochuir cath Carmain in chleth",
+                    "Fiachu Labrain ba laech-breth,",
+                    "hi fuair brath mbaeguil cen baig",
+                    "Eochu Faebuir mac Conmail."
+                ],
+                [
+                    "larum rorigad cen raind",
+                    "Fiachu fir-glan, fuair Labraind,",
+                    "fiche a cethair, noeho go,",
+                    "co rodmarb Echaid Mumo."
+                ],
+                [
+                    "Cethri tomadmann, tomsid,",
+                    "hi flaith Fhiachach fir-longsig:",
+                    "ni rosmairn mesce 'malle,",
+                    "maidm Flesce is fir-Mainne,"
+                ],
+                [
+                    "Tomaidm Labrandi al-Li'athmaig",
+                    "ó samlam-ni ar soer-Flriachaig:",
+                    "maidm locha Erne cen ail:",
+                    "tairm dar trocha rathocaib."
+                ],
+                [
+                    "Cethri catha re Fiachaig,",
+                    "reim ratha, for rothriathaib,",
+                    "roscuir ri Beirre bladaig",
+                    "co cath sleibe Belgadain."
+                ],
+                [
+                    "Cath Fairgge, fedil in fuaim,",
+                    "cath sleibe Femin find-luain;",
+                    "is ardd rothatlaig in tress,",
+                    "cath garg Gatlaig na ngnath-bress."
+                ],
+                [
+                    "Cethramad cath roclmir de",
+                    "or Ernaib, rorath reme:",
+                    "suail na rusdilgenn dia gail",
+                    "Fiachu fir-thend flaith Fobair."
+                ],
+                [
+                    "Andsin romemaid in loch",
+                    "fosin fedain, ronuar-chroth:",
+                    "isin chrich, ra gle-raind gluair,",
+                    "hi mbatar Eraind arm-ruaid."
+                ],
+                [
+                    "Desin ata in gairm co ngail,",
+                    "ainm locha Erne adbail,",
+                    "cia robaided and iarsain",
+                    "Erne ailgen imchubaid."
+                ],
+                [
+                    "Erne chaid cen chuird cnedaig",
+                    "ingen Buirg bain biiredaig",
+                    "ba sargad sair-thrin in son",
+                    "ban- mac Mainchin maic Mochon."
+                ],
+                [
+                    "Erne noisech cen nemain",
+                    "ba tóisecb for ingenaib",
+                    "hi Baith Cruachan na reb reid;",
+                    "nirb uathad ben 'ca bith-reir."
+                ],
+                [
+                    "Aicci nobitis ria mess",
+                    "min-seoit Medba na mór-tbress,",
+                    "a cir a criol cen chlod",
+                    "cona diol do derg-ór."
+                ],
+                [
+                    "Co tanic bi Cruachain cais",
+                    "Olcai co n-iiath-blaid amnais,",
+                    "cor' chroith a ulcba ar in slog",
+                    "in garb-fer doith daiger-mor."
+                ],
+                [
+                    "Eoscaindre fo Chruaich Cera",
+                    "na haindre, na bingena,",
+                    "taidbsin a cbrotha fo chair,",
+                    "gairbsin a gotha gloraig."
+                ],
+                [
+                    "Kotheich Erne, ilur mban,",
+                    "fo loch Erne, nach inglan,",
+                    "cor' dail tairsiu a thuile thuaid,",
+                    "corosbajd uile i n-oen-iiair."
+                ],
+                [
+                    "Cm bad uadaib, is breth chert",
+                    "fiad na sluagaib, ni soeb-recht,",
+                    "is tairm dar trocha rothairg",
+                    "ainm locba Erne imaird. Loch."
+                ],
+                [
+                    "A ri, rop fedil fir dam",
+                    "failte demin dom didnad,",
+                    "for nim co mbuadaib roinbe,",
+                    "a fir tiiargaib loch nErne. Loch."
+                ]
+            ],
+            "en": [
+                [
+                    "Loch Erne — high its leap!",
+                    "was a turbulent pool, without bright tranquillity,",
+                    "when first it showed its troubled waters in the north,",
+                    "on a radiant evening in harvest."
+                ],
+                [
+                    "Fiachu Labraind, with numerous hosts",
+                    "extolled beyond every armed squadron,",
+                    "unerring hand in use of spears,",
+                    "was son to Smirgoll son of Smertha."
+                ],
+                [
+                    "Smertha, famed for bloody prowess,",
+                    "was son to ever-combative Senboth,",
+                    "a warrior proved in frequent carnage,",
+                    "son of strong-armed Tigernmas."
+                ],
+                [
+                    "The chieftain arrayed the battle of Carmun,",
+                    "even Piachu Labraind — it was a warlike arbitrament —",
+                    "wherein Eochu Faebuir son of Conmael",
+                    "fell ingloriously by treacherous chance."
+                ],
+                [
+                    "Fiachu right radiant, he that found Labraind,",
+                    "was made king thereafter without division,",
+                    "and reigned four and twenty years, 'tis sooth,",
+                    "till Echaid Mumo slew him."
+                ],
+                [
+                    "Four outburstings reckon ye",
+                    "in the reign of right-adventurous Fiachu —",
+                    "strong drink hath not confounded them together —",
+                    "the bursting of the Flesc, and of the Mand,"
+                ],
+                [
+                    "The outbreaking of the Labraind from Liathmag 2J>",
+                    "whence we draw a like name for noble Fiachu:",
+                    "the bursting of blameless Loch Erne,",
+                    "an imperishable name hath exalted it."
+                ],
+                [
+                    "Four battles were won by Fiachu",
+                    "over high chieftains (a prosperous career);",
+                    "the king of Berre set them in array,",
+                    "down to the battle of Sliab Belgadain."
+                ],
+                [
+                    "The battle of Fairge — enduring the name —",
+                    "the battle of radiant Sliab Femin:",
+                    "loudly he demanded the third battle,",
+                    "the fierce battle of Gatlach, scene of conflict."
+                ],
+                [
+                    "A fourth battle he arrayed thereafter",
+                    "against the Erainn, — fortune went before him:",
+                    "he well-nigh obliterated them by his valour,",
+                    "strong Fiachu, lord of Fobar."
+                ],
+                [
+                    "Then the lake burst forth",
+                    "under the array, till it quaked with cold,",
+                    "in the country, with its pure bright portion,",
+                    "where dwelt the red -armed Erainn."
+                ],
+                [
+                    "Hence comes the valiant title,",
+                    "the name of vast Loch Erne;",
+                    "though afterwards there was drowned there",
+                    "the gentle comely Erne."
+                ],
+                [
+                    "The chaste Erne, who knew no art of wounding,",
+                    "the daughter of loud-shouting Borg Ban",
+                    "the white-skinned son of Mainchin son of Mochu.",
+                    "The noble Erne, free from malice,"
+                ],
+                [
+                    "was chief among the maidens",
+                    "",
+                    "in Rath Cruachan, home of lightsome sports:",
+                    "women not a few obeyed her will."
+                ],
+                [
+                    "To her belonged, to judge of them,",
+                    "the trinkets of Medb, famed for combats,",
+                    "her comb, her casket unsurpassed,",
+                    "with her fillet of red gold."
+                ],
+                [
+                    "There came to thick-wooded Cruachu",
+                    "Olcai with grim and dreadful fame,",
+                    "and he shook his beard at the host,",
+                    "the swift and fiery savage."
+                ],
+                [
+                    "The young women and maidens",
+                    "scattered throughout Cruach Cera",
+                    "at the apparition of his grisly shape",
+                    "and the roughness of his brawling voice."
+                ],
+                [
+                    "Erne fled, with a troop of women,",
+                    "under Loch Erne, that is never dull,",
+                    "and over them poured its flood northward",
+                    "and drowned them all together."
+                ],
+                [
+                    "Though it may be from them — 'tis a sure judgment",
+                    "in presence of the hosts, and no crooked law, —",
+                    "it is an imperishable title that it has achieved,",
+                    "even the name of noble Loch Erne."
+                ],
+                [
+                    "O King, may I have, safe and certain,",
+                    "a sure welcome to comfort me!",
+                    "may I find it in glorious Heaven,",
+                    "O thou that dost exalt Loch Erne!"
+                ]
+            ]
+        }
+    ]
+}

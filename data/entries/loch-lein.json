@@ -1,0 +1,225 @@
+{
+    "id": "loch-lein",
+    "name_mir": "Loch Léin",
+    "name_ga": "Loch Léin",
+    "name_en": "Lough Leane",
+    "county": "Kerry",
+    "county_ga": "Contae Chiarraí",
+    "kind": "lake",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Lough Leane",
+    "wikipedia_ga": "Loch Léin",
+    "logainm": "101302",
+    "images": [
+        {
+            "file": "img/loch-lein-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Loch_L%C3%A9in_i_gContae_Chiarra%C3%AD,_%C3%89ire.jpg",
+            "author": "Ériugena",
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0",
+            "caption": "radharc ar an loch ó Chill Airne.",
+            "date": "Taken on 19 April 2024, 16:09:33"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 55,
+            "title": "Loch Léin",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                451
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/451/mode/1up",
+            "ga": [
+                "Loch Lcin, canas roainmniged?",
+                "Ni ansa. Leii Linfiaclach mac Ba[i]n Bolgaig vaeic Bannaigh- ïïieic Glamaigh meic Gomir. Cerd Side Buidb. Is é bói isin loch oc gnim niamW/ar Fainde ingine FHdis. lar scur a oip/'e cac/; n-óidhchi foccirded iiad a hindeoin sair co hlndeoin na nDeisicMnn fert, 7 tri frosa foceirdedh.i. fros usr/ 7 fros tined 7 f;'0s do nemoind corcarglain; 7 donith Nemannach 3 in cetna oc shiide chu[a]ich Concohair [meic Nessa] atuaid 7rl. ]de Loch [Léin nominatur]."
+            ],
+            "en": [
+                "Lén Linfiachich son of Bolgach, son of Bannach, son of Ghimmach, son of Gomer, was the craftsman of Sid Buidb ‘Bodb's Fairymound’. 'Tis he that lived in the iake, making the bright vessels ofFand daughter of Fhdais. Every night, after leaving off work, he would cast his anvil eastwards away to Indeóin na nDése ‘the Anvil of the Decies’, as far as thegravemound; and threeshowers it used to cast (to the holy grave), namely a shower of water and a shower of fire and a shower of pure purple gems. The same thing (i. e. the casting away of his anvil) Nemannach practisedwhenbeating out the cup of Conor mac Nessa in the north, etc. Whence Loch Léin is named."
+            ],
+            "notes": [
+                "Also in BB. 379=* 5: H. 32'': Lcc. 477'\"’: Bodl. 110. 18. Versified, LL. 154!' 35 4. Edited (froni BB.) in Silva Gadelica, 477, 523. O'Curry gives a précis of the taie in his Manners and Ctistoms, III, 203.",
+                "Loch Léin now the Lakes of Killarney in Kerry. Sid Boidh, also called Si'd Forain, in Munster. Indeóin na uDése now Mullaghnoney (i. e. Mullach indcona) near Clonmel, co. Tipperary.",
+                "4. In the lithographie facsimile, 154*' 42, saigne should bc faiHnc, and the wholc line should be read as: diar' chum ccn tiamgestal tais | niamIcstar Fainne Flidais. This will serve to correct the gibbcrish in O'Curry's Manners and Cusloms, III, 203, note (289).",
+                "45 2 Wlntley Stokes.",
+                "The three showers which the anvil used to cast as it seems, spontaneously, to the holy grave {co noehligi, LL. 154^49) seem to have been an offering to the ghost of the person (whoever he was) there buried."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Loch Lein",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                260,
+                265
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/260/mode/2up",
+            "ga": [
+                [
+                    "Dlegair do lind locha Lein",
+                    "athchomarc a heterchein,",
+                    "mar ta ós chach cen chuit mbróin",
+                    "fo blath ocus fo bith-g!óir."
+                ],
+                [
+                    "Eoboi tan ba fiad fertach,",
+                    "co n-ilur triath tairbertach:",
+                    "cia beith 'na rath-lind, lin bla,",
+                    "for seilb Fathlind male Aeda."
+                ],
+                [
+                    "ó dolluid for selbai slain",
+                    "Fathlind maic Aeda Damain",
+                    "loch in chuire chaim cen chair,",
+                    "laid do each duine dlegair."
+                ],
+                [
+                    "Atchiiala Lón, col-lin uird,",
+                    "do bith fo bruch a blath-buird,",
+                    "diarchum cen tiam-gestal tais",
+                    "niam-lestar Fainne Flidais."
+                ],
+                [
+                    "Oc Sid Buidb ba cerdd cen chair,",
+                    "Len Lin-fiaclach mac Bolgaig:",
+                    "Bolgach mac Bannaig, blad bil,",
+                    "ba mac Glammaig maic Gomir."
+                ],
+                [
+                    "Cid carbad, cid cathbarr óir,",
+                    "cid ciiach, cid cairche ciuil chóir,",
+                    "do Len ba fir deg-blad de,",
+                    "ba gnim erlam ria n-aidche."
+                ],
+                [
+                    "lar scur cech aidche, gnim cert,",
+                    "dond fiur foirbthe, nirb amnert,",
+                    "dia indeoin, focherdded-se",
+                    "liad co hindeóin na nDese."
+                ],
+                [
+                    "Tri frossa focherdded-si",
+                    "ind indeóin co n-óibligi,",
+                    "fross usci fedil fedma,",
+                    "fross do thenid trichemda:"
+                ],
+                [
+                    "In tress-fross co ngle-raind glain",
+                    "do nemaind chaim chorcar- glain,",
+                    "conid iat co ndenma dil",
+                    "nenma locha Lein lind-gil."
+                ],
+                [
+                    "Maraid loch Lein in laga,",
+                    "co n-immud tond tóeb-thana:",
+                    "i crich na nD£se dia deom",
+                    "maraid dia ese a indeóin."
+                ],
+                [
+                    "I flaith ^remoin cen ail,",
+                    "iar ngle-dedoil cen debaid,",
+                    "tuargaib, tar each soairna sair,",
+                    "tomaidni locha Lein lindmair."
+                ],
+                [
+                    "Atberat sund iar saine",
+                    "sair-fir ocus senchaide,",
+                    "co na frith ri taidbsin thair,",
+                    "co haimsir Cuind Chet-chathaig."
+                ],
+                [
+                    "Desin ata, ni tairm to,",
+                    "senchas locha Lein iar 16:",
+                    "is bretti a buide diar mblaid:",
+                    "do each duine ised dlegair. D."
+                ]
+            ],
+            "en": [
+                [
+                    "There is due to the water of Loch Lein",
+                    "a question from of yore,",
+                    "as it is free from sorrow beyond all,",
+                    "in beauty and endless glory."
+                ],
+                [
+                    "There was a time when it was a waste, a place of graves,",
+                    "with many a vigorous chieftain,",
+                    "though it be now a hallowed water, with fullness of fame,",
+                    "over the domain of Fathlind son of Aed."
+                ],
+                [
+                    "Since the lake of the fair blameless host",
+                    "spread over the entire domain",
+                    "of Fathlind son of Aed Daman,",
+                    "a lay is due to it from every man."
+                ],
+                [
+                    "I have heard of Len with hammers in plenty,",
+                    "as being under the marge of its blooming bank,",
+                    "where he shaped by no feeble forceless work",
+                    "the shining vessels of Fainne daughter of Flidais."
+                ],
+                [
+                    "At Sid Buidb he was a wright without reproach,",
+                    "Len Linfiaclach son of Bolgach:",
+                    "Bolgach son of Bannach — fair fame —",
+                    "was son of Glammach son of Gomer."
+                ],
+                [
+                    "Were it chariot or helmet of gold,",
+                    "were it cup or well-made instrument of music,",
+                    "justly Len won good fame therefrom,",
+                    "it was finished work ere night."
+                ],
+                [
+                    "After work ceased each night (right deed),",
+                    "for the accomplished man (no weakling he),",
+                    "at his anvil, he would fling it",
+                    "from him to the anvil of the Dese."
+                ],
+                [
+                    "Three showers would it fling forth —",
+                    "the anvil with its sparkles:",
+                    "a shower of water, unfailing, vigorous,",
+                    "a shower of flaming fire:"
+                ],
+                [
+                    "The third shower of pure bright quality",
+                    "was of lovely pure purple jewellery,",
+                    "so that these, lovely in purity,",
+                    "were the jewels of Loch Lein's clear waters."
+                ],
+                [
+                    "Loch Lein of the hero endures",
+                    "with multitude of lean-sided waves:",
+                    "in the land of the Dese by Len's will",
+                    "endures his anvil after him."
+                ],
+                [
+                    "In the reign of blameless Eremon",
+                    "after clear dawning free from strife",
+                    "sprang up, famous beyond every noble place in the east,",
+                    "the outburst of the waters of Loch Lein."
+                ],
+                [
+                    "They tell here variously",
+                    "both nobles and gleemen,",
+                    "that it was not found and manifested in the east",
+                    "till the time of Cond Cetchathach."
+                ],
+                [
+                    "Hence comes — no silent sound —",
+                    "the legend of Loch Lein in after days:",
+                    "thanks should be paid for our report:",
+                    "from every man this is due."
+                ]
+            ]
+        }
+    ]
+}

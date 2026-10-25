@@ -1,0 +1,330 @@
+{
+    "temair": [
+        {
+            "file": "img/temair-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Collinaditara.jpg",
+            "author": "Patrick Brown",
+            "licence": "CC BY-SA 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "caption": "The Hill of Tara, County Meath",
+            "date": "2005-08-29"
+        }
+    ],
+    "brug-na-boinne": [
+        {
+            "file": "img/brug-na-boinne-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Irelands_history.jpg",
+            "author": "Tjp finn",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "A front view of the Newgrange monument taken from outside the grounds",
+            "date": "2016-08-26"
+        },
+        {
+            "file": "img/brug-na-boinne-2.jpg",
+            "era": "historical",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Newgrange_(8294082764).jpg",
+            "author": "National Library of Ireland on The Commons",
+            "licence": "No restrictions",
+            "licence_url": "https://www.flickr.com/commons/usage/",
+            "caption": "For the day that's in it (Winter Solstice) and as the world doesn't seem to have ended, thought it might be fitting to celebrate an ancient aspect of Ireland's history. This photo of a girl at the ent",
+            "date": "1905"
+        }
+    ],
+    "cnogba": [
+        {
+            "file": "img/cnogba-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Knowth_from_the_southeast.jpg",
+            "author": "Rob Hurson",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "A ramp to the top of Knowth Passage Tomb Cemetery. The top of the site was occupied from the Iron Age, since it represented an easily defensible position. This persisted into the Middle Ages, when a c",
+            "date": "2014-09-21"
+        }
+    ],
+    "boand": [
+        {
+            "file": "img/boand-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:River_Boyne_-_aerial_-_2025-12-26_02.jpg",
+            "author": "瑞丽江的河水",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "River Boyne aerial photograph",
+            "date": "2025-12-26"
+        }
+    ],
+    "tlachtga": [
+        {
+            "file": "img/tlachtga-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Hill_of_Ward_-_geograph.org.uk_-_1923643.jpg",
+            "author": "Kieran Campbell",
+            "licence": "CC BY-SA 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "caption": "Hill of Ward, Athboy, Co. Meath",
+            "date": "2010-06-14"
+        }
+    ],
+    "mide": [
+        {
+            "file": "img/mide-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Hill_of_Uisneach.jpg",
+            "author": "Abi Skipp",
+            "licence": "CC BY 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by/2.0",
+            "caption": "a signboard at Hill of Uisneach",
+            "date": "2011-08-27"
+        }
+    ],
+    "nas": [
+        {
+            "file": "img/nas-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Naas_-_aerial_-_2025-02-22_03.jpg",
+            "author": "瑞丽江的河水",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "Naas aerial photograph",
+            "date": "2025-02-22"
+        }
+    ],
+    "sliab-bladma": [
+        {
+            "file": "img/sliab-bladma-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:SlieveBloomView.JPG",
+            "author": "Mooro1",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "A view of the Slieve Blooms from the Glinsk Castle Hiking Loop",
+            "date": "2014-10-29"
+        }
+    ],
+    "ath-cliath": [
+        {
+            "file": "img/ath-cliath-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Dublin_-_aerial_-_2025-07-07_01.jpg",
+            "author": "瑞丽江的河水",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "Dublin aerial photograph",
+            "date": "2025-07-07"
+        }
+    ],
+    "benn-etair": [
+        {
+            "file": "img/benn-etair-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Ceann_Binn_Eadair.jpg",
+            "author": "Jojo Nemčok",
+            "licence": "CC BY-SA 3.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "caption": "Howth Head, Ireland",
+            "date": "2006-09-01"
+        },
+        {
+            "file": "img/benn-etair-2.jpg",
+            "era": "historical",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Howth_Harbour_and_Irelands_Eye_(32486147233).jpg",
+            "author": "National Library of Ireland on The Commons",
+            "licence": "No restrictions",
+            "licence_url": "https://www.flickr.com/commons/usage/",
+            "caption": "A visit to the Stereo Pairs Collection today lets us stay in Howth, and gives a view of the area that perhaps neither you nor I has ever seen in reality. Today's fashionable suburb of Dublin is seen i",
+            "date": "1880-01-01"
+        }
+    ],
+    "loch-garman": [
+        {
+            "file": "img/loch-garman-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Wexford_Wildfowl_reserve_-_geograph.org.uk_-_1256731.jpg",
+            "author": "David Hawgood",
+            "licence": "CC BY-SA 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "caption": "Wexford Wildfowl reserve Wexford slobs and harbour attract thousands of water fowl, particularly Greenland White-fronted Geese. View from tower of visitor centre.",
+            "date": "2009-03-31"
+        }
+    ],
+    "port-lairge": [
+        {
+            "file": "img/port-lairge-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Waterford_by_night.jpg",
+            "author": "Typhoon",
+            "licence": "CC BY-SA 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "caption": "Waterford by night",
+            "date": "2007-07-07"
+        }
+    ],
+    "sliab-mis": [
+        {
+            "file": "img/sliab-mis-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Baurtregaum_NW_Top.jpg",
+            "author": "Stephen Murphy",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "Baurtregaum NW Top, Kerry, Ireland",
+            "date": "2010-06-21"
+        }
+    ],
+    "loch-lein": [
+        {
+            "file": "img/loch-lein-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Loch_L%C3%A9in_i_gContae_Chiarra%C3%AD,_%C3%89ire.jpg",
+            "author": "Ériugena",
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0",
+            "caption": "radharc ar an loch ó Chill Airne.",
+            "date": "Taken on 19 April 2024, 16:09:33"
+        }
+    ],
+    "luimnech": [
+        {
+            "file": "img/luimnech-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:King_John%27s_Castle_Limerick_(13th_century).JPG",
+            "author": "MonikaKub",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "King John's Castle (King's Island, Limerick, viewed from the city quay)",
+            "date": "2014-07-05"
+        }
+    ],
+    "sinann": [
+        {
+            "file": "img/sinann-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Limerick_-_Shannon_River_cropped.jpg",
+            "author": "Santiperez",
+            "licence": "CC BY-SA 3.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "caption": "Limerick, looking northeast up the River Shannon",
+            "date": "2007-06-29"
+        }
+    ],
+    "cruachu": [
+        {
+            "file": "img/cruachu-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Rathcroghan_mound.jpg",
+            "author": "Davsca at English Wikipedia",
+            "licence": "CC BY 3.0",
+            "licence_url": "https://creativecommons.org/licenses/by/3.0",
+            "caption": "Rendered Digital Image of Rathcroghan mound. Jan 2007",
+            "date": "18 November 2007 (original upload date)"
+        }
+    ],
+    "ath-luain": [
+        {
+            "file": "img/ath-luain-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Athlone_Ireland_and_river_Shannon.jpg",
+            "author": "User:Deadstar",
+            "licence": "CC BY-SA 3.0",
+            "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "caption": "View over the river Shannon in Athlone, Ireland. On the far shore Adamson castle and St Peter and Paul's Church.",
+            "date": "Taken on 22 February 2007"
+        },
+        {
+            "file": "img/ath-luain-2.jpg",
+            "era": "historical",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Unidentified_%3D_Eel_Weir_taken_from_Town_Bridge_in_Athlone,_Co._Westmeath_(7608330670).jpg",
+            "author": "National Library of Ireland on The Commons",
+            "licence": "No restrictions",
+            "licence_url": "https://www.flickr.com/commons/usage/",
+            "caption": "Thought this was probably on the River Shannon somewhere, but excellent that we now have a proper location for this Lawrence Collection photo that previously had only the rather sad title of Unidentif",
+            "date": "1900"
+        }
+    ],
+    "loch-n-erne": [
+        {
+            "file": "img/loch-n-erne-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Lough_Erne.jpg",
+            "author": "The original uploader was Neutrality at English Wikipedia.",
+            "licence": "Public domain",
+            "licence_url": null,
+            "caption": "en:Lough Erne in en:County Fermanagh of en:Northern Ireland. Photograph taken en:June 18, en:2002, with a Canon D60 camera. [1]",
+            "date": "24 October 2004 (original upload date)"
+        }
+    ],
+    "ess-ruaid": [
+        {
+            "file": "img/ess-ruaid-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Ballyshannon_in_the_Morning_Sun_2012_09_17.jpg",
+            "author": "Andreas F. Borchert",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "Ballyshannon in the morning sun.",
+            "date": "2012-09-17"
+        },
+        {
+            "file": "img/ess-ruaid-2.jpg",
+            "era": "historical",
+            "source_url": "https://commons.wikimedia.org/wiki/File:River_and_weir_at_Ballyshannon_(21318965668).jpg",
+            "author": "National Library of Ireland on The Commons",
+            "licence": "No restrictions",
+            "licence_url": "https://www.flickr.com/commons/usage/",
+            "caption": "Leaving the French nobility behind, today we visit rural Ireland in the Stereo Pairs collection. This fine view of a river with bridge and weir has a super POV and is very nicely composed. The masses ",
+            "date": ""
+        }
+    ],
+    "ailech": [
+        {
+            "file": "img/ailech-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Griahan_of_aileach.jpg",
+            "author": "Unknown",
+            "licence": "Public domain",
+            "licence_url": null,
+            "caption": "",
+            "date": ""
+        }
+    ],
+    "ard-machae": [
+        {
+            "file": "img/ard-machae-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Armagh_2013_09_24.jpg",
+            "author": "Andreas F. Borchert",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "View from the stairs of the Roman Catholic Cathedral of St. Patrick to Armagh and the Anglican Cathedral of St. Patrick at the opposite hill.",
+            "date": "2013-09-24"
+        }
+    ],
+    "emain-macha": [
+        {
+            "file": "img/emain-macha-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Navan.jpg",
+            "author": "Jon Sullivan",
+            "licence": "Public domain",
+            "licence_url": null,
+            "caption": "Navan Fort, County Armagh",
+            "date": "2002-06-21"
+        }
+    ],
+    "loch-n-echach": [
+        {
+            "file": "img/loch-n-echach-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Ducks_on_Lough_Neagh_-_geograph.org.uk_-_267285.jpg",
+            "author": "Kenneth Allen",
+            "licence": "CC BY-SA 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "caption": "Ducks on Lough Neagh Taken near Ballyronan",
+            "date": "2006-10-24"
+        }
+    ]
+}

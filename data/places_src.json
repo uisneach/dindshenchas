@@ -1,0 +1,586 @@
+[
+    {
+        "id": "temair",
+        "name_mir": "Temair",
+        "name_ga": "Teamhair",
+        "name_en": "Hill of Tara",
+        "county": "Meath",
+        "county_ga": "Contae na Mí",
+        "kind": "hill",
+        "wikipedia": "Hill of Tara",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            1
+        ],
+        "gwynn": [
+            "TEMAIR I",
+            "TEMAIR II",
+            "TEMAIR III",
+            "TEMAIR IV",
+            "TEMAIR V"
+        ]
+    },
+    {
+        "id": "brug-na-boinne",
+        "name_mir": "Brug na Bóinne",
+        "name_ga": "Brú na Bóinne",
+        "name_en": "Newgrange and the Boyne Valley tombs",
+        "county": "Meath",
+        "county_ga": "Contae na Mí",
+        "kind": "monument",
+        "wikipedia": "Newgrange",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            4
+        ],
+        "gwynn": [
+            "BRUG I",
+            "BRUG II"
+        ]
+    },
+    {
+        "id": "cnogba",
+        "name_mir": "Cnogba",
+        "name_ga": "Cnóbha",
+        "name_en": "Knowth",
+        "county": "Meath",
+        "county_ga": "Contae na Mí",
+        "kind": "monument",
+        "wikipedia": "Knowth",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [],
+        "gwynn": [
+            "CNOGBA"
+        ]
+    },
+    {
+        "id": "boand",
+        "name_mir": "Bóand",
+        "name_ga": "An Bhóinn",
+        "name_en": "River Boyne (source at Carbury Hill)",
+        "county": "Kildare",
+        "county_ga": "Contae Chill Dara",
+        "kind": "river",
+        "wikipedia": "River Boyne",
+        "coordinates": [
+            -6.95676,
+            53.3519
+        ],
+        "confidence": "certain",
+        "reviewed": false,
+        "note": "Marker placed at the river's source, Síd Nechtain (Carbury Hill), where the story is set.",
+        "note_ga": "Tá an marcóir ag foinse na habhann, Síd Nechtain (Cnoc Chairbre), áit a bhfuil an scéal suite.",
+        "stokes": [
+            19
+        ],
+        "gwynn": [
+            "BOAND I",
+            "BOAND II"
+        ],
+        "area": {
+            "river": [
+                "Boyne",
+                "River Boyne"
+            ]
+        }
+    },
+    {
+        "id": "tailtiu",
+        "name_mir": "Tailtiu",
+        "name_ga": "Tailtin",
+        "name_en": "Teltown",
+        "county": "Meath",
+        "county_ga": "Contae na Mí",
+        "kind": "assembly site",
+        "wikipedia": "Teltown",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            99
+        ],
+        "gwynn": []
+    },
+    {
+        "id": "tlachtga",
+        "name_mir": "Tlachtga",
+        "name_ga": "Tlachtga",
+        "name_en": "Hill of Ward",
+        "county": "Meath",
+        "county_ga": "Contae na Mí",
+        "kind": "hill",
+        "wikipedia": "Hill of Ward",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            110
+        ],
+        "gwynn": []
+    },
+    {
+        "id": "mide",
+        "name_mir": "Mide (Uisnech)",
+        "name_ga": "Uisneach",
+        "name_en": "Hill of Uisneach",
+        "county": "Westmeath",
+        "county_ga": "Contae na hIarmhí",
+        "kind": "hill",
+        "wikipedia": "Hill of Uisneach",
+        "confidence": "certain",
+        "reviewed": false,
+        "note": "The Mide legend tells of the first fire kindled at Uisnech, so the marker is on the hill.",
+        "note_ga": "Insíonn finscéal Mhide faoin gcéad tine a lasadh ar Uisneach, agus mar sin tá an marcóir ar an gcnoc.",
+        "stokes": [
+            7
+        ],
+        "gwynn": [
+            "MIDE"
+        ]
+    },
+    {
+        "id": "nas",
+        "name_mir": "Nás",
+        "name_ga": "An Nás",
+        "name_en": "Naas",
+        "county": "Kildare",
+        "county_ga": "Contae Chill Dara",
+        "kind": "settlement",
+        "wikipedia": "Naas",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            20
+        ],
+        "gwynn": [
+            "NAS"
+        ]
+    },
+    {
+        "id": "mag-life",
+        "name_mir": "Mag Life",
+        "name_ga": "Magh Life",
+        "name_en": "Plain of the Liffey",
+        "county": "Kildare",
+        "county_ga": "Contae Chill Dara",
+        "kind": "plain",
+        "wikipedia": null,
+        "coordinates": [
+            -6.8,
+            53.18
+        ],
+        "precision": "approximate",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            12
+        ],
+        "gwynn": [
+            "MAG LIFE"
+        ],
+        "area": {
+            "corridor": {
+                "river": [
+                    "Liffey",
+                    "River Liffey"
+                ],
+                "km": 4,
+                "boxes": [
+                    [
+                        -6.9,
+                        53.1,
+                        -6.6,
+                        53.3
+                    ],
+                    [
+                        -6.7,
+                        53.28,
+                        -6.47,
+                        53.37
+                    ]
+                ]
+            }
+        }
+    },
+    {
+        "id": "sliab-bladma",
+        "name_mir": "Sliab Bladma",
+        "name_ga": "Sliabh Bladhma",
+        "name_en": "Slieve Bloom Mountains",
+        "county": "Laois / Offaly",
+        "county_ga": "Contae Laoise / Contae Uíbh Fhailí",
+        "kind": "mountain",
+        "wikipedia": "Slieve Bloom Mountains",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            10
+        ],
+        "gwynn": [
+            "SLIAB BLADMA"
+        ],
+        "area": {
+            "upland": {
+                "min_m": 250,
+                "box": [
+                    -7.85,
+                    52.95,
+                    -7.4,
+                    53.25
+                ]
+            }
+        }
+    },
+    {
+        "id": "ath-cliath",
+        "name_mir": "Áth Cliath Cualann",
+        "name_ga": "Baile Átha Cliath",
+        "name_en": "Dublin (the ford of the Liffey)",
+        "county": "Dublin",
+        "county_ga": "Contae Bhaile Átha Cliath",
+        "kind": "ford",
+        "wikipedia": "Dublin",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            28
+        ],
+        "gwynn": [
+            "ATH CLIATH CUALANN"
+        ]
+    },
+    {
+        "id": "benn-etair",
+        "name_mir": "Benn Étair",
+        "name_ga": "Binn Éadair",
+        "name_en": "Howth Head",
+        "county": "Dublin",
+        "county_ga": "Contae Bhaile Átha Cliath",
+        "kind": "headland",
+        "wikipedia": "Howth Head",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            29
+        ],
+        "gwynn": [
+            "BEND ETAIR I",
+            "BEND ETAIR II"
+        ]
+    },
+    {
+        "id": "loch-garman",
+        "name_mir": "Loch Garman",
+        "name_ga": "Loch Garman",
+        "name_en": "Wexford Harbour",
+        "county": "Wexford",
+        "county_ga": "Contae Loch Garman",
+        "kind": "harbour",
+        "wikipedia": "Wexford Harbour",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            40
+        ],
+        "gwynn": [
+            "LOCH GARMAN"
+        ]
+    },
+    {
+        "id": "port-lairge",
+        "name_mir": "Port Láirge",
+        "name_ga": "Port Láirge",
+        "name_en": "Waterford",
+        "county": "Waterford",
+        "county_ga": "Contae Phort Láirge",
+        "kind": "settlement",
+        "wikipedia": "Waterford",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            42
+        ],
+        "gwynn": [
+            "PORT LAIRGE"
+        ]
+    },
+    {
+        "id": "sliab-mis",
+        "name_mir": "Slíab Mis",
+        "name_ga": "Sliabh Mis",
+        "name_en": "Slieve Mish Mountains",
+        "county": "Kerry",
+        "county_ga": "Contae Chiarraí",
+        "kind": "mountain",
+        "wikipedia": "Slieve Mish Mountains",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            51
+        ],
+        "gwynn": [
+            "SLIAB MISS"
+        ],
+        "area": {
+            "upland": {
+                "min_m": 250,
+                "box": [
+                    -10.05,
+                    52.1,
+                    -9.6,
+                    52.3
+                ]
+            }
+        }
+    },
+    {
+        "id": "loch-lein",
+        "name_mir": "Loch Léin",
+        "name_ga": "Loch Léin",
+        "name_en": "Lough Leane",
+        "county": "Kerry",
+        "county_ga": "Contae Chiarraí",
+        "kind": "lake",
+        "wikipedia": "Lough Leane",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            55
+        ],
+        "gwynn": [
+            "LOCH LEIN"
+        ],
+        "area": {
+            "lake": [
+                "Lough Leane"
+            ]
+        }
+    },
+    {
+        "id": "luimnech",
+        "name_mir": "Luimnech",
+        "name_ga": "Luimneach",
+        "name_en": "Limerick (the lower Shannon)",
+        "county": "Limerick",
+        "county_ga": "Contae Luimnigh",
+        "kind": "estuary",
+        "wikipedia": "Limerick",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            57
+        ],
+        "gwynn": [
+            "LUIMNECH"
+        ]
+    },
+    {
+        "id": "sinann",
+        "name_mir": "Sinann",
+        "name_ga": "An tSionainn",
+        "name_en": "River Shannon (Shannon Pot)",
+        "county": "Cavan",
+        "county_ga": "Contae an Chabháin",
+        "kind": "river",
+        "wikipedia": "River Shannon",
+        "coordinates": [
+            -7.9195,
+            54.2347
+        ],
+        "confidence": "certain",
+        "reviewed": false,
+        "note": "Marker placed at the river's traditional source, the Shannon Pot.",
+        "note_ga": "Tá an marcóir ag foinse thraidisiúnta na habhann, Log na Sionna.",
+        "stokes": [
+            59
+        ],
+        "gwynn": [
+            "SINANN I",
+            "SINANN II"
+        ],
+        "area": {
+            "river": [
+                "Shannon",
+                "River Shannon"
+            ]
+        }
+    },
+    {
+        "id": "cruachu",
+        "name_mir": "Ráith Crúachan",
+        "name_ga": "Ráth Cruachan",
+        "name_en": "Rathcroghan",
+        "county": "Roscommon",
+        "county_ga": "Contae Ros Comáin",
+        "kind": "royal site",
+        "wikipedia": "Rathcroghan",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            65
+        ],
+        "gwynn": [
+            "RATH CRUACHAN"
+        ]
+    },
+    {
+        "id": "ath-luain",
+        "name_mir": "Áth Lúain",
+        "name_ga": "Baile Átha Luain",
+        "name_en": "Athlone",
+        "county": "Westmeath",
+        "county_ga": "Contae na hIarmhí",
+        "kind": "ford",
+        "wikipedia": "Athlone",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            66
+        ],
+        "gwynn": [
+            "ATH LUAIN"
+        ]
+    },
+    {
+        "id": "loch-n-erne",
+        "name_mir": "Loch nÉrne",
+        "name_ga": "Loch Éirne",
+        "name_en": "Lough Erne",
+        "county": "Fermanagh",
+        "county_ga": "Contae Fhear Manach",
+        "kind": "lake",
+        "wikipedia": "Lough Erne",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            80
+        ],
+        "gwynn": [
+            "LOCH ERNE"
+        ],
+        "area": {
+            "lake": [
+                "Lower Lough Erne",
+                "Lough Erne Upper"
+            ]
+        }
+    },
+    {
+        "id": "ess-ruaid",
+        "name_mir": "Ess Ruaid",
+        "name_ga": "Eas Aodha Rua",
+        "name_en": "Assaroe Falls, Ballyshannon",
+        "county": "Donegal",
+        "county_ga": "Contae Dhún na nGall",
+        "kind": "waterfall",
+        "wikipedia": "Ballyshannon",
+        "coordinates": [
+            -8.186,
+            54.502
+        ],
+        "precision": "approximate",
+        "confidence": "certain",
+        "reviewed": false,
+        "note": "The falls on the Erne at Ballyshannon were submerged by the hydro-electric scheme of the 1950s.",
+        "note_ga": "Báthadh an t-eas ar an Éirne ag Béal Átha Seanaidh faoin scéim hidrileictreach sna 1950idí.",
+        "stokes": [
+            81
+        ],
+        "gwynn": []
+    },
+    {
+        "id": "ailech",
+        "name_mir": "Ailech",
+        "name_ga": "Grianán Ailigh",
+        "name_en": "Grianán of Aileach",
+        "county": "Donegal",
+        "county_ga": "Contae Dhún na nGall",
+        "kind": "fort",
+        "wikipedia": "Grianan of Aileach",
+        "confidence": "probable",
+        "reviewed": false,
+        "note": "Ailech is traditionally identified with the stone fort on Greenan Mountain; some scholars question the identification.",
+        "note_ga": "Aithnítear Ailech go traidisiúnta leis an dún cloiche ar Chnoc an Ghrianáin, ach cuireann scoláirí áirithe an aithint sin in amhras.",
+        "stokes": [
+            91
+        ],
+        "gwynn": [
+            "AILECH I",
+            "AILECH II"
+        ]
+    },
+    {
+        "id": "ard-machae",
+        "name_mir": "Ard Machae",
+        "name_ga": "Ard Mhacha",
+        "name_en": "Armagh",
+        "county": "Armagh",
+        "county_ga": "Contae Ard Mhacha",
+        "kind": "settlement",
+        "wikipedia": "Armagh",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            94
+        ],
+        "gwynn": []
+    },
+    {
+        "id": "emain-macha",
+        "name_mir": "Emain Macha",
+        "name_ga": "Eamhain Mhacha",
+        "name_en": "Navan Fort",
+        "county": "Armagh",
+        "county_ga": "Contae Ard Mhacha",
+        "kind": "royal site",
+        "wikipedia": "Navan Fort",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            161
+        ],
+        "gwynn": []
+    },
+    {
+        "id": "loch-n-echach",
+        "name_mir": "Loch nEchach",
+        "name_ga": "Loch nEathach",
+        "name_en": "Lough Neagh",
+        "county": "Antrim / Tyrone / Armagh",
+        "county_ga": "Contae Aontroma / Thír Eoghain / Ard Mhacha",
+        "kind": "lake",
+        "wikipedia": "Lough Neagh",
+        "confidence": "certain",
+        "reviewed": false,
+        "stokes": [
+            141
+        ],
+        "gwynn": [],
+        "area": {
+            "lake": [
+                "Lough Neagh"
+            ]
+        }
+    },
+    {
+        "id": "carman",
+        "name_mir": "Carman",
+        "name_ga": null,
+        "name_en": null,
+        "county": null,
+        "county_ga": null,
+        "kind": "assembly site",
+        "wikipedia": null,
+        "confidence": "unlocated",
+        "reviewed": false,
+        "note": "Site of the Óenach Carmain, the great fair of Leinster. Its location is disputed: Wexford, the Curragh and Carnalway in Co. Kildare have all been proposed.",
+        "note_ga": "Láthair Óenach Carmain, mór-aonach Laighean. Tá a suíomh faoi dhíospóid: moladh Loch Garman, an Currach agus áiteanna eile i gContae Chill Dara.",
+        "stokes": [
+            18
+        ],
+        "gwynn": [
+            "CARMUN"
+        ]
+    }
+]

@@ -1,0 +1,252 @@
+{
+    "id": "nas",
+    "name_mir": "Nás",
+    "name_ga": "An Nás",
+    "name_en": "Naas",
+    "county": "Kildare",
+    "county_ga": "Contae Chill Dara",
+    "kind": "settlement",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Naas",
+    "wikipedia_ga": "An Nás",
+    "logainm": "1166521",
+    "images": [
+        {
+            "file": "img/nas-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Naas_-_aerial_-_2025-02-22_03.jpg",
+            "author": "瑞丽江的河水",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "Naas aerial photograph",
+            "date": "2025-02-22"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 20,
+            "title": "Nás",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": null,
+            "scan": "https://archive.org/details/revueceltique15pari",
+            "ga": [
+                "Nas, cid diata?",
+                "Ni ansa. ocaià Garb mac Duach ri Hérenn is é ro escair for firu Hércnii tictu fri selgad Caille Cuan co laignib 7 bacaib 7 belaib Ico ar anoir a mna.i. Tailtine ingine Magmoir Sler/;/sat dono Caild Cuan ïri mis, conid e in mag sin nach Tailten. IMfocht i mbdi nech do ftraib Hérenn fria hobair immuig-. Frisrogart Bri Brùglas, echk/r/; Tailltine: ‘Failet tri rathmuige Hcmiii A. Nas 7 Ronc 7 Ailestar, tri meic Dorcland5.’ Marb/r ind,’ ar Taillti. ‘Ni hamlrt/W’, ar Eochaid, ‘is ferr a mbeathw indás a mbas; acht denat rath-[fo. 97'' i]muiijhecht4 béos’. ‘Bid amk/i’, ol Taillti: ‘claidet5 tri ratha damsa.’",
+                "Is and r(?;zclaid Nas a raith, 7 is é a ainm d//jlil.i. Nàs, 7 raith [forjfoirb nGaind mcic Delà.i. cóiccd Coficuhuir indiu.",
+                "Claidis dono Runc a raith.i. Rrt/7/; Ruine la Dal Araide. is",
+                "I. Tailtiu ingen H.",
+                "edh a ainm d//fil,.i. [leg. 7] raitb ior foirb nGenaind meic Delà.i. cóiœd Oi/flla meic Mata indiu.",
+                "Is ann ro//[a]clai[d] Alestar a mith {or Slcib CoUan.i. Sl'iab Leitrcch indiu: is de asberar raiih Cluana Alcsw/V..i. raith [for] foirb Sengaind meic Delà —.i. cáiccd Coi[r]p;7 aniù",
+                "Unde Ràith Ruine 7 Nas 7 Ráith Alcstair.",
+                "Fi\"/ aliter: Nas 7 Bói da ingin Ruadri - meic Taite 5 ri B/etan,.ii. mnói Loga meic Scail Bailb. Nds dano máthair Ibic m/c Logha. Is and adbath Nas, 7 roadnar/;/ i Nds, comd de asberar Nás. Marb hnim a siur foc'/oir.i. Bói, dia cumaid, cor//i-adnacht i Cnucc Bas, et unde Cnuc Bai dicitux À. Cnoc Bua. Tarfflaim Lus; 4 slos;u Gaidel leis o TailU/n co fiad in Broga do cained na mban sin im VaXaind auguisf caf/; bliadna, conïà de bai n:isad Loga. unde Lugnasad À. comarc Loga nó cuimniug? u6 aithmed nó feil bais."
+            ],
+            "en": [
+                "Eochaid the Rough son of Dua king of Ireland, 'tis he that made a proclamation to the men of Erin to corne and eut downs’ the Wood of Cuan, with laigin (broadbladed lances) and billhooks and hatchets, in honour of his wife Tailtiu daughter of Magmor. So in a month they eut down the wood, and that plain is (now) Oenach Tailten. He asked whether any of the men of Erin had shirked the work. Bri Brú-glas, Tailtiu's messenger, answcred: ‘There are Ireland's three rath-builders, Nás and Ronc and Ailestar, three sons of Dorncla.’ ‘Let them be killed for this’, quoth Tailtiu. ‘Not so’, says Eochaid, ‘'tis better they should live than die. But let them keep on building raths.’ ‘So be it’, replied Tailtiu: ‘let them build three raths for me.’",
+                "Then Nds dug his rath, and this is its name, Nás, and a rath on the héritage of Gand son of Delà, which today is Conchobar's province (ULster).",
+                "Ronc also dug his rath, to wit, Rdith Ruine in Dalaradia,",
+                "5i8 IVhitley Stokes.",
+                "this is the name ic has, and a rath on the héritage of Genand son of Delà, that is, today, Ailill mac Mata's province (Connaught).",
+                "Then Aiestar dug his rath on Shab Collan now SUab Leittrech. Hence it is called the rath of Cluain Alestair, a rath on the héritage of Sengann son of Dehi, today called Coirpre's province.",
+                "Whence Ráith Ruine and Nàs and Raith Alestair.",
+                "Or otherwise: Nas and Bói two daughters of Ruadri son ofCaite(?) king of Britain, were the two v^ives of Lugh son of the Scdl Balb ‘the Dumb Champion’. Now Nás was the mother of Ibec son of Lugh. There Nds died, and in Nds she was buried, hence it is called Nás. Her sister Bói died straightway of griei for her, and was buried on Cnogba, whence that name (Cnogba = Cnocbua). Lugh gathered the hosts of the Gaels from Tailtiu to Fiad in Broga ‘the land of the Brugh’, to bewail those women on the first day of August in each year: so thence was the nasad ‘assembly’ of Lugh, whence Lugh-nasad ‘lammasday’, that is Lugh's commémoration, or remembering, or recollection, or deathfeast."
+            ],
+            "notes": [
+                "Also in BB. 362-'> 15 and H. 34b. Versified LL. 194a 17. As to hignasad see Cormac's Glossary, s. v., and LU. 52’: óenach Tailten cech lugnasaid.",
+                "Nàs now Naas in the co. of Kildare. SUab CoUan a mountain in Clare.",
+                "As to the five sons of Delà see LL. 7b 3^, 127’ and Foui- Masters, A. M. ^,266."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Nas",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                48,
+                52
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/48/mode/2up",
+            "ga": [
+                [
+                    "Kiiadri mac Caite na n-ell",
+                    "nirbo thruag-li traite thall,",
+                    "cliamain Loga, limb long,",
+                    "co ngliad-gail glond, gona Gall."
+                ],
+                [
+                    "Di ingin Kiiadrach in rig",
+                    "Bretan na mbrig mbiiadach mban",
+                    "di mnai Loga, roslui as,",
+                    "Biii in broga ocus Nas nar."
+                ],
+                [
+                    "Nas mathair Ibic na n-ech",
+                    "dligid a drech is a dath,",
+                    "ó thesta co ngaile grith,",
+                    "cia f esta ar bith baile atbath?"
+                ],
+                [
+                    "Nas rogaibi gnim cen gais;",
+                    "(fir cen bais) rosbaidi bas,",
+                    "co ngluairi im gairg-dliged gres",
+                    "'s liadi rohainmniged Nas."
+                ],
+                [
+                    "Nas Lagen co nglan-gart glan,",
+                    "is and rohadnacht in ben,",
+                    "di raiter fri derbthas ndein,",
+                    "ni clieil sein senchas na sen."
+                ],
+                [
+                    "A siur i Cnogba cen chloi",
+                    "iar lot a comga 's a cnii:",
+                    "nirbu mall marb-alt don mndi,",
+                    "is and bai 's roadnacht Bui."
+                ],
+                [
+                    "Cnogba cnoc Bua na mbag;",
+                    "nisbriia sar snomda sliiag;",
+                    "acht iss i im garg-mathim ngnfm",
+                    "is ard-chathir na rig ruad."
+                ],
+                [
+                    "Tancatar sluaig Gaidel nglan",
+                    "do chained na mban don brug;",
+                    "ó Thaltin i tócab tein,",
+                    "assin dollótar la Lug."
+                ],
+                [
+                    "Laiset gair caine each than",
+                    "na mban cen chlaine cen chol;",
+                    "roacht leo a cluche cned",
+                    "i muche, nirbu mer mod."
+                ],
+                [
+                    "Maidiud is assin roas:",
+                    "ni he in faidiud fas fri fes:",
+                    "óenach Talten, talci gleos,",
+                    "la each n-antem beós din bós."
+                ],
+                [
+                    "Ba bed nasadfLoga lain",
+                    "\"fold sona, saim nach siiail,",
+                    "faidiud find-gel fuamnach Fail,",
+                    "cainiud ingen Kuadrach riiaid."
+                ],
+                [
+                    "25",
+                    "30",
+                    "35",
+                    "40"
+                ],
+                [
+                    "E."
+                ]
+            ],
+            "en": [
+                [
+                    "Ruadri, son of Cailte of the flocks,",
+                    "was no faint splendour swift-passing yonder;",
+                    "father-in-law of Lug with tale of ships,",
+                    "with prowess of feats in war and slaying of foreign foemen."
+                ],
+                [
+                    "The two daughters of Ruadri, the king",
+                    "of Britain, of conquering white-clad forces",
+                    "[were] the two wives of Lug, — fruitfulness came to them —",
+                    "Bui of the Brug and modest Nas."
+                ],
+                [
+                    "Nas, mother of Ibic of the horses,",
+                    "claims of right the brow and the beauty [of the spot],",
+                    "since she is gone, with the noise of combat,",
+                    "how should ye know at all the spot where she died?"
+                ],
+                [
+                    "Nas took in hand a deed unwise:",
+                    "(truth and not folly) death o'erwhelmed her;",
+                    "'tis from her Nas was named,",
+                    "famous perpetually for stern law."
+                ],
+                [
+                    "Nas of the Leinstermen, bright with splendid bounty,",
+                    "'tis there the lady was buried;",
+                    "from her it is called with clear certitude:",
+                    "the lore of the ancient hides not this."
+                ],
+                [
+                    "Her sister was at Cnogba free from ravage,",
+                    "after the havoc of her shelter and her precinct:",
+                    "not tardily came the death-dirge for the lady;",
+                    "'tis there Bui abode, and was buried."
+                ],
+                [
+                    "Cnogba is the Hill of Bui of the battles;",
+                    "the pillaging violence of hosts does not wreck it;",
+                    "but 'tis it that, for [repose from] fatigue of fierce deeds,",
+                    "is the lofty hold of the fiery kings."
+                ],
+                [
+                    "The hosts of the pure Gaels came",
+                    "to bewail the women from the Brug;",
+                    "from Tailtiu where he raised a fire",
+                    "thence they came with Lug."
+                ],
+                [
+                    "They lifted a cry of lamentation perpetually",
+                    "for the women free from guilt and guile;",
+                    "the game of wounds was waged by them",
+                    "untimely, in no merry wise."
+                ],
+                [
+                    "Thence grew the boasted gathering —",
+                    "(it is not an empty lamentation with the lips)",
+                    "the assembly of Taltiu with mighty preparations,",
+                    "held by every hero moreover according to custom."
+                ],
+                [
+                    "That was the gathering of accomplished Lug,",
+                    "happy satisfaction, no small pleasure,",
+                    "the lamentation of the fair- skinned vocal women of Fail,",
+                    "the keening for the daughters of Kuadri the red."
+                ],
+                [
+                    "Tri male Dorchlaim, tromxn testan,",
+                    "Nas Eoncc ocus 'Ailestar,",
+                    "siar cen chairdiu ós Chuan chestach,",
+                    "Tailtiu buan rosbadestar."
+                ],
+                [
+                    "Kath i nUltaib, cian in chain;",
+                    "rath cóicid Chonnacht co mbuaid;",
+                    "rath cóicid Lagen cen tlais;",
+                    "magen do Nais ingin Kiiaid. E."
+                ],
+                [
+                    "45-52. In L only.",
+                    "NAS. r.a",
+                    "The three sons of Dorchlam (strong testimony! i,",
+                    "Nas Eoncc and Ailestar"
+                ],
+                [
+                    "in the west without respite above troublous Cuan,",
+                    "Taltiu extinguished them for good.",
+                    "A rath in Ulster (long the law);",
+                    "a rath of the province of Connacht the excellent;"
+                ],
+                [
+                    "a rath of the province of Leinster without weakness,",
+                    "a, site for Nas daughter of Euad."
+                ]
+            ],
+            "incomplete": [
+                49,
+                62
+            ]
+        }
+    ]
+}

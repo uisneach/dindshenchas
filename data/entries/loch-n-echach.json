@@ -1,0 +1,64 @@
+{
+    "id": "loch-n-echach",
+    "name_mir": "Loch nEchach",
+    "name_ga": "Loch nEathach",
+    "name_en": "Lough Neagh",
+    "county": "Antrim / Tyrone / Armagh",
+    "county_ga": "Contae Aontroma / Thír Eoghain / Ard Mhacha",
+    "kind": "lake",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Lough Neagh",
+    "wikipedia_ga": "Loch nEathach",
+    "logainm": null,
+    "images": [
+        {
+            "file": "img/loch-n-echach-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Ducks_on_Lough_Neagh_-_geograph.org.uk_-_267285.jpg",
+            "author": "Kenneth Allen",
+            "licence": "CC BY-SA 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "caption": "Ducks on Lough Neagh Taken near Ballyronan",
+            "date": "2006-10-24"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 141,
+            "title": "Tuag Inbir ocus Loch n-Echach",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 16 (1895)",
+            "pages": [
+                150
+            ],
+            "scan": "https://archive.org/details/revueceltiqu16pari/page/150/mode/1up",
+            "ga": [
+                "(Lee. p. 503-0.",
+                "Tuag Inbir 7 Loch nEchach, cznas xo:umnigtl)ea?",
+                "Ni ansa. Tuas: ingen Chonaill Chollamrach, dalta Chonairi móir meic Ewrsceil, is and roalt, i Temraig1, co slogaib mora d'ingenaib rig Hmnd uimpi diahimchoimed. O hindi (?) immorro co cend a.u. mbliadan ni ro leiced fer ind dia himchasain co wgabad ri Herenn a himchomarc. Rodfai[d] dono Manannan techfa ina dochum.i. Fer Fidail mac Eogabail, dalta do Manandan, drai do Thuathaib de Danann, a richt mnai dia cainteglach boden, co mbai teora aidche ann.",
+                "Isin cheathromad aidche immorro À. aidchi luain, rochachain in drai bricht suain osin n-ingin, conas-iargïib fair co hlnbear nGlais, ar ba head a cedainm. Conas-íuirim ar lar 'na suan conigsed d'iarraid curaig 2, 7 nirb'ail do a dzcud conasbearad 'na suan i Tir Ban thsuthain, co tanic tond tuili dia eis, coro baidead in ingen. XJnde Tuag3 Inb/r.",
+                "Doluid dono Fer Fidail mac Eogabail [roime] dia thig, 7 vus-marb and Manandan ar son a mignima.",
+                "Loch n-Echach immorro, is sund adfédar4.i. Eochaid mac Maireada, brathair sen 7 Rib, co rongradaig ben a atharí.i. Eiblind ingen Guairi — is uaithi ainmnigther Sliab n-Eiblindi. Lodar rompo for imirgi a hlrluachair co Brega 7 co Brug meic in Og. IS and bae Aeng‘foracind, 7 dlomais friu, 7 marbais a mbuar in aidchi sin 7 a n-echu 6 arnamarach, 7 romaed marbad na muintiri in treas aidche [p. 503] mina deachdais uad, 7 con-aitcheadar iarz/m imarchor a n-elba uad, 7 dorad doib each, 7 adbeart a athchur7 dia tig siu sreblad a fual. Mus-luat8 for cai mis medon f\"ogamair9 feascwr luain i Liathmúine. Annsin deillich 10 a n-ech leu11 iar cur a n-elba de, 7 silis a fual co mbo tibra a talmain. Dognithir tech im suidiu I2, 7 gabais Eochaid flaithis n-Ulad co mbai nai mbliadna dec i n-Emain.",
+                "10. Lee. inserts anellach.",
+                "11. sic BB. lem Lee. 12. imsiudiu, Lee.",
+                "IS ann luid Lind-mune tar Liathmuine, cor' baidead Eochaid 7 a cland aile acht mad Dairiu 7 Conaing, cowad o Chonaing Dal Selle 7 Dal mBuain. Cet bliadan iar nge[i]n Cm/ annsin. [Unde Loch n-Echach dicitur]."
+            ],
+            "en": [
+                "Tuag daughter of Conall Collamair, fosterling of Conaire the Great, son of Etarscél, there was shc reared, in Tara, with great hosts of daughters of the King of Erin around her to protect her. Now from... to the end of her five years no man wasallowed to see her, so that the King of Ireland might have the asking of her. So Manannan sent her a messenger, even Fer Fidail son of Eogabal, a pupil of Manannan's and a druid of the Tuatha dé Danann, in the shape of a womari of his own fair household, and there he remained for three nights.",
+                "On the fourth night, however, a Monday night, the druid sang a sleep-spell over the girl, and carried her to Inber Glais, for this was the first name of Tuag Inbir. There he laid her down in her sleep while he went to look for a boat, and he wished not to awake her that he might take her while sleeping into the Land of Eternal Women. But a wave of the floodtide came after him, and the girl was drowned. Whence Tuag Inbir.",
+                "Then Fer Fidail son of Eogabal fared forth to his house, and there Manannan killed him because of his misdeed.",
+                "Hère now is declared Loch n-Echach ‘Echaid's lake’ (so called from) Eochaid son of Mairid and brother of Rib, whom his father's wife Eiblenn Guaire's daughter loved. 'Tis from her Sliab n-Eiblinne is named. They fared on a flitting from Irluachair to Bregia and Brug maie ind Óc. Oengus was there ahead of them, and he rejected them and on that night he killed their cattle, and on the morrow their horses, and he threatened to kill their households on the third night unless they went away. So they begged him for carriage for their goods, and he gave them a horse, telling them to send it backto his house before it staled. In the mid-month of autumn, on a Monday evening, they wend their way into Liathmuine. There their horse lies down, after their goods had been taken ofl him, and he lets his urine flow till it became a well in the earth. Round this a house is huilt, and Eochaid takes the lordship of Ulster and dwelt in Emain for nineteen years.",
+                "Then went Lind-múne over Liathmuine, and Eochaid was drowned with ail his children save only Dairiu and Conaing. And from Conaing Dal Selle and Dal mBuain descend. 'Twas then a hundred years after the birth of Christ. Hence Loch nEchach ‘Eochaid's lake’ is said."
+            ],
+            "notes": [
+                "Also in BB. 395b 40 and H. 54b. The part relating to Tuag Inbir is in Bodl. no. 46 (whence edited in Folklore, III. 510, 511), and is versified in LL. 1 52b. The part relating to Loch n-Echach is in Ed. fo. 4a2, whence edited in Folklore, IV, 474-5. See also Aided Echach maie Maireda, LL. 39a-39b, edited by Crowe in 1870/ and Silva Gadelica, II, 483, 484, 532.",
+                "Tuag Inbir the mouth of the river Bann. Loch nEchach now Lough Neagh. Sliab nEïblindi now the Slieve Phelim mountains Irluachair in the S. E. of the co. Kerry. Brtig meic ind Oc, the plain through which the Boyne flows. Lind máine (‘stagnura mictus’) not identified: imiine gen. sg. of Cormac's nniii ‘urine’. Dal Selle (= Ddl Saune, LU. 3913) not identified. Ddl mBuain the tribe and district on each side of thè river Lagan, from Moirà to Belfast.",
+                "As to the elf Fer Figail see Rev. Celtique, XIII, 438 where lie is called Fer ff."
+            ]
+        }
+    ]
+}

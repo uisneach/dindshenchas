@@ -1,0 +1,277 @@
+{
+    "id": "luimnech",
+    "name_mir": "Luimnech",
+    "name_ga": "Luimneach",
+    "name_en": "Limerick (the lower Shannon)",
+    "county": "Limerick",
+    "county_ga": "Contae Luimnigh",
+    "kind": "estuary",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Limerick",
+    "wikipedia_ga": "Luimneach",
+    "logainm": "1167042",
+    "images": [
+        {
+            "file": "img/luimnech-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:King_John%27s_Castle_Limerick_(13th_century).JPG",
+            "author": "MonikaKub",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "King John's Castle (King's Island, Limerick, viewed from the city quay)",
+            "date": "2014-07-05"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 57,
+            "title": "Luimnech",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                451
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/451/mode/1up",
+            "ga": [
+                "Luimnech, canas roaimnniged?",
+                "Ni ansa. Comdal robas itir Mumain 5 7 Cownachta co tucsat leo a cathfiru in da ris.i. da mac Smuchaille meic Bacduib.",
+                "Rind 7 Frebur a n-anm:inda. Rogab indalanae for foesam mBuidb a Sid Femin. Gabaù araile [for] faessam Ochaille a Sidh Cruachna. Tucsat na cathfir a ceird muccada\"- ar aird, 7 doluid car/; dia commcs hi sruth, 7 odhurluimni liathglassa im slog in da dal, con'id annsin tainic a tuili ind, 7 ni roairigset la met in oenaich, co rue in sruth a luimne uile dib, conid ann atb/tsat na derccaidi: ‘Is luimnechda in i-'mhcr indorsa!’",
+                "A lumman ainm [fo. 108'' i] in sceith, 7 intan bas ocam imargail rofoxal in sruth a luimne dona lachaib.i. a sciatho, co n-erbratar ind rig o Thul Tuinne: ‘Is luimnechda in t-inber indorsa!’ ]nde Luiiiinecb."
+            ],
+            "en": [
+                "There was a set meeting between Munster and Connaught, and the two kings brought with them íheir champions the two sons of Smuchaill son of Bacdub. Rind ‘Point’ and Faebur ‘Edge’ were their names. One of the twain placed himself under the safeguard of Bodb (the elf-king) out of Sid Femin: the other under that of Ochaill (another elf-king) out of Sid Cruachna. The champions (having entered the wat^r) displa3-ed their ‘swineherd's art’. To judge between them every one pressed into the stream, ail the men of the two parties wearing dun, grey-green cloaks (luimne)-. Thereupon came the fioodtide, which they had not perceived owing to the greatness of the assembly, and the current carried off ail their cloaks. Then said the look-out men: ‘The inver (estudxy) is now fuU of cloaks!’ (luimnechda).",
+                "Or lumman is a name for a shield, and when the contest was going on, the current carried away from the heroes their luimne, that is, their shields. Whereupon the kings said from Tul Tuinne: ‘The inver is now full ot shields’ (luimnechda).",
+                "Whence Luimnech."
+            ],
+            "notes": [
+                "Also in BB. 379'' 18: H. 35^: Lcc. 477^^: Bodl. no. 20. Versifíed, LL. 155’ 23. Edited(from BB.) in Silva Gadelica, II, 478, 524: from Bodl. in Folklore, III, 486-7.",
+                "Liiimnech the old name of the lower Shannon.",
+                "Tul Tuínne was the name of a hillock overlooking the scène of the contest between Rind and Faebur. Another near Fert Finntain in the territory of Loch Derg is mentioned infra.",
+                "What was the nature of this contest? Is celrd muccada ‘swineherd's art’? the first ofthe seven avatars of thecombatants beingthat of the swineherds.",
+                "As to thèse avatars, see LL. 247’ and Irlsche Texte, 3d séries, part i, pp. 241. See also infra no. 66."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Luimnech",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                270,
+                275
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/270/mode/2up",
+            "ga": [
+                [
+                    "A Fir fadlas sós na sen,",
+                    "labras each nós co niia-gel,",
+                    "druit lat ós druimnib daire",
+                    "cuit Luimnig na laechraide."
+                ],
+                [
+                    "Luimnech, lethan in labrad,",
+                    "rosrethad co sir-adbal,",
+                    "co fail cech trath cen tairbirt,",
+                    "co brath conid bith-airdirc."
+                ],
+                [
+                    "Is cóte óenaig agair",
+                    "co róenaib co robladaib;",
+                    "rongab s!óg saidbir sattail",
+                    "co saidlib co srol-brattaib."
+                ],
+                [
+                    "Sochaide rodal cose",
+                    "co lar Luimnig na loingse:",
+                    "ó dail sliiaig ba tuillmecb tairm,",
+                    "ó fiiair Luimnech a laech-ainm."
+                ],
+                [
+                    "Coiced n-Echach rodal do,",
+                    "ba srethad sam co saer-gno,",
+                    "'n-agid sliiaig Liiachra luinne,",
+                    "dagFir Cruachna cloth-chuirre."
+                ],
+                [
+                    "Tucsat in rigrad ille,",
+                    "co sir-blad co soinmige,",
+                    "dag-dias cen utmaille fill,",
+                    "da mac Smucaille smitt-chind."
+                ],
+                [
+                    "Smucaille mac Bacduib buirr,",
+                    "in gilla glac-duib gle-chuirr:",
+                    "male do, fri ferga fige,",
+                    "fir na cerda cath-mire."
+                ],
+                [
+                    "Kind ocus Faebur, fógair,",
+                    "cen baegul ria mbeó-dódail,",
+                    "feib noslabram dar each ler,",
+                    "ba hiat anmann na n-ard-Fer."
+                ],
+                [
+                    "lar techta don cbath-gail chóir",
+                    "ind fir athlaim aiged-móir",
+                    "suil adralsat a ngliaid ng!ó",
+                    "rogabsat a commairge."
+                ],
+                [
+                    "Ochaill a Cruachain chróebaig",
+                    "rogab fóesam fir-Foebair;",
+                    "oc Sid Buidb na fóelsad fill",
+                    "fofrfth fóesam do ruad-Rind."
+                ],
+                [
+                    "Oc tintiid don chiian ar chul,",
+                    "dorat cech shiag hi sochliid,",
+                    "co mboi in loch fo luimnib de,",
+                    "ina druimnib, demnigthe."
+                ],
+                [
+                    "Amlaid doluid 'n-a lungair",
+                    "each laech ina liath-lummain,",
+                    "conid lind Luimnig rosnacht",
+                    "Muimnig is fir ólnecmacht."
+                ],
+                [
+                    "Desin roraidset in s!óg",
+                    "ó thul Tuinne tulach-mór",
+                    "\" is lumnigthe in t-inber oil,",
+                    "cian bas chumnigthe in comlond.\""
+                ],
+                [
+                    "Desin dogarar each airm",
+                    "Luimnech, labar in laech-airm;",
+                    "ón dail-sin, mar samlait sin,",
+                    "in' rafadbait a fir-fir."
+                ],
+                [
+                    "No dia rue sech iathu iiaib",
+                    "sciathu mathe for mór-sluaig",
+                    "do muin gilla co ngripe",
+                    "sruth na Sinna sóol-brice."
+                ],
+                [
+                    "Lumman ainm cech scóith scenbda,",
+                    "fo nach treith cech tigerna,",
+                    "comad dib co cuimnech cind",
+                    "rolen Luimnech in laech-lind."
+                ],
+                [
+                    "Eobatar laich 'ca labrad",
+                    "ic tul Thuinne trom-adbal,",
+                    "\" is luimnechda lind maic Lir",
+                    "nidat tuillmecha a trenfir.\" A."
+                ]
+            ],
+            "en": [
+                [
+                    "O thou that dispensest the lore of the learned,",
+                    "that declarest every usage with fresh radiance,",
+                    "approach, above the slopes of oak-wood,",
+                    "the portion of Luimnech, home of the hero-folk."
+                ],
+                [
+                    "Luimnech — wide-reaching the story,",
+                    "it has been spread abroad mightily —",
+                    "at all times it is unsubdued,",
+                    "so that it is ever famous till doomsday."
+                ],
+                [
+                    "It is a market-place of a gathering that isjheld",
+                    "with victories, with great renown;",
+                    "a proud and wealthy people held it,",
+                    "a people with saddles and silken raiment."
+                ],
+                [
+                    "A multitude assembled here",
+                    "at the flats of Limerick of the voyages;",
+                    "from the meeting of the host voluminous rose the sound,",
+                    "whence Luimnech got its martial name."
+                ],
+                [
+                    "Eochu's province assembled there,",
+                    "it was a concourse peaceful, noble of mien;",
+                    "over against the host of eager Luachair",
+                    "came the champions of Cruachan, pinnacle of fame."
+                ],
+                [
+                    "The princely leaders brought thither,",
+                    "endowed with lasting fame and prosperity,",
+                    "a noble pair free from shifty treachery,",
+                    "the two sons of Smucaille Smitchend."
+                ],
+                [
+                    "Smucaille son of huge Bacdub,",
+                    "that black-fisted carle, bright-eminent;",
+                    "sons to him, good at weaving strife,",
+                    "were the men of martial arts."
+                ],
+                [
+                    "Bind and Faebur, plain to see —",
+                    "no danger",
+                    "as we proclaim across all seas,",
+                    "those were the names of the noble warriors."
+                ],
+                [
+                    "On coming to the fair-fought combat",
+                    "the nimble warriors, broad-visaged,",
+                    "before they entered on their famous contest,",
+                    "took to them sureties. •"
+                ],
+                [
+                    "Ochaill from woody Cruachan",
+                    "undertook protection of true Faebur;",
+                    "at the Sid of Bodb, who would not endure treachery,",
+                    "was found protection for fierce Bind."
+                ],
+                [
+                    "When the tide turned to flow again",
+                    "it brought each host to fame;",
+                    "so the lake was strewn with cloaks thereby",
+                    "on its surface — affirm it!"
+                ],
+                [
+                    "On this wise came, in",
+                    "every hero, clad in a grey cloak;",
+                    "so the waters of Luimnech carried them off,",
+                    "from Munstermen and men of Connaught."
+                ],
+                [
+                    "Therefore said the host",
+                    "from high-mounded Tul Thuinne,",
+                    "\" 'Cloaked ' (lumnigthe) is the mighty estuary called,",
+                    "as long as the combat shall be remembered.\""
+                ],
+                [
+                    "Hence is named everywhere",
+                    "Luimnech — proud the home of heroes —",
+                    "from this gathering, as the learned deduce,",
+                    "wherein its true warriors were despoiled:"
+                ],
+                [
+                    "Or else, when the stream of sail-dotted Shannon",
+                    "carried away from where you stand, past meadow lands,",
+                    "the shields of the chieftains of your mighty host",
+                    "from the shoulders of the nimble gillies."
+                ],
+                [
+                    "Lumman is the name of every spiky shield —",
+                    "no weakling is the chieftain that bears it;",
+                    "from these, it may be, mark it mindfully!",
+                    "the name Luimnech clave to the river of heroes."
+                ],
+                [
+                    "The heroes were saying",
+                    "on massy Tul Thuinne,",
+                    "\" ' Shielded ' (luimnechda) is the stream of Mac Lir:",
+                    "unfruitful are its strong men! \""
+                ]
+            ]
+        }
+    ]
+}

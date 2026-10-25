@@ -1,0 +1,238 @@
+{
+    "temair": {
+        "wikidata": "Q543155",
+        "coordinates": [
+            -6.61194,
+            53.5775
+        ],
+        "image_commons": "Collinaditara.jpg",
+        "logainm": "1410576",
+        "wikipedia_ga": "Teamhair"
+    },
+    "brug-na-boinne": {
+        "wikidata": "Q339503",
+        "coordinates": [
+            -6.47557,
+            53.69473
+        ],
+        "image_commons": "Irelands history.jpg",
+        "logainm": "1166689",
+        "wikipedia_ga": "Sí an Bhrú"
+    },
+    "cnogba": {
+        "wikidata": "Q1482124",
+        "coordinates": [
+            -6.49167,
+            53.70167
+        ],
+        "image_commons": "Knowth from the southeast.jpg",
+        "wikipedia_ga": "Cnóbha"
+    },
+    "boand": {
+        "wikidata": "Q896037",
+        "coordinates": [
+            -6.24353,
+            53.72208
+        ],
+        "image_commons": "River Boyne - aerial - 2025-12-26 02.jpg",
+        "logainm": "116563",
+        "wikipedia_ga": "An Bhóinn"
+    },
+    "tailtiu": {
+        "wikidata": "Q104269676",
+        "coordinates": [
+            -6.76655,
+            53.70026
+        ],
+        "logainm": "38325",
+        "wikipedia_ga": "Tailtin"
+    },
+    "tlachtga": {
+        "wikidata": "Q5762451",
+        "coordinates": [
+            -6.886,
+            53.624
+        ],
+        "image_commons": "Hill of Ward - geograph.org.uk - 1923643.jpg",
+        "logainm": "106058"
+    },
+    "mide": {
+        "wikidata": "Q1292728",
+        "coordinates": [
+            -7.562,
+            53.49
+        ],
+        "image_commons": "Hill of Uisneach.jpg",
+        "wikipedia_ga": "Cnoc Uisnigh"
+    },
+    "nas": {
+        "wikidata": "Q216038",
+        "coordinates": [
+            -6.6669,
+            53.2158
+        ],
+        "image_commons": "Naas - aerial - 2025-02-22 03.jpg",
+        "logainm": "1166521",
+        "wikipedia_ga": "An Nás"
+    },
+    "sliab-bladma": {
+        "wikidata": "Q2658989",
+        "coordinates": [
+            -7.56667,
+            53.1
+        ],
+        "image_commons": "SlieveBloomView.JPG",
+        "wikipedia_ga": "Sliabh Bladhma"
+    },
+    "ath-cliath": {
+        "wikidata": "Q1761",
+        "coordinates": [
+            -6.26028,
+            53.34972
+        ],
+        "image_commons": "Dublin - aerial - 2025-07-07 01.jpg",
+        "logainm": "1375542",
+        "wikipedia_ga": "Baile Átha Cliath"
+    },
+    "benn-etair": {
+        "wikidata": "Q774374",
+        "coordinates": [
+            -6.07201,
+            53.37923
+        ],
+        "image_commons": "Ceann Binn Eadair.jpg"
+    },
+    "loch-garman": {
+        "wikidata": "Q1788926",
+        "coordinates": [
+            -6.4,
+            52.33333
+        ],
+        "image_commons": "Wexford Wildfowl reserve - geograph.org.uk - 1256731.jpg",
+        "logainm": "1165957",
+        "wikipedia_ga": "Cuan Loch Garman"
+    },
+    "port-lairge": {
+        "wikidata": "Q183551",
+        "coordinates": [
+            -7.119,
+            52.2583
+        ],
+        "image_commons": "Waterford by night.jpg",
+        "logainm": "1383828",
+        "wikipedia_ga": "Port Láirge"
+    },
+    "sliab-mis": {
+        "wikidata": "Q2294156",
+        "coordinates": [
+            -9.76667,
+            52.2
+        ],
+        "image_commons": "Baurtregaum, Derrymore Glen.jpg"
+    },
+    "loch-lein": {
+        "wikidata": "Q6686132",
+        "coordinates": [
+            -9.55,
+            52.04167
+        ],
+        "image_commons": "Loch Léin i gContae Chiarraí, Éire.jpg",
+        "logainm": "101302",
+        "wikipedia_ga": "Loch Léin"
+    },
+    "luimnech": {
+        "wikidata": "Q133315",
+        "coordinates": [
+            -8.6238,
+            52.6653
+        ],
+        "image_commons": "King John's Castle Limerick (13th century).JPG",
+        "logainm": "1167042",
+        "wikipedia_ga": "Luimneach"
+    },
+    "sinann": {
+        "wikidata": "Q192820",
+        "coordinates": [
+            -7.919,
+            54.2347
+        ],
+        "image_commons": "Limerick - Shannon River cropped.jpg",
+        "logainm": "1166693",
+        "wikipedia_ga": "An tSionainn"
+    },
+    "cruachu": {
+        "wikidata": "Q1009358",
+        "coordinates": [
+            -8.304,
+            53.802
+        ],
+        "image_commons": "Rathcroghan mound.jpg",
+        "wikipedia_ga": "Ráth Cruachan"
+    },
+    "ath-luain": {
+        "wikidata": "Q369911",
+        "coordinates": [
+            -7.9425,
+            53.42361
+        ],
+        "image_commons": "Athlone Ireland and river Shannon.jpg",
+        "logainm": "50734",
+        "wikipedia_ga": "Baile Átha Luain"
+    },
+    "loch-n-erne": {
+        "wikidata": "Q1324180",
+        "coordinates": [
+            -7.80622,
+            54.48262
+        ],
+        "image_commons": "Lough Erne.jpg",
+        "wikipedia_ga": "Loch Éirne"
+    },
+    "ess-ruaid": {
+        "wikidata": "Q805462",
+        "coordinates": [
+            -8.2018,
+            54.5015
+        ],
+        "image_commons": "Ballyshannon in the Morning Sun 2012 09 17.jpg",
+        "logainm": "13830",
+        "wikipedia_ga": "Béal Átha Seanaidh"
+    },
+    "ailech": {
+        "wikidata": "Q239599",
+        "coordinates": [
+            -7.43333,
+            55.01667
+        ],
+        "image_commons": "Griahan of aileach.jpg",
+        "logainm": "111188",
+        "wikipedia_ga": "Grianán Ailigh"
+    },
+    "ard-machae": {
+        "wikidata": "Q193452",
+        "coordinates": [
+            -6.65444,
+            54.34944
+        ],
+        "image_commons": "Armagh 2013 09 24.jpg",
+        "wikipedia_ga": "Ard Mhacha"
+    },
+    "emain-macha": {
+        "wikidata": "Q1274963",
+        "coordinates": [
+            -6.71861,
+            54.34528
+        ],
+        "image_commons": "Navan.jpg",
+        "wikipedia_ga": "Eamhain Mhacha"
+    },
+    "loch-n-echach": {
+        "wikidata": "Q206942",
+        "coordinates": [
+            -6.39528,
+            54.61833
+        ],
+        "image_commons": "Ducks on Lough Neagh - geograph.org.uk - 267285.jpg",
+        "wikipedia_ga": "Loch nEathach"
+    }
+}

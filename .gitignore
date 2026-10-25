@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# OCR downloads are re-fetched by tools/extract_all.py
+downloads/
+_site/

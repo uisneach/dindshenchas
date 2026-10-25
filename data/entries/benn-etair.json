@@ -1,0 +1,650 @@
+{
+    "id": "benn-etair",
+    "name_mir": "Benn Étair",
+    "name_ga": "Binn Éadair",
+    "name_en": "Howth Head",
+    "county": "Dublin",
+    "county_ga": "Contae Bhaile Átha Cliath",
+    "kind": "headland",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Howth Head",
+    "wikipedia_ga": null,
+    "logainm": null,
+    "images": [
+        {
+            "file": "img/benn-etair-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Ceann_Binn_Eadair.jpg",
+            "author": "Jojo Nemčok",
+            "licence": "CC BY-SA 3.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "caption": "Howth Head, Ireland",
+            "date": "2006-09-01"
+        },
+        {
+            "file": "img/benn-etair-2.jpg",
+            "era": "historical",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Howth_Harbour_and_Irelands_Eye_(32486147233).jpg",
+            "author": "National Library of Ireland on The Commons",
+            "licence": "No restrictions",
+            "licence_url": "https://www.flickr.com/commons/usage/",
+            "caption": "A visit to the Stereo Pairs Collection today lets us stay in Howth, and gives a view of the area that perhaps neither you nor I has ever seen in reality. Today's fashionable suburb of Dublin is seen i",
+            "date": "1880-01-01"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 29,
+            "title": "Benn Étair",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                330
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/330/mode/1up",
+            "ga": [
+                "Bend Édair, canas roainniniged?",
+                "Ni ansa. Etar ben Gaind mek Deladha, an coicedh ri Fer mBolg, is i sin an c'Vna hen atbath do cumaidafir sund pnw 7 is and roadnacbt, i niBeinn Etair.",
+                "Aliter Etar.i. o Etwr mac Etgaith robói a clemn// Manandain, is é atbath do seirc Aine, co n-acladh a fert isin beind ucat.",
+                "Dún mBrea dano 7 Dniim Ing 7 Áei Cualand 7 Sliab Lecgach, canas roainmnigthe?",
+                "Ni ansa. Dia tudchaidh Partalon tue leis Brea mac Senbotha, an cVna fer lasa ndrnadh tech 7 coire 7 comrrtc óeinfir artus a n-Eir/;z77, 7 is é cong-ih Dun mBrea 7 in inber ucat, 7 is and rohiànacht.",
+                "Óe Cualand mmorro: cath doberi Cuala 7 Ing mac Doirb Glais do Cnm.lhann Sciathbel.i. do rig hdigm, co ro marbai Cuala and, 7 coro fuirmed a cend forsin sliab, 7 in cloch forsar' > fuirmed in cend sin is i in Oe Cuala//?? sin, 7 dorocha/> Ing ï.or Drumaind. ]i-de àicitur [Druim] Ing.",
+                "Lecga im7//o/'/'(), dia tu[d]cadar t/i rxeic Conmiwd mc/c Conmaic, tri hui [Duind] Désa, oidhci samna, do tigh Deirg do gabail Bruidne da Dtvga (or Conahx comus-iorachtiidar hi sléib lecca, co //-ebeart Lomna Druth f/iu, cloch car/; tir do ùiirmedh isin isléib, ar co fesdais a lin ac dul, 7 co fesdais a tesbuide ic tuidecht ontogaiU sin, 7 facbait cloch cach mairbann.",
+                "Unde Bend Étair 7 Dim Brca 7 D/'uim Ing, Oe Cuala//// 7 Sliab Leccach nominantur.",
+                "Étar wife of Gand son of Delà, the fifth king of the Fir",
+                "Whence Benn Etair and Di'in Brea and Druim Ing, Oe Cualann and Sliab Leccach are named."
+            ],
+            "en": [
+                "Bolg, she was the first woman that here formerly died of grief for her husband, and where she was buried was on Benn Étair.",
+                "Otherwise Étar, that is frora Étar son of Etgath who was Manannan mac Lir's son-in-law. Tis he that died of love for Aine, and his grave was dug on yonder peak.",
+                "Di'in niBrea, also, and Driiim Ing and Oe Cualann and SHab Leccach, whence were they named?",
+                "Not difficult. When Parthalon came (to Ireland) he brought with him Brea son of Senboth, the first man who in Erin built a house, made a caldron ^ and fought a duel; and 'tis he that took Dùn mBrea and yon estuary, and therc he was buried.",
+                "Oe Cualann, now, Cuaki and Ing son of Dorb-gkis gave battle to Crimthann Shieldmouth, KingofLeinster, and therein was Cualu slain, and on the mountain his head was Laid, and the stone whereon that head was laid is the Oe Cualann. And Ing fell on a ridge (druini), whence is said Druim Ing.",
+                "As to Lecca, when the three sons of Conmenn son of Conmac, three descendants of Donn Désa, marched on the eve oi samain (Nov. i) to Derg's house to take Da Derga's Hostel on Conaire, they reached Sliab Leccach, and Lomna Druth said to them that a stone for each man (of their force) should be laid on the mountain, so that they might know their number when going to, and their losses when coming from, that Destruction; and there they leave a stone for every dead man."
+            ],
+            "notes": [
+                "Also in BB. 366’ 27: H. 21^: Lee. 463-'': the second and third paragraphs arc edited (from BB.) in Silva Gadellca, II, 475, 521. Versified LL. 194^ 3). There is also a pocm about Etar son of Ètháth in LL. 160^. As to the Fir Bolg see O'Mahony's Keating, chap. 8. As to Partholon, ibid. p. 83, 114.",
+                "The incident of warriors making a heap of stones of which cach contributed one, in order to compute their subséquent losses in battle, will be found in the Togail Bruidne da Derga, Lebar na hUidre, p. _86b-87^. See",
+                "I. an iron caldron LL.",
+                "also the dindsenchas of Carn Mail, LL. ijo^'' 20, and infra no. 94. Perhaps the latest instance of this practice is the cairn built by the Farquharsons before marching, in 1745, to their death at CuUoden. See lonica, London, 1891, p. 49. A similar practice (each man casting an arrowinto a common basket) was pointed out by the late sir Samuel Ferguson in Procopius, De Bello Persico, lib. i, c. 18 (Dindorfs éd. t. I, p. 97)."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Bend Etair I",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                104,
+                109
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/104/mode/2up",
+            "ga": [
+                [
+                    "Etar etan ri di'lind,",
+                    "in clar cetach tuath-Cualawd,",
+                    "ni Fail aslaig ar Herind",
+                    "congair glas-muir ria gualaind."
+                ],
+                [
+                    "A gualu dess ri Dothra,",
+                    "Ruirthech ria chness co feochra,",
+                    "fachta tuili, tond aithbe,",
+                    "aicbre ri trachta trethna."
+                ],
+                [
+                    "Drecht d' ecsib ceta batar",
+                    "cardais tractad cech cetail",
+                    "is tsenchoss ardospeitted",
+                    "cid dia n-ep<?r aiwm Etair. E."
+                ],
+                [
+                    "Tarcai lind... ind oclaich",
+                    "uas rind ind eclita ec-baith;",
+                    "bas Bethi dia bais betaig",
+                    ".Acs. maic Etair raaic Etbaith."
+                ],
+                [
+                    "Mac Etbaith assa horba",
+                    "roart co liuru Alba,",
+                    "fuair mnai... cen chend cumga;",
+                    "ba si Mairg ó Shleib Marga."
+                ],
+                [
+                    "Do ba mathair cboir chlaiwne;",
+                    "focheirded id n-óir immi;",
+                    "nad baded fairge foa,",
+                    "nach rubdais roa ri?zdi."
+                ],
+                [
+                    "Desein boi, ni do brecaib",
+                    "adfet cech sui iar setaib siu is tall immon saile,",
+                    "nasc mall mna na re Etair. E.",
+                    "In L only. 13J A sign is added in the margin which the facsimilist interprets as a t. ( 105 )"
+                ],
+                [
+                    "Ba baith a eland ar tossuch,",
+                    "bitis and in cech dessiuch;",
+                    "mac lesseo/M narbo lesi,",
+                    "ingen lesi narbo lessium."
+                ],
+                [
+                    "Lotar fon fairggi fograig",
+                    "d' immarbaig snawa sedlaig;",
+                    "in mac and fodiiair imned,",
+                    "ocus inn ingen ergnaid."
+                ],
+                [
+                    "Aes rodmbadi tond dilend,",
+                    "rodmert a baes, buan fualang,",
+                    "i vzdail fo tlmin?*e telchamd",
+                    "ingine CrewtLaiwd Cuala?*d."
+                ],
+                [
+                    "Dolluid in beist, bag dathe,",
+                    "cucu tresin sal sithi;",
+                    "Ki?id Chifld Ai'se, cia 'tchethe,",
+                    "Aii Bethe fo?- Lind Liphi."
+                ],
+                [
+                    "Foracsat nirtc slan slattm",
+                    "Aes is Bethe ban bechta,",
+                    "Bond nirtc Ais, carad indred,",
+                    "fer diarbu iwgen Elta."
+                ],
+                [
+                    "Elta dian-mag fo ocaib,",
+                    "in clar glan cwsna cetaib,",
+                    "ferfc na n-airech di G?*ccaib,",
+                    "decaid ar ainech Etair. E."
+                ],
+                [
+                    "Dia luid Aitliirm angbaid,",
+                    "romuir isin sliab sadbir",
+                    "secht cet riibo oi-derg fi«d-glan:",
+                    "tiwmad do tuc o Lagnib."
+                ],
+                [
+                    "Ba gur dollotar Lagiw",
+                    "do breith for evil in dligid,",
+                    "sair is-sliab Etair oraig,",
+                    "dia thogail forsiw filid."
+                ],
+                [
+                    "Luid Conchobar mac Nessa,",
+                    "secht cet co ngairgi gossa,",
+                    "do chosnaw in biiair buada",
+                    "ior maccu Kuada Kossa."
+                ],
+                [
+                    "Mag n-Elta erctais curaig",
+                    "im Chonchobar dia chobair",
+                    "i n -ing i mbatar Ulaid,",
+                    "gabsat Etar find foraib."
+                ],
+                [
+                    "Dobert Messdia tre mac Blait",
+                    "in iigell ba erchor tecmaicc,",
+                    "co rodmbadi Find fili",
+                    "oc 61 digi assiw tiprait."
+                ]
+            ],
+            "en": [
+                [
+                    "Etar, forehead to the flood,",
+                    "the hundred- strong barrier of northern Cualu,",
+                    "there is no attempt made on Erin",
+                    "the grey sea roars against his shoulder."
+                ],
+                [
+                    "His right shoulder fronts the Dothra:",
+                    "the Buirthech dashes wildly against his side,",
+                    "onset of the flood-tide, wave of the ebb,",
+                    "furious are the seas against the shore."
+                ],
+                [
+                    "A number of the poets who were the first",
+                    "loved a commentary on every song",
+                    "in the legend that chanted to them",
+                    "the reason why the name of Etar was given."
+                ],
+                [
+                    "The pool caused [the death] of the youth",
+                    "above the point of the deadly-foolish deed;",
+                    "the death of Bethi came by the violent folly",
+                    "of Aes son of Etair son of Etbaith."
+                ],
+                [
+                    "The son of Etbaith whose is the inheritance,",
+                    "a great chieftain, known as far as the shores of Alba,",
+                    "found a wife",
+                    "she was Mairg from Sliab Marga."
+                ],
+                [
+                    "She was a fit mother of children for him;",
+                    "she used to cast a golden chain about him:",
+                    "the sea should not drown him while he wore it,",
+                    "nor should spear-points of battle be able to wound him."
+                ],
+                [
+                    "Thence came [the name] (not in falsehood",
+                    "does every poet in succession relate it",
+                    "on this side and that about the sea)",
+                    "the pliant Chain of the modest wife of Etar."
+                ],
+                [
+                    "His family were foolish at the first",
+                    "they were there",
+                    "he had a son that was not hers,",
+                    "she had a daughter that was not his."
+                ],
+                [
+                    "They went over the sounding sea",
+                    "for a swimming match,",
+                    "the son who brought about sorrow there",
+                    "and the illustrious daughter."
+                ],
+                [
+                    "Aes, a mighty wave drowned him,",
+                    "his folly betrayed him, — lasting frenzy —",
+                    "at the meeting under the wave's roof",
+                    "with the daughter of Crimthand of Cualu."
+                ],
+                [
+                    "There came the beast, a pleasing combat,",
+                    "toward them through the level sea:",
+                    "the Point of Aes' Head, how should ye see it?",
+                    "Bethe's Ear is over the Liffey-Pool."
+                ],
+                [
+                    "They left a son sound and lusty",
+                    "(did Aes and fair trusty Bethe) —",
+                    "Dond son of Aes, who loved forays,",
+                    "a man whose daughter was Elta."
+                ],
+                [
+                    "Elta, fierce plain covered with warriors,",
+                    "the pure level with hundreds of men",
+                    "the grave of the nobles of the Greeks",
+                    "behold it in front of Etar!"
+                ],
+                [
+                    "When Athirne the cruel came",
+                    "he abode in the rich mountain:",
+                    "seven hundred kine, red-eared, pure white,",
+                    "he carried off as a gift to him from the Leinstermen."
+                ],
+                [
+                    "Boldly came the Leinstermen",
+                    "to bring back the tribute;",
+                    "eastward to Sliab Etar by the shore",
+                    "to sack it over the poet."
+                ],
+                [
+                    "Conor mac Nessa came,",
+                    "seven hundred with him in fierceness of might,",
+                    "to dispute the spoil of cattle,",
+                    "with the sons of Kuad Ross."
+                ],
+                [
+                    "Mag Elta was filled with champions",
+                    "round Conchohar to help him,",
+                    "in the straits in which the Ulstermen were;",
+                    "they took bright Etar against [the Leinstermen]."
+                ],
+                [
+                    "Messdia, in his boyish strength, gave",
+                    "the pledge — it was a chance shot struck him,",
+                    "so that the poet Find drowned him",
+                    "as he was drinking a draught from the well."
+                ],
+                [
+                    "The Ulstermen shouted when was drowned",
+                    "Messdia who was a white-fingered man;",
+                    "the Ulstermen who were not subdued inflicted defeat",
+                    "on the four provinces of the Gaels."
+                ],
+                [
+                    "They drank up the pool, a spot not narrow,",
+                    "in Mag Find after the great hardships;",
+                    "without water flowing in pure streams",
+                    "was Boyne on the morrow."
+                ],
+                [
+                    "It was after the slaughter of the wounded hosts",
+                    "he carried off with him his white herd, prize of deeds;",
+                    "Athirne went his way and was not hurt",
+                    "through the protection of the Ulstermen, O Etar."
+                ],
+                [
+                    "110 )"
+                ]
+            ],
+            "incomplete": [
+                72,
+                85
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Bend Etair II",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                111,
+                119
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/111/mode/2up",
+            "ga": [
+                [
+                    "Cid dorcha dam im lepaid,",
+                    "cid seel fromtha is fir-deccair,",
+                    "imreil fri solad slimda",
+                    "each romag each rodindgna."
+                ],
+                [
+                    "Mar nobeinn fri forgla fert",
+                    "ós cech forba cen anrecht,",
+                    "gm'm cech cuiri fo chuimsi",
+                    "condat uili imsuilsi."
+                ],
+                [
+                    "Atchiu chóiciur ndindgna ndocht",
+                    "co hirgna ocus co hetrocht;",
+                    "ni fand-eirge dar samlaib",
+                    "barr-feile ocus bith-adbail."
+                ],
+                [
+                    "Bend Etair, etan fri tuind,",
+                    "Dun mBrea maic Senboth Saeruill,",
+                    "Oe Cualand fri fogla frais,",
+                    "Druim Ing maic dobga Dorb-glais,"
+                ],
+                [
+                    "Sliab Lecga in lathair iarsain,",
+                    "fri fathaib is fri fogail,",
+                    "in coiced find-Fadb fromtha,",
+                    "cid imard ni himdorcha."
+                ],
+                [
+                    "Adfias diiib fria chobra cairn",
+                    "cen dogra ocus cen dolaid",
+                    "a senchas cen boeth-run mbocc,",
+                    "etir seer-dun is scer-clmocc."
+                ],
+                [
+                    "Partbolon rotherba thair,",
+                    "co mbeith ós Elga oll-blaid",
+                    "Brea mac Senboth co sir-gail",
+                    "fri hengnom fri hairm-digail."
+                ],
+                [
+                    "Comrac oen-Fir, nach maith mod,",
+                    "frith la mac soer-dil Senboth,",
+                    "na fian-Flescaig fothuga,",
+                    "na hiarn-lestair imduba."
+                ],
+                [
+                    "Fiiair Brea mac Senboth na sleg",
+                    "dun is inber is ard-ler;",
+                    "is e sin, nir theit-mer tra,",
+                    "ba cót-fer a n-aittrebtha."
+                ],
+                [
+                    "Andsin atbath Brea co becht,",
+                    "is a chland uile i n-óen-Fecht;",
+                    "al-lechta fri shiag-bann slatt",
+                    "i crich Cualand atcondarc."
+                ],
+                [
+                    "Coic mna tucsatar ille",
+                    "coic maic Dela cen duibe;",
+                    "rop hi in choiced ben bladmar",
+                    "Etav etrocht imadbal."
+                ],
+                [
+                    "'Si conapaid sund ar thus",
+                    "ria mnai cech rig, is rorris,",
+                    "di chumaid Gaind gecaig gluair",
+                    "hi mBeinn Etair fri hóen-uair."
+                ],
+                [
+                    "I n-Etar, fuair duilge de",
+                    "cen chuibde cen chomnairte,",
+                    "rue has in gle-rnall gasta",
+                    "ben rig Fremann forusta."
+                ],
+                [
+                    "Desin ata Etar an,",
+                    "in rig-phort cetach comlan,",
+                    "cia rothecht fri selba saith",
+                    "Etar ergna mac Etgaith."
+                ],
+                [
+                    "Etar co n-elgnus cech aig",
+                    "robui i clemnus Manannain;",
+                    "marb sund dar saile iar saine",
+                    "do seirc Aine imglaine."
+                ],
+                [
+                    "Crimthand Sciath-bel, sciam fri cath,",
+                    "las' torchair Cualu cetach,",
+                    "tuc a chend sliiag-barr samlaid",
+                    "i n-óe Ciialann crech-adbail."
+                ],
+                [
+                    "Ind ail uag fors' ruirmed sain",
+                    "cend ruad ruibnech ind rig-fir,",
+                    "is di as ainm ós chói chabsaid",
+                    "ind ói airdirc imarsaid."
+                ],
+                [
+                    "'Sin chath chótna chomdas cailc",
+                    "docer mac Dorb-glais dorn-bailc,",
+                    "is rohadnacht cen esair,",
+                    "i nDruim Ing cen imresain."
+                ],
+                [
+                    "Dib-sin gairther cen goe ng!ó",
+                    "Druim Ing is óe co n-airde;",
+                    "dia ndith fri sliiagaib segair,",
+                    "dia n-uagaib dia n-aidedaib."
+                ],
+                [
+                    "Diarchengsat fri holl-baind n-uilc",
+                    "tri maic Conmaind maic Conmaicc,",
+                    "'s tri hiii Duind Desa damaig,",
+                    "forbai besa bith-gabaid,"
+                ],
+                [
+                    "Aidche Samna sainriud sain,",
+                    "damna d' indriud is d'irgail,",
+                    "co tech nDeirg dorsig daire,",
+                    "diamtar comsig Conaire,"
+                ],
+                [
+                    "Ba hi a slige al-Luing Laga,",
+                    "sech thuind Uair-beoil imthana",
+                    "do Glind-da-Gruad dar Gabair,",
+                    "dar Suan is dar Sencharaid,"
+                ],
+                [
+                    "Do d£scin radairc co reil",
+                    "i n-Oe Chualann fo chomreir,",
+                    "do Chuiliund chi'ar, dar Crecca,",
+                    "dar Sruthair, dar Sliab Lecga."
+                ],
+                [
+                    "Sliab Sobail maic Sengaind sin,",
+                    "as each deg-raind deirb deithbir,",
+                    "co hlngcel nóisech neime,",
+                    "ainm toisech in tsen-s!óibe."
+                ],
+                [
+                    "Andsin asbert Lomna druth",
+                    "cen dogra is cen dothnuth;",
+                    "\" Facbaid sund fri baire mbil",
+                    "liac laime cech Isech-fir."
+                ],
+                [
+                    "Cech oen in tsluaig-se baid bil",
+                    "bas tuairse air is airlig,",
+                    "tecat sund fri toiche tig",
+                    "ar chend cloiche cech óen-fir."
+                ],
+                [
+                    "De-sin fesfaide uile",
+                    "tesbaide for tre\"n-chuire;",
+                    "ni bia sund fri gairm ngairthi",
+                    "acht cloch cech mairb mudaigthi.'"
+                ],
+                [
+                    "ó na lecaib-sin ille",
+                    "reil ós tecmaisin tire",
+                    "Sliab Lecga im radarc fromtha",
+                    "cen amarc ni himdorcha. C."
+                ]
+            ],
+            "en": [
+                [
+                    "Though it be dark to me in my bed,",
+                    "though it be a tale of testing and difficult indeed,",
+                    "[yet] illustrious with profit of laudation",
+                    "is every famous plain, every famous fortress."
+                ],
+                [
+                    "When I had to do with the most famous monuments,",
+                    "[ranked] not unjustly above every domain,",
+                    "the achievement of every host [was set] in order due,",
+                    "so that all are illuminated."
+                ],
+                [
+                    "I see five strong fortresses",
+                    "of renown and splendour,",
+                    "no weak array among their peers,",
+                    "chief in honour and mighty for ever."
+                ],
+                [
+                    "The Hill of Etar, forehead to wave,",
+                    "The Dun of Brea son of Senboth Sseroll,",
+                    "The Stone of Cualu against assault of pillage,",
+                    "The Ridge of Ing... son of Dorbglas,"
+                ],
+                [
+                    "Mount Lecga, the next spot",
+                    "prepared against ruses and pillage,",
+                    "is the fifth bright \" knot of testing,\"",
+                    "though it be very high it is not very dark."
+                ],
+                [
+                    "'Twas she died here, first of all",
+                    "before the wife of any king ('tis well known),",
+                    "of grief for long-limbed radiant Gand,",
+                    "in Bend Etar, suddenly."
+                ],
+                [
+                    "In Etar (which found sadness from this cause",
+                    "without compare, without equal)",
+                    "she died, the softly-bright active",
+                    "wife of the steadfast king of Fremu."
+                ],
+                [
+                    "Hence is named noble Etar",
+                    "the royal harbour, hundred-strong, complete;",
+                    "though there possessed it, in wealth and plenty,",
+                    "Etar the famous, son of Etgaeth."
+                ],
+                [
+                    "Etar, murderous of mood in every strife,",
+                    "was allied to Manannan;",
+                    "he died here apart across the sea",
+                    "for love of radiant Aine."
+                ],
+                [
+                    "Crimthand Shield-mouth, goodly in battle,",
+                    "by whom fell Cualu the hundred-strong,",
+                    "put his head, leader of the host, in this wise",
+                    "on Oe Cualand of the vast plundering."
+                ],
+                [
+                    "The unblemished stone whereon that head was set, —",
+                    "the red mangled head of the kingly man, —",
+                    "thence comes the name, above the abiding road,",
+                    "of the renowned, the ancient Oe."
+                ],
+                [
+                    "In the same well-matched battle of shields",
+                    "fell the son of heavy-handed Dorb-glas,",
+                    "and was buried without litter",
+                    "at Druim Ing without contention."
+                ],
+                [
+                    "Prom them is called, without clear error,",
+                    "Druim Ing and lofty Oe;",
+                    "from their destruction is the name mentioned among hosts;",
+                    "from their graves, from their deaths."
+                ],
+                [
+                    "When there went forth for an evil exploit",
+                    "the three sons of Conmand, son of Conmac,",
+                    "and the three grandsons of Dond Desa lord of troops,",
+                    "who was leader in a life of peril,"
+                ],
+                [
+                    "(It was on the very night of Samain,",
+                    "an occasion for foray and fighting),",
+                    "up to Derg's oaken house, full of doors,",
+                    "where were the captains of Conaire,"
+                ],
+                [
+                    "This was their road from Long Laga,",
+                    "along far-stretching Tond Uairbeoil,",
+                    "to Glenn da Gruad across Gabar",
+                    "across Suan and across Sencharaid,"
+                ],
+                [
+                    "To the point of outlook clear",
+                    "at Oe Cualann under like rule,",
+                    "to dark Cuilend, over Crecca,",
+                    "over Sruthar, over Sliab Lecga."
+                ],
+                [
+                    "The ' Mountain of Sobail ' son of old Sengand,",
+                    "by every certain lawful division,",
+                    "till the time of Ingcel noble and splendid",
+                    "was the original name of the ancient mountain."
+                ],
+                [
+                    "Then said Lomna the buffoon,",
+                    "without sorrow, without malicious envy,",
+                    "\" Leave ye here for a lucky goal",
+                    "a hand-stone for every hero."
+                ],
+                [
+                    "\" Everyone of this loving lucky host",
+                    "that is left after the slaughter and havoc",
+                    "let them come hither in due order",
+                    "to fetch each man his stone."
+                ],
+                [
+                    "\" Thence shall ye all know",
+                    "the losses of your brave band;",
+                    "there will not be present at the roll-call",
+                    "aught but a stone for every dead man slain.\""
+                ],
+                [
+                    "From those stones till now",
+                    "clear above the occurrences of the land",
+                    "is Sliab Lecga to my searching gaze;",
+                    "even without sight of eyes it is not wholly dark."
+                ]
+            ],
+            "incomplete": [
+                112,
+                88
+            ]
+        }
+    ]
+}

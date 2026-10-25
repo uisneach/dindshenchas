@@ -1,0 +1,158 @@
+{
+    "id": "sliab-bladma",
+    "name_mir": "Sliab Bladma",
+    "name_ga": "Sliabh Bladhma",
+    "name_en": "Slieve Bloom Mountains",
+    "county": "Laois / Offaly",
+    "county_ga": "Contae Laoise / Contae Uíbh Fhailí",
+    "kind": "mountain",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Slieve Bloom Mountains",
+    "wikipedia_ga": "Sliabh Bladhma",
+    "logainm": null,
+    "images": [
+        {
+            "file": "img/sliab-bladma-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:SlieveBloomView.JPG",
+            "author": "Mooro1",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "A view of the Slieve Blooms from the Glinsk Castle Hiking Loop",
+            "date": "2014-10-29"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 10,
+            "title": "Sliab Bladma",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": null,
+            "scan": "https://archive.org/details/revueceltique15pari",
+            "ga": [
+                "Sliab Bladma, cid diata?",
+                "Ni ausa. Bladma iw Blod mac Con, incic Gais Clothwm micc Uachaill, romarb Bregmc-el gahaind' Cuirce meic Snithe rig Erota Doluid iartain ina nocdin co rogaib a feronn a sliab. Un(f Sliab Bladma.",
+                "Nó is Blad mac Breogain ba marb ann do t;im, et a qiio mons nominatur. Nó it blcda mara.i. biasta mara, ruiseda a n-anmann, 7 bit i n-uiscib 7 i tirmaib, 7 it he foruidbet na cranna [fo. 95' i]. Um/f ‘Sliab bledach Bledma’; 7 Ros Ndir meic E[d]licon he prius."
+            ],
+            "en": [
+                "Bladma or Blod son of Cii, son of Cas Clothmin, son of Uachall, killed Bregmael the smith of Cuirce, son of Snithe king ofiruaith. Thereafter he went in his boat and took his land on the mountain. Whence is Sliab Bladma.",
+                "Or 'tis Blad son of Breogan, who died there of pestilence. And from him the mountain is named. Or they are seahleda i. e. sea- monsters named ruiseda, and they live (equally well) in waters and on dry grounds, and 'tis they that destroy the trees. Whence ‘monstcrful Sliab Bledma [Félire, April 7], and it was previously called Ross meic Edlicon."
+            ],
+            "notes": [
+                "Also in LL. 159b 17: BB. 357b 25: H. 17a: BodL no. 11: Ed. 2^ 2. Sliab Bladma, now Slieve Bloom, on the border of King's and Queen's counties."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Sliab Bladma",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part II (Todd Lecture Series IX, 1906)",
+            "pages": null,
+            "scan": "https://archive.org/details/toddlectureserie09royauoft",
+            "ga": [
+                [
+                    "Blod mac Con maic Caiss clothaig",
+                    "maic Uachalla ilchrothaig",
+                    "romarb Bregmael, gobaind glain",
+                    "Cuirchi maic Snithe snamaig."
+                ],
+                [
+                    "Cuirche cendmar, ba ri rot",
+                    "for Medraige is for Herot;",
+                    "is lais na fiiair foesam fir",
+                    "Blod mac Con meic Caiss clothmi'n."
+                ],
+                [
+                    "Cechaing 'n a luing, lathar ngle,",
+                    "ó Bun Gaillme glan-uaire,",
+                    "ó Ath Cliath in Herut uill",
+                    "cosin n-Ath Cliath i Cualaind."
+                ],
+                [
+                    "Dolluid iarum iar lin chor",
+                    "co Boss Nair maic Eidlicon,",
+                    "co roselb i sain-rainn son",
+                    "in sliab dianid bunad Blod."
+                ],
+                [
+                    "Atbatk fer find, figed gail,",
+                    "i Sleib Bladma, blad adbail,",
+                    "Blad niac Bregoin, buidnib tor,",
+                    "do tham i Sleib bledaig Blod."
+                ],
+                [
+                    "Aliter No 's ó mac Bregoin borrfaid",
+                    "Sliab Bladma co mban-tolcaib;",
+                    "a tarba ni cian ó crad",
+                    "in sliab mar tarla ó tren-Blad."
+                ],
+                [
+                    "LRY (on a slip in later hand) EHSsV. 82 has the last stanza only.",
+                    "Nó bleda mara nar mall,",
+                    "biasta, ruisenda a n-anmand, tanic fo thalmain na treb,",
+                    "conid uatha ata Sliab Bled."
+                ],
+                [
+                    "Blod mac Con meic Caiss clothmin",
+                    "romarb buachaill Bregmail bain,",
+                    "gobann Cuirchi meic Snithe,",
+                    "rogab ac Ross Tire Nair."
+                ]
+            ],
+            "en": [
+                [
+                    "Blod, son of Cu, son of Cass the renowned,",
+                    "son of Uachall the many-shaped,",
+                    "killed Bregmael the famous smith",
+                    "of Cuirche, son of Snithe the swimmer."
+                ],
+                [
+                    "Curche Cendmar was a daring king",
+                    "over Medraige and over Herot;",
+                    "through him Blod, son of Cass Clothmin,",
+                    "found never sure protection."
+                ],
+                [
+                    "He fared in his ship — clear purpose! —",
+                    "from the Bottom of pure-cold Galway,",
+                    "from Ath Cliath in wide Herot",
+                    "to Ath Cliath in Cualu."
+                ],
+                [
+                    "Thence he came after many a turn",
+                    "to the Point of Nar, son of Edliuc,",
+                    "and possessed, as his special portion,",
+                    "the mountain whose name derives from Blod."
+                ],
+                [
+                    "A valiant man who used to wage battle died",
+                    "at Sliab Bladma — vast renown!",
+                    "even Blad, son of Bregon, with troops of warriors,",
+                    "died of disease in the monster-haunted Sliab Blod."
+                ],
+                [
+                    "Or, it is from the son of Bregon the wrathful",
+                    "that it is named Sliab Bladma, with onsets of women;",
+                    "their profit (?) not far removed from destruction (?)",
+                    "was the mountain where it happened through strong Blad."
+                ],
+                [
+                    "Or the monsters of the sea that was not calm,",
+                    "beasts — ruisenda was their name —",
+                    "came throughout the land of the tribes,",
+                    "so that from them is named Sliab Bled."
+                ],
+                [
+                    "Blod, son of Cu, son of Cass Clothmin,",
+                    "slew the herd of Bregmael Ban, 80s",
+                    "the smith of Curche, son of Snithe;",
+                    "he settled at Ross Tire Nair."
+                ]
+            ]
+        }
+    ]
+}

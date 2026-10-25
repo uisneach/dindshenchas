@@ -1,0 +1,61 @@
+{
+    "id": "ard-machae",
+    "name_mir": "Ard Machae",
+    "name_ga": "Ard Mhacha",
+    "name_en": "Armagh",
+    "county": "Armagh",
+    "county_ga": "Contae Ard Mhacha",
+    "kind": "settlement",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Armagh",
+    "wikipedia_ga": "Ard Mhacha",
+    "logainm": null,
+    "images": [
+        {
+            "file": "img/ard-machae-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Armagh_2013_09_24.jpg",
+            "author": "Andreas F. Borchert",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "View from the stairs of the Roman Catholic Cathedral of St. Patrick to Armagh and the Anglican Cathedral of St. Patrick at the opposite hill.",
+            "date": "2013-09-24"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 94,
+            "title": "Ard Machae",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 16 (1895)",
+            "pages": [
+                44
+            ],
+            "scan": "https://archive.org/details/revueceltiqu16pari/page/44/mode/1up",
+            "ga": [
+                "Ard Mácha;, canas roainmniged?",
+                "Ni ansa. Mácha ben Nemedh meic Agnomoin atbath and 7",
+                "Ailier: Mácha ingen yEdha Ruaidh maie Baduirn, is le rothornedh Emoin. Is ann ro hadnacht dia rus-marb Rec/;/aidh Rigderg, 7 is dia guba rognith Oenach Mácha. Unde Mag Mácha.",
+                "Ailiter: Máchas dano ben Chru[i]nd meic Agnoman doriacht and do comrith fri heacha Concobair, ar atlvrt an fer ba luaithiu1 a bean. Amlaid dzno bói in ben, is hi inbadhach, cor' chuin[n]igh cairde coro thoeda bru, 7 ni tucaJ di, 7 dognith in comrith iarwm, 7 ba luaithem si, 7 o ro siacht [cenn] in céiti Iv/ïdh mac 7 ingen — Fir 7. Fiai a n-anmand — 7 atben co mbedis XJlaid fo ceis óited in cach uair dus-úchd eicin. Coiiid de bai in cess for UWtaib fri re nomaide o úaith Concobair co flaith Mail meic Roc/;raide, 7 athefit ba hi sin G/ian Bznchure mgén Mid/r Bn Léitb, 7 atbeb iar suidhiu, 7 focresa a lert i nArd Macrue, 7 focer a guba 7 roclan[n]udh a liae. Unde krd Mácha."
+            ],
+            "en": [
+                "when she reached the end of the green she brings forth'a boy arjjd-a^girl — Fir and Fiai ‘True and Modest’ thcir namcs rohadnacht, 7 ba hé indara magh.x. roslecht la Nemedh, 7 dobretha dia mnoi co mbeith a ainm uasa. Unde Mag Mácha.",
+                "Mácha wife of Nemed son of Agnoman died there (on Mag Mácha) and was buried, and it is the twelfth plain which was cleared by Nemed, and he bestowed it on his wife so that it might bear her name. Whenqe Mag Mácha ‘Macha's Plain’.",
+                "Otherwise: Mácha daughter of Aed the Red, son of Badurn — 'tis by her Emain was marked out — was buried there when Rechtaid of the red fore-arm killed her. To lament her, Oenach Mácha ‘Macha's Fair’ was established. Whence Mag Mácha.",
+                "Otherwise: Mácha wife of Crund son of Agnoman went thither to race against king Conchobar's horses, for her husband had said that his wife was swifter (than they). Thus then was the wife, big with child 2: so she asked a respite till her womb should have fallen, and this was not granted to her. So then the race was run, and she was the swiftest. And",
+                "46 Whitky Stokes.",
+                "— and she said that the Ulaid would abide under feebleness of childbed whensoever need should befall them. Wherefore the Ulaid sufFeréd feebleness for the space of a nomad from the reign of Conchobar to the reign of Mal son ofRochraide ‘Great heart’. And men say that she was Grian Banchure ‘the Sun of Womanfolk’, daughter of Mider of Bri Léith. And after this she died, and her tomb was raised on Ard Mácha, and her lamentation was made, and her gravestone was planted. Whence Ard Machae ‘Macha's Height’."
+            ],
+            "notes": [
+                "Also in'BB. 400b49: H. 6ib: Lee. $iob; and Ed. 4b2. Editcd from Lee. in Reeves' The Ancient Churches of Armagh, 1860, p. 41; from Ed. in Folklore, IV, 480.",
+                "Ard Mácha now Armagh. Mal son of Rochraide overking of Ireland A.D. 107-110. As to Mider see infra no. 126.",
+                "That the second Mácha marked out Eraain (now the Navan, about two miles west of Armagh) is told also in Cormac's Glossary s. v. limai 11, and in LL. 20b48.",
+                "The story of the third Macha's race with Conchobar's horses and of the birth of her twins is related more fully in LL. I2)'1 42, whence it lias been published by the late Sir Samuel Ferguson in a note to his Congal, London, 1872, pp. 189, 190. with a Latin version, and by Prof. Windisch in the Berichte of the Royal Saxon Gesellschaft der Wisscnschaften. 1884, p. 536-347, with a German translation."
+            ]
+        }
+    ]
+}

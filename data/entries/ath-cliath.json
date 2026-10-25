@@ -1,0 +1,178 @@
+{
+    "id": "ath-cliath",
+    "name_mir": "Áth Cliath Cualann",
+    "name_ga": "Baile Átha Cliath",
+    "name_en": "Dublin (the ford of the Liffey)",
+    "county": "Dublin",
+    "county_ga": "Contae Bhaile Átha Cliath",
+    "kind": "ford",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Dublin",
+    "wikipedia_ga": "Baile Átha Cliath",
+    "logainm": "1375542",
+    "images": [
+        {
+            "file": "img/ath-cliath-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Dublin_-_aerial_-_2025-07-07_01.jpg",
+            "author": "瑞丽江的河水",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "Dublin aerial photograph",
+            "date": "2025-07-07"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 28,
+            "title": "Ath Cliath Cualann",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": null,
+            "scan": "https://archive.org/details/revueceltique15pari",
+            "ga": [
+                "Ath Cliath, ainas ro ainmnigcd?",
+                "Ni ansa À. cliatha c:oaig doriginset Laigin hi flaith Misgegra fo cosaib caorach Aitherne Ailgesaigh 'ca n-adnacal co Dún n-Étair airm i ragbad allaind Htair ïor occaib Ulad, du",
+                "I. ailsesaidh R.",
+                "docear Mes-dedú? mac Amarg/n do laim Mes-gegra ri Laighen. Coma dona cliathaib sin rohainmnigrf Ath CXiath.",
+                "Vel ita-: Ath cliath5.i. dia robruiset fir Erenn baill in Matas roslas i - mBrug Mc/c in Óic ïor Lig Bend, co ro lasat iar mballaib i mBoind co rucbt a 5 colpta co hlndbr Colp//;a et Viwde IndbT Colptha dicitur, 7 comlaid cliath a comblaid iar muir lam in Heir//n?, co ro tovarhl cosin ath ucat. Unde Ath Chath dicilur."
+            ],
+            "en": [
+                "Hurdles of wattHng the Leinstermcn made in the reign of Mes-gegra under the feet of the shcep of Athirne the Importunate when dehvering them to Dún Etair at the place in which Allaind (?) Htair was taken from the Ulaid's warriors, where also Mes-dedad son of Amargen fell by the hand of Mes-gegra king of Leinster. So from those hurdles Ath Cliath ‘the Ford of Hurdles’ was named.",
+                "Or thus: Ath cliath: When the men of Erin broke the limbs of the Matae, the monster that was slain on the Liacc Benn in the Brug maie ind Óc, they threw it limb by limb into the Boyne, and its shinbone {colptha) got to Inber Colptha (the estuary of the Boyne), whence Inber Colptha is said, and the hurdic of its frame (i. e. its breast) went along the sea coasting Ireland till it reached yon ford (áth); whence Ath Cliath is said."
+            ],
+            "notes": [
+                "Also in BB. 365'^ 42: H. 2ot': Lee. 462''. The lattcr half is vcrsified in LL. 194'' 18-34 (in line 27 of the facsimile siiuiach should obviouslv be 'sitin-àth).",
+                "A Ib cliath (Cualann or Duiblinne) now Dublin. Etar Howth.",
+                "As to Athirne see LL. 114I' and Revue Celtique, VIII, 48-)). Messdead's deatli is mentioned ibid. p. 57.",
+                "We have already met with the Mátac and the Liacc Benn and the Briigh Maie ind Oc supra no. 4."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Ath Cliath Cualann",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                100,
+                103
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/100/mode/2up",
+            "ga": [
+                [
+                    "Atli Cliath fegaid lib colleic:",
+                    "a thuir imtheit Goedel gnath,",
+                    "cia loech cia 1óiches rodmbrat,",
+                    "dorat a ainm forsin n-atli?"
+                ],
+                [
+                    "Gin mna Adaim dosrat forn",
+                    "am-mil cen chond cluiche-drenn:",
+                    "cian ó dorairngert in driii",
+                    "in beist robui for Lice Benn."
+                ],
+                [
+                    "In beist robui for Lice Benn,",
+                    "secht ficbit coss, ceithri chend:",
+                    "rosiaclit a cholpa 's a doit:",
+                    "rosh'g Boind corbo glend."
+                ],
+                [
+                    "In beist dia roas in coel,",
+                    "diamsat eol i n-ilib óe,",
+                    "ani-mil n-ingnad, rogab tass,",
+                    "roslass for bruig maic ind Oc."
+                ],
+                [
+                    "Ciaso soer rofich in cleith?",
+                    "inna meit dosfuc 'sin n-atb:",
+                    "cade in chliath, is ingnad linn:",
+                    "meraid hi lind co ti brath."
+                ],
+                [
+                    "LHBYLcMSSsH. Attributed to Colum Cille and Mongan mac Fiachmi. Curach a chleib rola cor",
+                    "im Herind, or finnad each,",
+                    "conusforluaid in muir mer:",
+                    "iarum doscer isin n-ath."
+                ],
+                [
+                    "Ki na nduile, forum n-an,",
+                    "coimsid riiine do each oen,",
+                    "flaith na folad, mac mo De",
+                    "is ó adchomad each coel."
+                ],
+                [
+                    "Innis dam, a Mongain niaiss,",
+                    "uair at eolach cech ernmaiss,",
+                    "cia lin dorochair, is gle,",
+                    "hi tulaig na segainne."
+                ],
+                [
+                    "A buaid Herind dar da ler,",
+                    "a mind gel rofitir each,",
+                    "memor latt, a breo dond I,",
+                    "ani dosfuc isin n-ath."
+                ]
+            ],
+            "en": [
+                [
+                    "Behold Ath Cliath before you awhile!",
+                    "O tower that ever guardest the Gael,",
+                    "what warrior, what dame has plundered it,",
+                    "and given its name to the ford?"
+                ],
+                [
+                    "The sin of Adam's wife brought upon us",
+                    "the senseless rough-sporting beast:",
+                    "long since had the seer foretold",
+                    "the beast that was on Lecc Benn."
+                ],
+                [
+                    "The beast that was on Lecc Benn",
+                    "had seven score feet, four heads;",
+                    "its shank and its toe reached [hither],",
+                    "it licked up Boyne till it became a valley."
+                ],
+                [
+                    "The beast, when the narrow swelled —",
+                    "(if thou art skilled among the numbers of the young) —",
+                    "the strange beast, it found rest:",
+                    "it was slain on Brug maic ind Oc."
+                ],
+                [
+                    "Who was the wright that planted the palisade?",
+                    "in its great size he set it in the ford:",
+                    "what is this palisade, we wonder?",
+                    "it shall abide in the pool till Doomsday."
+                ],
+                [
+                    "^atoait M; atoait uill 83; atouith mil II; cem cam (cain:) M. 12. rosli</~\\ II;",
+                    "The frame of the beast's chest made a cast",
+                    "round Erin — a coast that everyone knew — and the restless sea tossed it:",
+                    "thereafter it befell that it reached the ford."
+                ],
+                [
+                    "The King of the elements — noble motion —",
+                    "the Lord of each man's secret thoughts,",
+                    "the Prince of nature, the Son of my God,",
+                    "He it is that would protect every weakling."
+                ],
+                [
+                    "Relate to me, O comely Mongan",
+                    "since thou art acquainted with every violent deed,",
+                    "what number fell — 'tis clear —",
+                    "in Tulach na Segainne."
+                ],
+                [
+                    "O pride of Erin across two seas,",
+                    "O bright diadem whom all men know,",
+                    "thou rememberest, O light from lona,",
+                    "the thing that set it in the ford."
+                ]
+            ]
+        }
+    ]
+}

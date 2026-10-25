@@ -1,0 +1,704 @@
+{
+    "id": "loch-garman",
+    "name_mir": "Loch Garman",
+    "name_ga": "Loch Garman",
+    "name_en": "Wexford Harbour",
+    "county": "Wexford",
+    "county_ga": "Contae Loch Garman",
+    "kind": "harbour",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Wexford Harbour",
+    "wikipedia_ga": "Cuan Loch Garman",
+    "logainm": "1165957",
+    "images": [
+        {
+            "file": "img/loch-garman-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Wexford_Wildfowl_reserve_-_geograph.org.uk_-_1256731.jpg",
+            "author": "David Hawgood",
+            "licence": "CC BY-SA 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "caption": "Wexford Wildfowl reserve Wexford slobs and harbour attract thousands of water fowl, particularly Greenland White-fronted Geese. View from tower of visitor centre.",
+            "date": "2009-03-31"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 40,
+            "title": "Loch Garman",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                427
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/427/mode/1up",
+            "ga": [
+                "§ I. Loch Garman, cid diata?",
+                "§ 2. Ni aiisa. Garman Glas m.ac Deganii rohaànacht ann, 7 intan foclas a fert is ann romehaid in loch fo tir. Unde Loch Garman et cniiis erat ïraler Dea mac Degann, a q//o Liber nDedfl! i Crich Cualann et wliqua.",
+                "§ 3. Aliter Loch Garmon.i. Garmun Garb mïc Borna leice robdided and la Càtháir Mór hi tipraid Puirt Cclranna, ar ba hé a c<?7ainm, 7 is and mehaid in loch tune. Feis Temra fognit[h]e la Cathàir ar samoin, tri laithi riam 7 tri 'vàruni, cen gait is gan guin, gan aidbriud, gan athgabáil, gan eccraiti, gan aithed, con'id ann dofall Garmun minn óir mna Cathh'r iar mheith don tslog ar mesce. Mwluid Garmon le mind óir na rigna 7 muinter Cathair freis co ruccad fair ic tiprait Cœlcenda. conid aca bá[d]ad romebflí/ in loch. UnLoch Garmon.",
+                "§ 4. O Slainge mac Delà, o rig Fer mbolg ammmgtber in aband.i. Slaine 7 InbtT Slaine. I n-aimsir Caiháir 'mv>iorro ainmniug//(i an locha amaiJ ashert hi fis Cathc/r.",
+                "§ 5. Fecht i tosach- a bcthm/ do Cathrt/r ina codlad co facca ingin in briuga/ [cctaig] co ndeilb cáin 7 car/; dath ina timtaig 7 si torrach. Dccc. hliadaii di samlaid co ro ta gein mfc 7 ba treseam olda a máthair in laithe rofucc. Cuirit gliaid, 7 ni fuair a máthair inad dia imgabail acbt tecbt tre medán in ma[i]c. Cnocc oeibind osa cind- dib linaib, airde cacb tulaig co slogaib and. Bile etrocht amail ór3 isin cnuc, cosnied co niula ara airde. Cach ceol ina duillib. Brechtais a torrthea in talam [intan] nom-benad gretli. Rogha toraid do car/; oen.",
+                "§ 6. Mos-duisci 4.1a sodoin rt’/iagart a drùi.i. Brii mac Bairceda, inadochum 7 atfet scela do. ‘Eirnifetsa insin,’ ar Brii. ‘Is i in ingen.i. in abann diana[d] comainm Slaine. IS iat [fo. 102** 2] na datha ina hétgud, óes ca.cbà dana cen inandwj-S fodla no aiste. IS é in briug [cétach] ba hathafr di.i. talum triasa ta cet aicb genemain. IS é in mac bói 'na broind.dccc. hliadan, loch geinfes a sruthar na Slaine 7 id lind-siu musluidfe. Treisi in mac olda a máthair, in la genfes in loch baidfidh in aband uile. Sloigh imda, cach 'ga hol-si 7 'ga ol-sonj. ISé in cnoc mor osa cind 6, do nen-sa os cach. IS é in bile co ndath óir cona tort[h]aib, tusa. os Banba ina aitbius. IS é ceol bói hi mbarraib in bile, h'urlabra hi coma 7 ic coicert breath nGaïidel. IS é gœth )io trascrad in toradh7, h'inech-sa fri fodail sét 7 moine; 7 rotoimli’, ar Brii, ‘breith na fisi-se’, 7 ri.",
+                "§ I. Loch Garman, whence is it?"
+            ],
+            "en": [
+                "§ 2. Easy to say. Garman Glas son of Dega was buried there, and when his grave was dug then thelakeburstthroughout the land. Whence Loch Garman. His brother was Dea son of Dega, from whom (is called) Inber Dea in Crich Cualann, etc.",
+                "§ 3. Othcrwise: Loch Garman. Garman the Rough, son of",
+                "Rcvat Ciltique, XV. 29",
+                "430 Whitley Síokes.",
+                "Boimm Lecc, was drowned there by Cathdir the Great in the well of Port Coelrenna’ the Harbour of Narrow-point’, for that was its first name, and 'tis there then that the lake burst forth. The Feast of Tara was held by Cathair at samuin (Nov. i), three days before and three after, without theft and without slaying, without reproof, or reprisai, or enmity or elopement. But there German stole the golden diadem of Cathair's wife, the assembly being then intoxicated. Off went Garman with the queen's golden diadem, (and) with Cathdir's household at his heels, till he was overtaken at the well of Coelrind, and when they were drowning him the lake burst forth. Whence Loch Garman.",
+                "§ 4. From Slainge son of Delà, from the king of the Fir Bolg, the river Slaney is named, and also Inver Slaney. In Cathdir's time was the naming of the lake, as he said in Cathair s Vision.",
+                "§ 5. Once in the early part of Cathdir's hfe, as he was asleep, he saw a hundreded hospitaller's daughter with a beautiful form, and every colour in her raiment, and she was pregnant. Eight hundred years she was thus, untilshe brought forth a manchild, and on the day he was born he was stronger than his mother. They begin to fight, and his mother found no place to avoid him save by going through the midst of the son. A lovely hill was over the heads of theni both: higher than every hill, with hosts thereon. Ashining^ tree Hke gold stood on the hill: because of its height it would reach to the clouds. In its leaves was every melody; and its fruits, when the wind touched it, specked the ground. The choicest of fruit was each ofthem.",
+                "§ 6. Thereat Cathdir awakes and summoned his wizard, Bri son ofBaircid, and tells him his taies. ‘I will rede that’, says Bri, [‘if I have a guerdon thcrefor’. ‘Thou shalt have’, says the king, ‘every thing that thou mayest demand’]. ‘This’, [says the wizard,] ‘is the damsel, the river which hath the name of Slaney. Thèse are the colours in her raiment, artists of every kind without same-",
+                "I. Literally ‘beginning’.",
+                "ness of distinction or peculiarity. This is the hundreded hospitalier who was her father, the Earth through the which corne a hundred ofevery kind. This is the son who was in her womb for eight hundred years, the lake which will be born of the stream of the Slaney, and in thy time it will corne forth. Stronger the son than his mother, the day that the lake will be born it will drown the whole river. Many hosts there, every one a-drinking from the river and the lake. This is the great hill above their heads, thy power over ail. This is the tree with the colour of.gold and wdth its fruits, thou over Banba (Ireland) in its sovranty. This is the music that was in the tops of the tree, thy éloquence in guarding^ and correcting the judgments of the Gaels. This is the wind that would tumble the fruit, thy liberality in dispensing jewels and treasures. And now, ‘says Bri, ‘thou hast partaken of the redc of this vision’."
+            ],
+            "notes": [
+                "Also in BB. 270^ 26: H. 24b: Lee. 468’. Paragraphs 2 and 3 are also in LL. 159’ 37 and in Bodl. no. 5. The whole is versified inLL. 196^-1973. Crowe has edited the taie in prose and verse (from Lee. and LL.) in the Journal of theKilkenny Archaeological Association for January 1872. l'here is much fancy in the account of Catháir's Vision.",
+                "Loch Garman now Wexford Harbour. Inher Dea the mouth of the Vartry.",
+                "Catháir Mór overking of Ireland from A.D. 120 to 123.",
+                "The briiigu cétach or ‘hundreded hospitalier’, was a landholder legaliy bound to entertain travellers and his chief s soldiery, and to possess a hundred slaves and a hundred of each kind of domestic animal."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Loch Garman",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                168,
+                183
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/168/mode/2up",
+            "ga": [
+                [
+                    "Ei na loch in loch-sa thess,",
+                    "Loch Garman na nglan-ecess,",
+                    "ciian' cróebach lethan nal-long,",
+                    "óenach na n-ethar n-etromm."
+                ],
+                [
+                    "Inad as ruidles do rig,",
+                    "i comraic muir is mor-thir,",
+                    "dun iar ndi'chur idal as,",
+                    "siiairc rosilad a senchas."
+                ],
+                [
+                    "Cia dib ropo thusciu threll,",
+                    "iarfaigther d'eolchaib Erend,",
+                    "loch na sliiag ria thadall tair,",
+                    "no ind aband uar ronindsaig."
+                ],
+                [
+                    "Imchian etarru moalle,",
+                    "mad-dia-fegthar firinne,",
+                    "ó maidm na haband cen ail, 1",
+                    "CO maidm in loch a lind-glain."
+                ],
+                [
+                    "Ind aband atracht ar tus,",
+                    "am eó1ach ina n-imthus,",
+                    "ni rabi in loch mor-glan mall,",
+                    "co cian dar eis na haband."
+                ],
+                [
+                    "Fri re Cathair na cath cruaid",
+                    "maidm locha Garman glan-iiair;",
+                    "fri re Fer mBolg cen bane",
+                    "maidm sunna na sen-Slane."
+                ],
+                [
+                    "Tri fodla for Feraib Bolg,",
+                    "cid a n-imluad, ni hanord,",
+                    "gabsat Erinn iar n-edaib",
+                    "co tren a tri hinberaib."
+                ],
+                [
+                    "Oeii trian dib airmither and",
+                    "i n-inbiur doinech Domnann;",
+                    "in dara trian cen taisse",
+                    "i n-inbiur dian Dubglaisse."
+                ],
+                [
+                    "IN tres trian tanic ille",
+                    "co hinber sluagach Slane,",
+                    "im Slane cen gairm bad gand,",
+                    "ó full a hainm na haband."
+                ],
+                [
+                    "IS ed tancatar i tir,",
+                    "longes Fer mBolg mbriathar-min,",
+                    "co port Coelrenna, na ceil,",
+                    "liair ba be a ainm ind uair-sin."
+                ],
+                [
+                    "IS and tancatar na sloig",
+                    "i purt Choelrenna in chomoil;",
+                    "ó na ramaib rucsat and,",
+                    "is liadib raitir Eamand."
+                ],
+                [
+                    "Senchas anma in locha lain,",
+                    "dia tucam a tbuarascbail,",
+                    "ria aisneis, cid mór in mod,",
+                    "is e a maith, a minigod."
+                ],
+                [
+                    "Feis Temra cech tres bh'adna,",
+                    "do chomull recbt is riagla,",
+                    "dognitbi in tan-sin co tend",
+                    "ic n'gaib allib bErend."
+                ],
+                [
+                    "Dorigne Cathair clemnach",
+                    "feis rachaim na rig Temrach;",
+                    "tancatar 'mon feis, ferr de,",
+                    "fir hErenn co hoen-baile."
+                ],
+                [
+                    "Tri laa re Samain, biian bes,",
+                    "tri laa na diaid, ba deg-bes,",
+                    "don tsluag, rias' ba dimor daig,",
+                    "ic sir-61 frissin sechtmain."
+                ],
+                [
+                    "Cen gait is cen guin duine",
+                    "occu ind airet-sin uile,",
+                    "cen imbert n-airm na balad",
+                    "cen ecraite d' imradad."
+                ],
+                [
+                    "Cipe doneth ni dib-sein",
+                    "ba bidba troch co trom-neim;",
+                    "ni gabtlia or arand liaid",
+                    "acht a anam fri hoen-uair."
+                ],
+                [
+                    "Eobai tren-fer 'sin taig thall",
+                    "for cul Chathair, ni clielam,",
+                    "Garman mac Bomma Licce",
+                    "di sliiag Berba barr-bricce,"
+                ],
+                [
+                    "Dia tarla do 'sin taig tbe,",
+                    "diambai in mor-shiag ar mesce,",
+                    "mind oir na rigna do gait,",
+                    "nirbo gnim coir do cbarait."
+                ],
+                [
+                    "Elaid immach le mind n-óir",
+                    "ota Temraig in trom-sloig",
+                    "co ruaclit inber Slane seng",
+                    "i n-airthiur descirt Erenn."
+                ],
+                [
+                    "Tecait atuaid 'na degaid",
+                    "munter Chathair cliorr-beraig:",
+                    "nafairthet 'con tiprait tall,",
+                    "robai i n-inbiur na haband."
+                ],
+                [
+                    "Tan rogabsat Garman ngarg,",
+                    "maidid in tipra tren-ard,",
+                    "ota carraic co muir mass;",
+                    "ó sain is loch lethan-glass."
+                ],
+                [
+                    "Baitir Garman 'sin loch Ian;",
+                    "na heolaig aca imrad;",
+                    "cuan na seen is na sciath nglan",
+                    "is uad rolen loch Garman."
+                ],
+                [
+                    "Is e- sin senchas cert coir",
+                    "ind locha roglain romoir,",
+                    "is na haband, oebda al-H,",
+                    "ica n-anann each ardrf."
+                ],
+                [
+                    "Fecht robai Cathair ciall-glan",
+                    "i tossuch biian a bethad,",
+                    "co tarfas do fiss, rofess,",
+                    "tuc sluag Erenn i n-ard-chess:"
+                ],
+                [
+                    "Ingen briugad cetaig cdim",
+                    "co ndeilb luchair co lan-aib",
+                    "do thocbail chind, nirbo chol,",
+                    "don churaid ina chotlod."
+                ],
+                [
+                    "Cach dath coem atchi duine,",
+                    "do gurm do bricc do buide",
+                    "is do chorcair, ba suairc sin,",
+                    "ina hetgud 'mon n-ingin."
+                ],
+                [
+                    "'S atnlaid robói in ben ban,",
+                    "torracli, is a brii bith-lan,",
+                    "co cend ocht cet mbliadna mbil,",
+                    "cid ingnad fria innisin:"
+                ],
+                [
+                    "Co rue mac, ba maith a met,",
+                    "rochuir mor l£ch i luath-ec:",
+                    "in la rucad, ba sóeb sin,",
+                    "tressiu in mac inda a mathir."
+                ],
+                [
+                    "Triallaid in mathir ós mnaib",
+                    "techt liaid ara imgabail;",
+                    "ni fuair conair, cuirit gleic,",
+                    "acht tre medon a mor-maic."
+                ],
+                [
+                    "Cnocc aibind osa cind chóem",
+                    "na mna is a maic maróen;",
+                    "leir dia mullach in bith biian;",
+                    "nirbo menic cen mor-sluag."
+                ],
+                [
+                    "Bile oir 'sin chnucc cen chath,",
+                    "ricced a barr nem nelach;",
+                    "airfitiud f er ndomain de",
+                    "atchloss do baurr in bile."
+                ],
+                [
+                    "IN trath nobenad gaeth giir",
+                    "frissin mbile mbocc mbarr-ur,",
+                    "nobid Ian adbal, a fir,",
+                    "ar lar talman dia thorthib."
+                ],
+                [
+                    "Cach torad nothogtais sluaig",
+                    "anair anes is atuaid",
+                    "immar thuile mara maill",
+                    "ticced d'uachtur ind oen-chraind."
+                ],
+                [
+                    "Is i sin fiss fir ind aig",
+                    "'moandentais Lagin liithgair,",
+                    "Cathair male Feidlimthe find",
+                    "ardrig Erenn a hAlind."
+                ],
+                [
+                    "larsin diiscid in flaith ffal",
+                    "asa rochotlud rochian,",
+                    "cend sluaig Lagen immalle,",
+                    "d'innisin a aislinge."
+                ],
+                [
+                    "Garthir chucci in drui damach",
+                    "ocon rig ba rogradach,",
+                    "do co roeirned dia ailt",
+                    "na huile cesta atchondairc."
+                ],
+                [
+                    "\" Ernifetsa \" ar in drui daith,",
+                    "\" dianamraib hiag bas lan-maith,",
+                    "lat chataid it chri chena \"",
+                    "atbert Bri mac Baircheda."
+                ],
+                [
+                    "Tecait cura daingne dó",
+                    "fri luag d'fagail in each 16,",
+                    "is fri cataid thall 'na thig,",
+                    "fri seta mar rochuinnig."
+                ],
+                [
+                    "larsin berid in drui dóib",
+                    "breith na fissi co fir-choir;",
+                    "feib rue riam in mbreith co mblaid",
+                    "dia eis cid cian comailtair."
+                ],
+                [
+                    "\" Is 1 ind ingen adbal ard",
+                    "atchondarc-su a ri rogarg,",
+                    "ind abaud fail it tir the,",
+                    "dianid ainm sir-buan Slane."
+                ],
+                [
+                    "\" Is iat na datha atbere",
+                    "i n-£tgud na bingine,",
+                    "iies each dana nui fo uim",
+                    "cen inandus 'na n-aistib."
+                ],
+                [
+                    "\" Is e in briugu cetach cind,",
+                    "rop athair don ingin find,",
+                    "talam,\" ar in drui dia deoin,",
+                    "\" triasata cet cech ceneóil."
+                ],
+                [
+                    "\" Is ó mac robai 'na broind",
+                    "ocht cet bliadna, mar bagaim,",
+                    "loch geinfes uaidi ar gurt glas,",
+                    "ocus frit lind-siu lethfas."
+                ],
+                [
+                    "\" In la geinfes cona gair,",
+                    "baidfid in n-abaind n-imslain:",
+                    "each 'ca hó1-si dara hor,",
+                    "acht cid mor-si bid mó-som. IbO"
+                ],
+                [
+                    "Is ó in cnocc mór, mo each dind,",
+                    "atchonnarcais osa cind,",
+                    "do nert-su ós chach, is mochen,",
+                    "cen traethad is cen tairnem."
+                ],
+                [
+                    "Is £ in bile oir ainbthech",
+                    "gecach, lethan, lan-toirthech,",
+                    "tussu it rig for Banba bind",
+                    "is for each adba in hErind."
+                ],
+                [
+                    "s ó in t-airfitiud co n-iiaill",
+                    "robai i mbaurr in bile buain,",
+                    "th' aurlabra fial, oebdu de,",
+                    "ic sidugad sochaide."
+                ],
+                [
+                    "\" Is i in gaeth cobsaid cen chriias",
+                    "rothascair na toirtbe aniias,",
+                    "th'enech, a deit-gil diianaich,",
+                    "ic dail chruid do choem-sluagaib."
+                ],
+                [
+                    "\" Dait ata a breth bunaid",
+                    "na fissi ar each pmn-thulaig;",
+                    "ni fail do chreitim it chri",
+                    "ar hErinn corbat óen-ri.\""
+                ],
+                [
+                    "Eochaid eó1ach, diarb assa,",
+                    "fofuair suithi senchassa",
+                    "do loch Garman tall na thi'r",
+                    "ic adnad rand do rori'g. E."
+                ],
+                [
+                    "[Cuintgim itge ar Dia dam,",
+                    "co rob maith imthiis m'anman,",
+                    "na roslena cin i cri,"
+                ]
+            ],
+            "en": [
+                [
+                    "King of loughs is this lough in the south,",
+                    "Loch Garman of the famous poets,",
+                    "wide and winding haven of the ships,",
+                    "gathering-place of the buoyant boats."
+                ],
+                [
+                    "A place that is a king's demesne,",
+                    "where sea and mainland meet,",
+                    "a stronghold, after the ejection of idols,",
+                    "merrily was spread its story."
+                ],
+                [
+                    "Which of them was earlier in date,",
+                    "let it be asked of the learned of Erin —",
+                    "the lough of the hosts wont to frequent it on the east,",
+                    "or the cold river that ran down to it?"
+                ],
+                [
+                    "'Tis long between one and the other,",
+                    "if the truth be well tried,",
+                    "from the outburst of the stainless stream",
+                    "to the outburst of the limpid lough."
+                ],
+                [
+                    "The river first arose —",
+                    "I am versed in their fortunes —",
+                    "the broad pure placid lake was not",
+                    "till long after the river."
+                ],
+                [
+                    "In the time of Cathair of the bitter battles",
+                    "came the outburst of pure cold Loch Garmau: in the time of the unblenohing Fir Bolg",
+                    "came the outburst here of ancient Slane.",
+                    "given in the Commentary: H has both forms. 83 has both the stanza in the text and"
+                ],
+                [
+                    "Three divisions there were among the Fir Bolg;",
+                    "as to their movements there was no disorder;",
+                    "they conquered Erin at intervals",
+                    "by force, from three river-mouths."
+                ],
+                [
+                    "One-third of them is numbered there",
+                    "at populous Inber Domnand;",
+                    "the second third, without feebleness,",
+                    "at warlike Inber Dubglaise."
+                ],
+                [
+                    "The last third that came hither",
+                    "came to Inber Slane of the armies,",
+                    "led by Slane, whose repute would not be scanty,",
+                    "from whom the river has its name."
+                ],
+                [
+                    "It is there they came to land,",
+                    "the expedition of the Fir Bolg, smooth of speech —",
+                    "to Port Coelrenna — conceal it not! —",
+                    "for that was its name at that time."
+                ],
+                [
+                    "It is there the hosts arrived,",
+                    "at Port Coelrenna of the carouse:",
+                    "from the oars they brought thither,",
+                    "from them is Ramand named."
+                ],
+                [
+                    "The story of the name of the brimming lough,",
+                    "if we give an account of it,",
+                    "in the narration — though great the undertaking —",
+                    "the profit lies in the exposition."
+                ],
+                [
+                    "The Feast of Temair every third year,",
+                    "for accomplishment of law and justice,",
+                    "was held at that time punctually",
+                    "by the noble kings of Erin."
+                ],
+                [
+                    "Cathair of the many kinsmen held",
+                    "the right pleasant feast of the kings of Temair;",
+                    "to keep the feast came — the better cheer! —",
+                    "the men of Erin to the same spot."
+                ],
+                [
+                    "Three days before Samain, a standing custom,",
+                    "three days after it, it was a good custom,",
+                    "the gathering spent, and vast the blaze before them,",
+                    "carousing ever the length of the week."
+                ],
+                [
+                    "No theft, no manslaying,",
+                    "among them at this season;",
+                    "no play of weapons nor wounds,",
+                    "no brooding over enmity."
+                ],
+                [
+                    "Whoever should do any of these things",
+                    "was a culprit fated to evil doom;",
+                    "money in atonement would not be accepted from him,",
+                    "but his life was required straightway."
+                ],
+                [
+                    "There was a champion there in the house",
+                    "at Cathair's back (we conceal it not):",
+                    "Garman, son of Bomma Licce",
+                    "of the people of dappled Berba,"
+                ],
+                [
+                    "When it came to pass there in the house,",
+                    "while the great host was in drink,",
+                    "that he stole the queen's golden coronet;",
+                    "it was no right deed for a friend to do."
+                ],
+                [
+                    "He makes off with the golden coronet",
+                    "from Temair of the mighty host;",
+                    "till he reached narrow Inber Slane",
+                    "in the east of the southern part of Erin."
+                ],
+                [
+                    "After him, from the north, comes",
+                    "the household of Cathair of the pointed spears;",
+                    "they overtake him there by the well",
+                    "that was at the river's mouth."
+                ],
+                [
+                    "When they took fierce Garman,",
+                    "the spring burst forth strong and high,",
+                    "from the rock to the lovely sea;",
+                    "since then it is a lough, green and broad."
+                ],
+                [
+                    "Garman is drowned in the brimming lough;",
+                    "the learned are continually making mention of it,",
+                    "haven of knives and bright shields;",
+                    "from him the name Lough Garman clave to it."
+                ],
+                [
+                    "That is the right and true story",
+                    "of the lough so bright and broad,",
+                    "and of the river, — lovely their splendour!",
+                    "whereby tarries every high king."
+                ],
+                [
+                    "Once on a time, clear-souled Cathair was",
+                    "in the prosperous prime of his life,",
+                    "when there appeared to him a vision that became known,",
+                    "which threw the host of Erin into deep distress."
+                ],
+                [
+                    "The daughter of a goodly landowner, lord of hundreds,",
+                    "radiant of form, perfect in beauty,",
+                    "appeared (it was no sin)",
+                    "to the hero in his sleep."
+                ],
+                [
+                    "Every fair hue man can see,",
+                    "blue, dappled, yellow,",
+                    "and purple — the sight was pleasant —",
+                    "were in the raiment the lady wore."
+                ],
+                [
+                    "In this wise was the white woman,",
+                    "great with child, and her womb ever full,",
+                    "to the end of eight hundred good years,",
+                    "though strange it be to relate:"
+                ],
+                [
+                    "Till she bore a son, brave was his bulk,",
+                    "who brought many a champion to sudden death;",
+                    "the day he was born (this was illusion)",
+                    "the son was stronger than his mother."
+                ],
+                [
+                    "The mother, great above women, attempts",
+                    "to go from him, so as to avoid him;",
+                    "she found no way (they join strife)",
+                    "but through the midst of her great son."
+                ],
+                [
+                    "A beautiful hill above the comely head",
+                    "of the woman and her son together;",
+                    "clear to view from its summit the enduring earth;",
+                    "not often was it without a great host."
+                ],
+                [
+                    "A tree of gold on the hill free from battle,",
+                    "its crown reached the cloudy welkin;",
+                    "thence the music of the men of the world",
+                    "was heard from the tree's crown."
+                ],
+                [
+                    "Whenever the violent wind would beat",
+                    "on the soft fresh foliage of the tree",
+                    "there would be vast plenty, O men!",
+                    "of its fruits on the soil of earth."
+                ],
+                [
+                    "Every fruit the hosts would choose,",
+                    "from east, from south, and from north,",
+                    "like the flood-tide of the lazy sea,",
+                    "would come from the top of that one tree."
+                ],
+                [
+                    "This was the vision of the warrior of the combat,",
+                    "round whom the Leinstermen made rejoicing,",
+                    "Cathair, son of fair Fedilmid,",
+                    "the high king of Erin from Alend."
+                ],
+                [
+                    "Thereupon the noble prince awakes",
+                    "from his slumber long and deep, —",
+                    "the head of the people of Leinster generally, —",
+                    "to relate his dream."
+                ],
+                [
+                    "There is called to him the well-attended druid, —",
+                    "high in favour was he with the king,",
+                    "that he might solve for him, even for his chief,",
+                    "all the riddles the king had seen."
+                ],
+                [
+                    "\" I will solve them,\" said the keen druid,",
+                    "\" if I have a reward that shall be fully sufficient,",
+                    "\" with honour from thee all thy days as well,\"",
+                    "said Bri, son of Bairchid."
+                ],
+                [
+                    "Firm covenants are given to him",
+                    "for receiving reward every day",
+                    "and for honour there in his house",
+                    "and for wealth, as he demanded."
+                ],
+                [
+                    "Thereafter the druid gives them",
+                    "the interpretation of the vision faithfully:",
+                    "according as he gave of yore the famous interpretation",
+                    "it is fulfilled in later times, though long after."
+                ],
+                [
+                    "\" This is the young woman, mighty and tall,",
+                    "thou sawest, O fiercest king! —",
+                    "the river that is in thy land yonder",
+                    "whose abiding name is Slane."
+                ],
+                [
+                    "\" These are the colours thou speakest of",
+                    "in the young woman's raiment, —",
+                    "the men of every new art under heaven,",
+                    "without sameness in their qualities."
+                ],
+                [
+                    "\" This is the landowner lord of hundreds, be sure,",
+                    "who was father to the fair woman, —",
+                    "the earth,\" said the druid of his own accord,",
+                    "\" through which every kind yields a hundred-fold."
+                ],
+                [
+                    "\" This is the son who was in her womb",
+                    "eight hundred years, as I pledge my word, —",
+                    "a lough that shall be born from her on green sward,",
+                    "and shall spread abroad in thy time."
+                ],
+                [
+                    "\" The day he shall be born with his shouting",
+                    "he shall drown the brimming river:",
+                    "everyone shall be drinking of her along her margin,",
+                    "but great though she be, he shall be greater."
+                ],
+                [
+                    "\" This is the great hill, greater than any eminence,",
+                    "which thou sawest above their heads —",
+                    "thine own might over everyone, good luck to it I",
+                    "unbroken, unsubdued."
+                ],
+                [
+                    "' This is the storm-tossed tree of gold,",
+                    "branching, wide, full of fruit, —",
+                    "thyself in thy kingship over tuneful Banba,",
+                    "and over every dwelling in Erin."
+                ],
+                [
+                    "\" This is the stately music",
+                    "that was in the crown of the enduring tree —",
+                    "thy noble eloquence, lovelier thereby,",
+                    "when appeasing a multitude."
+                ],
+                [
+                    "\" This is the wind, steady without harshness,",
+                    "that shook down the fruits, —",
+                    "thy generosity, O white-toothed king, sung in lays,",
+                    "when dividing kine among the comely hosts."
+                ],
+                [
+                    "\" To thee pertains the peculiar import",
+                    "of the vision on every chief hill;",
+                    "thou shalt not believe the Faith in thy life-time",
+                    "till thou art sole king over Erin.\""
+                ],
+                [
+                    "Eochaid the Learned, to whom it was easy,",
+                    "found legendary lore",
+                    "for Lough Garman yonder in his country,",
+                    "while kindling the light of verse for a great king."
+                ],
+                [
+                    "[I crave a boon for myself from God,",
+                    "that good may be the fortune of my soul",
+                    "(may no sin in the flesh do it harm)"
+                ]
+            ]
+        }
+    ]
+}

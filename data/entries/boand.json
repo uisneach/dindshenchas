@@ -1,0 +1,544 @@
+{
+    "id": "boand",
+    "name_mir": "Bóand",
+    "name_ga": "An Bhóinn",
+    "name_en": "River Boyne (source at Carbury Hill)",
+    "county": "Kildare",
+    "county_ga": "Contae Chill Dara",
+    "kind": "river",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": "Marker placed at the river's source, Síd Nechtain (Carbury Hill), where the story is set.",
+    "note_ga": "Tá an marcóir ag foinse na habhann, Síd Nechtain (Cnoc Chairbre), áit a bhfuil an scéal suite.",
+    "wikipedia": "River Boyne",
+    "wikipedia_ga": "An Bhóinn",
+    "logainm": "116563",
+    "images": [
+        {
+            "file": "img/boand-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:River_Boyne_-_aerial_-_2025-12-26_02.jpg",
+            "author": "瑞丽江的河水",
+            "licence": "CC BY-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "caption": "River Boyne aerial photograph",
+            "date": "2025-12-26"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 19,
+            "title": "Bóand",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                315
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/315/mode/1up",
+            "ga": [
+                "Bóand cid diata?",
+                "Ni ansa. Boand ben Nechtain meic Labrada dodcchz/W docum in tobair diam[air bui i n-urlaind in Sidha Nechtain. Càch óen fodriced ni ticed uad can maidsin a da rose acht min[i]ptis liéNech/fif’ 7 a tri déogbaire.i. Flesc 7 Lam 7 Luam a n-anmand.",
+                "¥echt and mz/j'luid Boand la d'imus do cobfis cmmachta. in tobair, 7 ashen nad búi cumacbta diamair conmsed cumac a delba, 7 imsói tuaithbel in tohuir ïothn, 7 máidhid tri tonna tairsi don tobzr, 7 fosruidbed a sliasait 7. a [lethjlaim 7 a lethsuil. Imsói d'idiu (or teched - a haithisi co fairgi 7 an msce anadiaidh co hlnbd'r niBóinne, 7 ba hisin máthair Oengwja meic in Dagda.",
+                "Vel ita: Bó ainm in [tjsrotha 7 Find aband Sébe Guaire, 7 dia comnTc mole is ainm Boand (rectius Bófind).",
+                "Dabilla ainm a hoirce, xxnde Cnoc Dabilla, SMah in Cotaig hodie."
+            ],
+            "en": [
+                "Bóand wife of Nechtán son of Labraid went to the secret well which was in the green of Sid Nechtain. Whoever went to it would not come from it without his two eyes bursting, unless it were Nechtán himself and his three cupbearers, whose names were Flesc and Ldm and Luam.",
+                "Once upon a time Bóand went through pride to test the well's power, and declared that it had no secret force which could shatter her form, and thrice she walked withershins round the well. (Whereupon) three- waves from the well break over her and deprive her of a thigh and one of her hands and one of her eyes. Then she, fleeing her shame, turns seaward, with the water behind her as far as Boyne-mouth, [where she was drowned]. Now she was the mother of Oengus son of the Dagda.",
+                "Or thus: Bó the name of the stream [of Sid Nechtaia] and Find the river of SUab Guairi, and from their confluence is the name Bóand [= Bó -|- Find].",
+                "Dabilla was the name of her lapdog, whence Cnoc Dabilla (‘D.'s Hill’), today called Sliah in Cotaig ‘the Mountain of the Covenant’."
+            ],
+            "notes": [
+                "Also in BB. 361’ 49: H. 9-': Bodl. 110. 56. Silva Gadelica, II, 474, 519. Versified, LL. 191’ 27-54.",
+                "Bùaiin Ptolemy's Boyouivoa, now the river Boyne, which rises at Sid Nechtaiii a hill in the barony of Carbury, co. of Kildare.",
+                "SUab Guairi, now Slieve Gorey in the co. of Cavan.",
+                "Cnoc Dabilla, v. supra, no. 4."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Boand I",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                26,
+                33
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/26/mode/2up",
+            "ga": [
+                [
+                    "Sid Nechtain sund forsin tsleib,",
+                    "lecht mic Labrada lan-geir,",
+                    "assa silenn in sruth slan",
+                    "dianid ainm Boand bith-lan."
+                ],
+                [
+                    "Cóic anmand dec, demne drend,",
+                    "forsin tsruth-sin adrimem,",
+                    "ota Sid Nechtain asmaig",
+                    "co rosaig pardus Adaim."
+                ],
+                [
+                    "Segais a hainm issin tsid",
+                    "ria cantain duit in each thir:",
+                    "Sruth Segsa a hainm ota-sin",
+                    "co Lind Mochui in chlerig."
+                ],
+                [
+                    "Ota Topur Mochui choir",
+                    "co cocrich Midi mag-móir",
+                    "Big mna Nuadat 's a Colptha",
+                    "a da ainm ana imarda."
+                ],
+                [
+                    "Ota cocrich Midi maiss",
+                    "corrici in fairgi fond-glaiss",
+                    "Mor-Chuing Argait gairther di,",
+                    "ocus Smir Find Fedlimthi."
+                ],
+                [
+                    "Trethnach-Tond osin immach",
+                    "connici Ciialnge craibach.",
+                    "Sruth Findchuill ó Chualnge chruaid",
+                    "co Loch n-Echach Abrat-riiaid."
+                ],
+                [
+                    "Banna ó Loch Echach cen ail,",
+                    "Drumchla Dflenn co h-Albain;",
+                    "Lunnand hi i n-Albain cen ail",
+                    "nosturrand iarna tucsain."
+                ],
+                [
+                    "Sabrann dar tir Saxan slan,",
+                    "Tibir i raith na Romdn,",
+                    "Sruth n-Iordanen iarsain sair,",
+                    "ocus Sruth n-Eufrait adbail."
+                ],
+                [
+                    "Sruth Tigir i pardus buan,",
+                    "fota sair sist fri himluad:",
+                    "ó phardus daris ille",
+                    "co srothaib na side-se."
+                ],
+                [
+                    "Bóand a h-ainm coitchend cain",
+                    "ota in si'd co fairge fraig:",
+                    "mebur lim ani diata",
+                    "usce mna mic Labrada."
+                ],
+                [
+                    "Nechtain mac Labrada laind,",
+                    "diarbo ben Bóand, bagaimm,",
+                    "topur diamair bói 'na dun,",
+                    "assa maided cech mi-run."
+                ],
+                [
+                    "Ni Fail nodecced dia lar",
+                    "nach maided a da rose ran:",
+                    "dia ngluased do chli nó deis,",
+                    "ni thargad uad cen athis."
+                ],
+                [
+                    "Aire nfslaimed nech de",
+                    "acht Nechtain 's a deogbaire:",
+                    "it ó a n-anmand, fri gnim nglan.",
+                    "Flesc is Lam ocus Luam."
+                ],
+                [
+                    "Fecht and dolluid Boand ban —",
+                    "dosfuargaib a dfmus n-an —",
+                    "cosin topur cen tarta",
+                    "d' airigud a chumachta."
+                ],
+                [
+                    "Immar rothimcb.il! fo thri",
+                    "in topur co n-e\"tuachli,",
+                    "maidit teora tonna de",
+                    "dia tame aided Boinne."
+                ],
+                [
+                    "Eosiacht each tond dib ria chuit,",
+                    "romillset in mnai mblath-buic:",
+                    "tond ria cois, tond ria suil slain,",
+                    "tres tond brisid a leth-laim."
+                ],
+                [
+                    "Kethis co fairgi, ferr de,",
+                    "d' imgabail a hathise,",
+                    "ar nach acced nech a cned:",
+                    "furri fein a himathber."
+                ],
+                [
+                    "Cach conair dolluid in ben",
+                    "mosliii in t-usce liar imgel:",
+                    "ón tsid co fairgi nach fand,",
+                    "conid di gairthir Boand."
+                ],
+                [
+                    "Boand do bruinni ar mbruich braiss",
+                    "mathair Oengussa oll-maiss,",
+                    "mac rue don Dagda, miad ngle,",
+                    "dar cend fir na side-se."
+                ],
+                [
+                    "No Bóand bó ocus find",
+                    "do chomrac in da rig-lind,",
+                    "in t-usce a sleib Guaire gle",
+                    "ocus sruth na side-se. S."
+                ],
+                [
+                    "Dabilla ainm in chon choir",
+                    "robói oc mnai Nechtain nar-móir,",
+                    "messan Boinne co mblaid",
+                    "luid ina diaid dia torchair."
+                ],
+                [
+                    "Rosróen sruth in mara immach",
+                    "corrici na cairge clach,",
+                    "co ndernsat da gabait de,",
+                    "conid liad rohainmnigthe."
+                ],
+                [
+                    "Atat i n-airthiur Breg mbrass",
+                    "in di chloich 'sin loch lind-glass;",
+                    "Cnoc Dabilla ósin ille",
+                    "di choin bic na side-se."
+                ]
+            ],
+            "en": [
+                [
+                    "Sid Nechtain is the name that is on the mountain here,",
+                    "the grave of the full-keen sort of Labraid,",
+                    "from which flows the stainless river",
+                    "whose name is Boand ever-full."
+                ],
+                [
+                    "Fifteen names, certainty of disputes,",
+                    "given to this stream we enumerate,",
+                    "from Sid Nechtain away",
+                    "till it reaches the paradise of Adam."
+                ],
+                [
+                    "Segals was her name in the Sid",
+                    "to be sung by thee in every land:",
+                    "River of Segals is her name from that point",
+                    "to the pool of Mochua the cleric."
+                ],
+                [
+                    "From the well of righteous Mochua",
+                    "to the bounds of Meath's wide plain,",
+                    "the Ann of Nuadu's Wife and her Leg",
+                    "are the two noble and exalted names."
+                ],
+                [
+                    "From the bounds of goodly Meath",
+                    "till she reaches the sea's green floor",
+                    "she is called the Great Silver Yoke",
+                    "and the White Marrow of Fedlimid."
+                ],
+                [
+                    "Stormy Wave from thence onward",
+                    "unto branchy Cualnge;",
+                    "River of the White Hazel from stern Cualnge",
+                    "to the lough of Eochu Red-Brows."
+                ],
+                [
+                    "Banna is her name from faultless Lough Neagh:",
+                    "Roof of the Ocean as far as Scotland:",
+                    "Lunnand she is in blameless Scotland —",
+                    "The name denotes her according to its meaning."
+                ],
+                [
+                    "Severn is she called through the land of the sound Saxons,",
+                    "Tiber in the Romans' keep:",
+                    "•River Jordan thereafter in the east",
+                    "and vast River Euphrates."
+                ],
+                [
+                    "River Tigris in enduring paradise,",
+                    "long is she in the east, a time of wandering",
+                    "from paradise back again hither",
+                    "to the streams of this Sid."
+                ],
+                [
+                    "Boand is her general pleasant name",
+                    "from the Sid to the sea-wall;",
+                    "I remember the cause whence is named",
+                    "the water of the wife of Labraid's son."
+                ],
+                [
+                    "Nechtain son of bold Labraid",
+                    "whose wife was Boand, I aver;",
+                    "a secret well there was in his stead,",
+                    "from which gushed forth every kind of mysterious evil."
+                ],
+                [
+                    "There was none that would look to its bottom",
+                    "but his two bright eyes would burst:",
+                    "if he should move to left or right,",
+                    "he would not come from it without blemish."
+                ],
+                [
+                    "Therefore none of them dared approach it",
+                    "save Nechtain and his cup-bearers: —",
+                    "these are their names, famed for brilliant deed,",
+                    "Flesc and Lam and Luam."
+                ],
+                [
+                    "Hither came on a day white Boand",
+                    "(her noble pride uplifted her),",
+                    "to the never-failing well",
+                    "to make trial of its power."
+                ],
+                [
+                    "As thrice she walked round",
+                    "about the well heedlessly,",
+                    "three waves burst from it,",
+                    "whence came the death of Boand."
+                ],
+                [
+                    "They came each wave of them against a limb,",
+                    "they disfigured the soft-blooming woman;",
+                    "a wave against her foot, a wave against her perfect eye,",
+                    "the third wave shatters one hand."
+                ],
+                [
+                    "She rushed to the sea (it was better for her)",
+                    "to escape her blemish,",
+                    "so that none might see her mutilation;",
+                    "on herself fell her reproach."
+                ],
+                [
+                    "Every way the woman went",
+                    "the cold white water followed",
+                    "from the Sid to the sea (not weak it was),",
+                    "so that thence it is called Boand."
+                ],
+                [
+                    "Boand from the bosom of our mighty river-bank,",
+                    "was mother of great and goodly Oengus,",
+                    "the son she bore to the Dagda — bright honour!",
+                    "in spite of the man of this Sid."
+                ],
+                [
+                    "Or.Boand is Bo and Find",
+                    "from the meeting of the two royal streams,",
+                    "the water from bright Sliab Guaire",
+                    "and the river of the Sids here."
+                ],
+                [
+                    "Dabilla, the name of the faithful dog",
+                    "who belonged to the wife of Nechtain, great and noble,",
+                    "the lap-dog of Boand the famous,",
+                    "which went after her when she perished."
+                ],
+                [
+                    "The sea- current swept it away,",
+                    "as far as the stony crags;",
+                    "and they made two portions of it,",
+                    "so that they were named therefrom."
+                ],
+                [
+                    "They stand to the east of broad Breg,",
+                    "the two stones in the blue waters of the lough:",
+                    "Cnoc Dabilla [is so called] from that day to this",
+                    "from the little dog of the Sid."
+                ]
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Boand II",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                84,
+                89
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/84/mode/2up",
+            "ga": [
+                [
+                    "A Mailsechlainn mic Domnaill",
+                    "do chlainn ingine Comgaill,",
+                    "adcos duit, a mail Mide,",
+                    "senchas Bóinde bain-gile."
+                ],
+                [
+                    "Bóand, bendacht forsin sruth",
+                    "roordaig Crist co coem-chruth,",
+                    "conid hi ó glenn do glenn",
+                    "sruth Eorthanan na Herenn."
+                ],
+                [
+                    "Find Life, Find Gaileóin gairb,",
+                    "do chomóentaid da chomainm,",
+                    "dia comrac ata Mag Find,",
+                    "Find liiath Life ocus Mifind."
+                ],
+                [
+                    "Oe\"n Find dib-sin, beres biiaid,",
+                    "sech tóeb Temrach anairthiiaid:",
+                    "ann comrecat 'con chommar",
+                    "ocus Boand ban-bronnat."
+                ],
+                [
+                    "Bó Guairi sech Tailtin tair",
+                    "siles tre loch Munremair:",
+                    "Bó Guairi ainm na haba",
+                    "ria raiter in mór-Banna."
+                ],
+                [
+                    "Mar ata Ordan is an,",
+                    "ó' raiter sruth Eorthanan,",
+                    "in Bóand bo ocMsfind,",
+                    "do chomrac in da rig-lind."
+                ],
+                [
+                    "Tanic Bóand ann andes",
+                    "ben Nechtain cosin cairdes",
+                    "co tech Elcmairi na n-ech,",
+                    "fer dobered mor ndeg-breth."
+                ],
+                [
+                    "IS ann dorala in Dagda",
+                    "i tig Elcmairi amra:",
+                    "rogab for guide na mna:",
+                    "rodusasait re hóen-la."
+                ],
+                [
+                    "IS ann fastaitis in ngre\"in",
+                    "co cend nói mis, mór in seel,",
+                    "ic gorad in raeóir rain",
+                    "i cldithi in aeóir imlain."
+                ],
+                [
+                    "And asbert in ben abus",
+                    "\" Comrac rit, bad e m' oen-gus \":",
+                    "\" Is bad Oengus ainm in meicc \":",
+                    "asbert Dagda tre daigbeirt."
+                ],
+                [
+                    "Luid Bóand ó thig co trie",
+                    "diis da tairsed in tiprait:",
+                    "derb le docheiled a col",
+                    "da soised le a fothrucod."
+                ],
+                [
+                    "A thri deogbaire in druad,",
+                    "Flesc ocus Lesc ocus Liiam,",
+                    "Nechtain mac Namat dorat",
+                    "do chomet a choem-thiprat."
+                ],
+                [
+                    "Doruacht chucu Boand mfn",
+                    "dochum na tiprat iar fir:",
+                    "ercid tairsi in tobar tenn,",
+                    "corosbaid hi cen forchenn."
+                ],
+                [
+                    "Dogabad uirre in each tracht",
+                    "nach soised inber na mbarc",
+                    "ic Maelmorda, met ratha,",
+                    "ic mac maisech Murchada."
+                ],
+                [
+                    "Dorónad trocaire De",
+                    "for leith Chuind don chomairle,",
+                    "coró16 in aidchi dein daill",
+                    "cbucut, a Mail feil Sechlaind."
+                ]
+            ],
+            "en": [
+                [
+                    "O Maelsechlainn son of Domnall",
+                    "of the family of ComgalTs daughter!",
+                    "I will tell thee, O prince of Meath!",
+                    "the tale of white bright Boand."
+                ],
+                [
+                    "Boand — a blessing on the stream",
+                    "did Christ fair of form ordain;",
+                    "so she from glen to glen",
+                    "is the river Jordan of Erin."
+                ],
+                [
+                    "Find Life, Find of the fierce Gaileon,",
+                    "from the union of two names,",
+                    "from their meeting is Mag Find named: —",
+                    "swift Find Life and Mifind."
+                ],
+                [
+                    "One of the two Finds, that wins victory,",
+                    "flows past Tara from the north-east:",
+                    "there at the Confluence it meets",
+                    "with white-bellied Boand."
+                ],
+                [
+                    "Bo Guairi which flows eastward",
+                    "past Tailtiu through lough Munremair,",
+                    "Bo Guairi is the name of the river",
+                    "which is called great Banna."
+                ],
+                [
+                    "As there is ordan and an",
+                    "from which the river Jordan is called,",
+                    "so Boand is bo and find",
+                    "from the meeting of the two royal waters."
+                ],
+                [
+                    "Thither from the south came Boand",
+                    "wife of Nechtain to the love-tryst",
+                    "to the house of Elcmaire, lord of horses,",
+                    "a man that gave many a good judgment."
+                ],
+                [
+                    "Thither came by chance the Dagda",
+                    "into the house of famous Elcmaire:",
+                    "he fell to importuning the woman:",
+                    "he brought her to the birth in a single day."
+                ],
+                [
+                    "It was then they made the sun stand still",
+                    "to the end of nine months — strange the tale —",
+                    "warming the noble ether",
+                    "in the roof of the perfect firmament."
+                ],
+                [
+                    "Then said the woman here:",
+                    "\"Union with thee, that were my one desire! \"",
+                    "\" And Oengus shall be the boy's name,\"",
+                    "said the Dagda, in noble wise."
+                ],
+                [
+                    "Boand went from the house in haste",
+                    "to see if she could reach the well:",
+                    "she was sure of hiding her guilt",
+                    "if she could attain to bathe in it."
+                ],
+                [
+                    "The druid's three cup-bearers",
+                    "Flesc, and Lesc, and Luam,",
+                    "Nechtain mac Namat set",
+                    "to watch his fair well."
+                ],
+                [
+                    "To them came gentle Boand",
+                    "toward the well in sooth:",
+                    "the strong fountain rose over her,",
+                    "and drowned her finally."
+                ],
+                [
+                    "It was contrived against [the river] on either shore",
+                    "by Maelmorda, vast of wealth,",
+                    "by the comely son of Murchad,",
+                    ". that it should not reach the inlet of ships."
+                ],
+                [
+                    "God's mercy was shown",
+                    "on Leth Chuind by that counsel,",
+                    "so that it escaped the swift night of gloom",
+                    "unto thee, O generous Maelsechlainn I"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "id": "cruachu",
+    "name_mir": "Ráith Crúachan",
+    "name_ga": "Ráth Cruachan",
+    "name_en": "Rathcroghan",
+    "county": "Roscommon",
+    "county_ga": "Contae Ros Comáin",
+    "kind": "royal site",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Rathcroghan",
+    "wikipedia_ga": "Ráth Cruachan",
+    "logainm": null,
+    "images": [
+        {
+            "file": "img/cruachu-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Rathcroghan_mound.jpg",
+            "author": "Davsca at English Wikipedia",
+            "licence": "CC BY 3.0",
+            "licence_url": "https://creativecommons.org/licenses/by/3.0",
+            "caption": "Rendered Digital Image of Rathcroghan mound. Jan 2007",
+            "date": "18 November 2007 (original upload date)"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 65,
+            "title": "Ráith Crùachan",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                465
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/465/mode/1up",
+            "ga": [
+                "Raith Cyxd.Aan, canas roainmniged?",
+                "Ni ansa. Cruachu nó Cróchan Crodfrg inelt Etaine dodechaid for aitW la Mïder Brig Léith a Fremaind a hOenug Oens:usa. Pa cara da.no Mid/V in Sinech Side Cruachu?/, Taraill iar‘m ira dile dia hacallaim, coro fostaid [fo. iii''2]i saidiu fn nói t;ath-. Dorumenair dawo Eda[i]n co mba la Mider in sid sin, ‘In hi do tbreh inso?’ ol Edain. ‘Ace son,’ ol Midhir, ‘is nesa do ihurghail greine mo ihrehsz inddso,’ ol Midhir. ‘Ces[t], cia buaid duinne tadall in sidasa 7 in maighe didiu?’ ol Crochenn. ‘Biaid t'ainmsi fair a log t'aistair, a Crocend,’ ol Midhair.",
+                "Luid iarum Midhair gu Brigh Leith, couiid ann rotogladfoir la' Eochrt/ Airemo///.",
+                "Tosach Tochmairc Etaine andsin. Dindsench?i5 Ratha Cruachan insin."
+            ],
+            "en": [
+                "Cruachu or Crckhan Crocerg was the handmaid of Etain j who elopcd with Mider of Bri Léith from Fremann, from ' Ocnach Oengusa. Now Sinech of Sid Cruachan (‘the Elfmound of Cruachu’) was a relative of Mider's; so because of his affection for her, he, Mider, went to converse with her, and there thcy were detained for nine watches. So Etain supposed that that eifmound belonged to Mider. ‘Is this thy dwelling?’ says Etdin. ‘Kay,’ says Mider ‘iny dwelling is nearer than this to the sunrise’. ‘Query,’ says Crochenn, ‘what profit have we in visiting this eifmound and the",
+                "464 Whiíley Stokes. \\ plain?’ Says Mider: ‘O Crochenn, in vaerdon of thy travel it shall bear thy name.’",
+                "Then Mider went to Bri Léith, which.vas then destroyed by Eochaid Airem.",
+                "There is the beginning of Etàins Wooink That is the dind5énc/;a.f of Ráith Cruachan. \\"
+            ],
+            "notes": [
+                "Also in LL. 170^45: BB. 384a i: H. 42b: Lee. 484 and Bodl. no. 27. Versified, LL. 157-' 6. Edited from BB. in Silva Gadcica, II, 490, 539: from Bodl in Folklore, III, 492.",
+                "Ràith Cruachan now Rathcroghan, between Belanagare aid Elphin in the co. Roscommon. For a list of the extant remains there se O'Donovan's note, FourMasters, A.D. 1223.",
+                "As to Eochaid Airera, Mider and Etáin see LU. i3ob-i32,Egerton 1782, fo. 118*2, O'Curry M. and C, II, 192-194, III, 162, 191 The Tochmarc Etdiue has been edited by Windisch, Irische Texte, I, 113: see §§ 15, 16, where sùiighe should have been printed Sinighe (the gen sg. ot Sinech), not maighe, as Zimmer asserts.",
+                "aistair (better aistir) gen. sg. oí aister ‘labour, travail, travel’ z=: 'adsitro-, from cul and urkelt. saitro- (Ir. sadhar). For posttonic l from ai cf. Lat. in-qulro, ex-isiiimo, tru-cído."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Rath Cruachan",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                848,
+                855
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/848/mode/2up",
+            "ga": [
+                [
+                    "Estid a churu im Chriiacbain",
+                    "fri dumu each dag-niiachair:",
+                    "a sliiag ónad sir-blad smaclit,",
+                    "a rigrad fer n-Olnecmacht."
+                ],
+                [
+                    "A sluag na nglond fata fir",
+                    "col-lin drong ndata is dag-rig,",
+                    "a dremm is deniu dolud,",
+                    "diargell Eriu il-torud."
+                ],
+                [
+                    "Ferda i faen-gliaid co romsib",
+                    "sil saer-Briain co sar-longsib:",
+                    "is dia reir roseolta sain",
+                    "geill na hEorpa co Cruachain."
+                ],
+                [
+                    "Mad dia n-airmem nós cech nirt,",
+                    "noco dailfem sos saer-cbirt",
+                    "do Chruachain chaid cen chaite,",
+                    "ac'nach uathaid ecraite."
+                ],
+                [
+                    "Eó1 dam fri sogairm snaitte",
+                    "comainm Cruachna comnairte:",
+                    "ni suail in tairm in tescul",
+                    "ó fiiair gairm is glan-gestul."
+                ],
+                [
+                    "Eochu Airem, eraimm n-ard,",
+                    "diambai i Fremainn in fial-garg,",
+                    "fer rochoemaig na clessa,",
+                    "ic gnim óenaig ech-thressa,"
+                ],
+                [
+                    "Dolluid chucu Mider inaith,",
+                    "(nirbo chridfer 'mon coem-flaith)",
+                    "d' fuatuch Etaine co n-iiath,",
+                    "diambai ecaine iltuath."
+                ],
+                [
+                    "Ba dothfer in fer rosfuc",
+                    "Etain is Crochen chatut,",
+                    "in n'gan is a cumal,",
+                    "co sir-blad ba sar-umal."
+                ],
+                [
+                    "Siar rue Midir in mbraitbain",
+                    "hi slait iarna saer-gabail",
+                    "co sid Sinche na sliiag sen,",
+                    "ddig ba dual do dag-Mider."
+                ],
+                [
+                    "Co cend nomaide roan",
+                    "'sm tsid gloraide g!ó-glan:",
+                    "is gnath iar ngreiss co torud",
+                    "bag fri feiss fri fledugud."
+                ],
+                [
+                    "And atbert Crochen chalad",
+                    "\" cia rothreb hi roanad?",
+                    "a Midir na reb raglan",
+                    "inni do threb thoeb-adbal? \""
+                ],
+                [
+                    "Athesc clothfir na ceirde",
+                    "fri Crochin co cro-deirge:",
+                    "\" nessa do grein dia gorud",
+                    "mo threb reil co rothorud.\""
+                ],
+                [
+                    "Atbert Criiachu co caidle",
+                    "fiad na tiiathu toeb-aidble:",
+                    "\" a Midir, cen maidm cose,",
+                    "imbia m'ainm forsin tsid-se? \""
+                ],
+                [
+                    "Tuc in rothreib, log n-astair,",
+                    "do Chrochin, coir tuarastail:",
+                    "ó Midir, tairm thuaid 'ca thig,",
+                    "a hainm uaid, amal etsid. E."
+                ],
+                [
+                    "Desin asberar Criiachu,",
+                    "ni celar for cóem-thuathu,",
+                    "ó thuc Midir, cen gai ngle,",
+                    "a mnai co Sinig side."
+                ],
+                [
+                    "Cid Midir, nir threith iar tain,",
+                    "luid co Briaid Leith maic Celtchair,",
+                    "rue leis in gle-maill nglain-gil",
+                    "thuc a Fremainn ar ecin."
+                ],
+                [
+                    "Eobai Echaid, (aidble uird,",
+                    "for srethaib saidbre a soluirg,",
+                    "ba didil a chli chonaid)",
+                    "ar ti Midir mor-choraig."
+                ],
+                [
+                    "Asbert a driii fri Echaid",
+                    "\" ni bat rui it robethaid,",
+                    "rotirmais ecaine uilc",
+                    "d'ingnais Etaine in ór-fuilt."
+                ],
+                [
+                    "Tair a forud na Fótla",
+                    "cen robud cen rig-focra;",
+                    "tuc co Briaid Lóith lat iar tain",
+                    "do sluag nach treith dia thogail."
+                ],
+                [
+                    "Is and fogeba do mnai",
+                    "cen dil sena fo sóer-gnai:",
+                    "hi tlais na bi i fat, a fir,",
+                    "tuc lat hi ar ais nó ar ecin. \""
+                ],
+                [
+                    "•",
+                    "IS tossach sin fri giiais ngle do thochmarc uais Elaine:",
+                    "cid senchas tiiachail re techt",
+                    "don Chriiachain ria cometsecht. E."
+                ],
+                [
+                    "[IS i Croichen Chruachna coin",
+                    "mathair Meidbe co mor-gail",
+                    "dobi a Cruachain, fa seem ngle,"
+                ]
+            ],
+            "en": [
+                [
+                    "Listen, ye warriors about Cruachu!",
+                    "with its barrow for every noble couple:",
+                    "O host whence springs lasting fame of laws!",
+                    "O royal line of the men of Connacht!"
+                ],
+                [
+                    "O host of the true, long-remembered exploits,",
+                    "with number of pleasant companies and of brave kings!",
+                    "O people, quickest in havoc",
+                    "to whom Erin has pledged various produce!"
+                ],
+                [
+                    "Manly in battle-rout multitudinous",
+                    "is the seed of noble Brian, with their strong fleets:",
+                    "in express submission to them have been sent",
+                    "hostages from all Europe to Cruachu."
+                ],
+                [
+                    "If we stay to recount its fame for every power,",
+                    "we shall not be able to pour out the lore of noble science",
+                    "for Cruachu, holy without austerity,",
+                    "whose foemen are not few."
+                ],
+                [
+                    "Known to me by smooth-spoken eulogy",
+                    "is the designation of powerful Cruachu:",
+                    "not slight the din, the uproar,",
+                    "whence it got its name and fame for bright achievement."
+                ],
+                [
+                    "Eochaid Airem — high career!",
+                    "when the fierce, generous man was at Fremu,",
+                    "the man who cherished feats of skill,",
+                    "holding a meeting for horse-races,"
+                ],
+                [
+                    "There came to them noble Midir",
+                    "(he was no favourite with the gentle prince)",
+                    "to carry off Etain in dreadful wise,",
+                    "whence came lamentation of many tribes."
+                ],
+                [
+                    "Ill-favoured was the man who bore off",
+                    "Etain and hardy Crochen",
+                    "the queen and her handmaid,",
+                    "who was right lowly, yet ever-famous."
+                ],
+                [
+                    "Westward Midir bore the fair captives",
+                    "after boldly seizing them as booty,",
+                    "to Sid Sinche of the ancient hosts,",
+                    "because it was noble Midir 's hereditary possession."
+                ],
+                [
+                    "Till three days were out he stayed",
+                    "in the radiant noisy Sid:",
+                    "after fruitful enterprise it is custom",
+                    "to boast at board and banquet."
+                ],
+                [
+                    "Then said strong Crochen",
+                    "\" What fine house is this where we have halted?",
+                    "O Midir of the splendid feats,",
+                    "is this thy spacious dwelling? \""
+                ],
+                [
+                    "The answer of the famous man of arts",
+                    "to Crochen blood-red of hue:",
+                    "\" Nearer to the sun, to its warmth,",
+                    "is my bright and fruitful home.\""
+                ],
+                [
+                    "Said Cruachu the lovely,",
+                    "in presence of the spacious tribes,",
+                    "\" O Midir, yet unconquered,",
+                    "shall my name be on this Sid? \""
+                ],
+                [
+                    "He gave the fine dwelling as reward for her journey",
+                    "to Crochen, a fair recompense:",
+                    "by Midir, report says, northward at his home,",
+                    "by him her name was given to it as ye hear."
+                ],
+                [
+                    "Hence men say Cruachu,",
+                    "(it is not hidden from kindly tribes,)",
+                    "since Midir brought (clear without falsehood)",
+                    "his wife to Sinech of the Side."
+                ],
+                [
+                    "As for Midir, he was no sluggard thereafter,",
+                    "he went to Bri Leith maic Celtchair:",
+                    "he carried with him the bright indolent lady, whitely radiant,",
+                    "whom he bore off by force from Fremu."
+                ],
+                [
+                    "Eochaid (mighty in dignity was he,",
+                    "his brave troops lived in wealthy quarters,",
+                    ". )",
+                    "was on the track of Midir, the great champion."
+                ],
+                [
+                    "Said his druid to Eochaid,",
+                    "\" Thou shalt not be fortunate all thy life long:",
+                    "lamentation for evil has come upon thee",
+                    "for the loss of Etain of the golden tresses:"
+                ],
+                [
+                    "\" Come from the judgment-seat of Fotla",
+                    "without warning, without royal proclamation;",
+                    "bring with thee thereafter to Bri Leith",
+                    "thy host — no cowards they— to sack it."
+                ],
+                [
+                    "\" There shalt thou find thy wife",
+                    "in noble beauty, beyond denial:",
+                    "be not faint-hearted for long, O warrior;",
+                    "bring her with thee by consent or by force.\""
+                ],
+                [
+                    "This is a beginning, with famous perils,",
+                    "for the proud Wooing of Etain,",
+                    "though it be a pithy tale to hear,",
+                    "[the tale] before they came to Cruachu."
+                ],
+                [
+                    "[It was Crochen of pure Cruachu",
+                    "who was mother of Medb great of valour:",
+                    "she was in Cruachu — it was an open reproach —"
+                ]
+            ]
+        }
+    ]
+}

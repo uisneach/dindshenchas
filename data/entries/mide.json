@@ -1,0 +1,230 @@
+{
+    "id": "mide",
+    "name_mir": "Mide (Uisnech)",
+    "name_ga": "Uisneach",
+    "name_en": "Hill of Uisneach",
+    "county": "Westmeath",
+    "county_ga": "Contae na hIarmhí",
+    "kind": "hill",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": "The Mide legend tells of the first fire kindled at Uisnech, so the marker is on the hill.",
+    "note_ga": "Insíonn finscéal Mhide faoin gcéad tine a lasadh ar Uisneach, agus mar sin tá an marcóir ar an gcnoc.",
+    "wikipedia": "Hill of Uisneach",
+    "wikipedia_ga": "Cnoc Uisnigh",
+    "logainm": null,
+    "images": [
+        {
+            "file": "img/mide-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Hill_of_Uisneach.jpg",
+            "author": "Abi Skipp",
+            "licence": "CC BY 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by/2.0",
+            "caption": "a signboard at Hill of Uisneach",
+            "date": "2011-08-27"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 7,
+            "title": "Mide",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": [
+                297
+            ],
+            "scan": "https://archive.org/details/revueceltique15pari/page/297/mode/1up",
+            "ga": [
+                "Mide, canas roainmuied?",
+                "Ni ansa. Midhe mac Bmtha meic Deatha, Ci'/narofhado tene for clannaib Nemedh i iiErmn, 7 robói se hVmdns. íor lasad, coma on tene sin rohadnad car/; primtene i nYiérinn, coma, de dliges a comorba miacli la muic car/; oen cleitiie i nEir/n//, CD n-erbradar drai[d]e Hérenn: ‘Is mi-dé dun in tene-si rohadnad isin tir’. Co ro tinolait àniid Hérenn ind oentech, co tallaid a tengt[h]a asa cennaib t/'ia comairle Mide, corH-adnaic hi talmain Uisneich, 7 co ndesid Mide primdrai 7 p;imsenchfl/i Hérenn uaisib. Atbrrt Gairech ingen Gumoir, muime Mide: ‘Is uais nech dotiltr sund innoclit-’. Unik Uïsnecb 7 Mide."
+            ],
+            "en": [
+                "Mide son of Brath, son of Deotli, was the first to light a fire in Erin for the clans of Nemed, and it was six years a-blaze, and from that fire was kindled every chief fire in Erin. Wherefore Mide' s successor is entitled to a sack (of corn) with a pig from every house-top in Ireland. And the wizards of Ireland said: ‘'Tis an evil smoke {ini-dé)^ for us, this fire that hath been lit in theland’. So the wizards of Ireland were collected into one house, and, by Mide's advice, their tongues were eut out of their heads, and he buricd them in the ground",
+                "298 Wintley Stokes.",
+                "of Uisnech, and Mide, chief wizard:ind chief historian of Ireland, sat above them. Then said Gairech Gumor's daughter, Mide's fostermother: ‘Sublime (jmis) is one {necJi) who is hcre tonight’. Whence Uisnech and Mide."
+            ],
+            "notes": [
+                "Also in BB. 356'', H. 6’: Bodl. no. 7 (FoUcIore, III, 575-6) and Ed. 2^2. Versified LL. 199b 34. See also O'Curry, Manners and Customs, II, 191, and Silva Gadelica, II, 520-521. 475, where it is edited from BB.",
+                "Mide now Meath. Uisnech now Usnagh Hill in Westmeath. Brath son of Death (or Deoth) was father of Breogan, BB. 12'. The Clans of Nemed the second colonists of Ireland.",
+                ". 8. Druim nDairbrech.",
+                "Druim nDairbrech, canas l'oainmniged?",
+                "Ni a usa. Dairbre Derg^ mac Lulaig meic Ligmuine do Aithechtuath^r//^ ' Hérenn, co tuairsi Ligmuine 7 Fer mBolg 7 Fer nDomnand targlamsat cath Comuir 5 do Tuathal. Doluid da;/() Tuath^7/ 7 Fiachfl^ Casan 7 Findmall a brath^/r don cath sin. Dairb[r]i D^'g, [immorro] 7 Eochaid Oilech forsin leith n-aill. Fegair hruin in cath 7 doit/;/;' for Eochaig n-Oilech, 7 marhtbair Dairbre fora drumainn. Un^^ Druim nDairbrech. Vel ita: Druim nAirbre, fri Bri Ele anair ata. \\]nde dicituY Fothairt Airbre.i. fothairt filet fri Bri anoir.",
+                "Druim nDairbrech, whence was it named?",
+                "Not difficuk. Dairbre the Red son of Lulach son of Ligmuine, of the Peasant-tribes of Irehind, with a remuant of Ligmuine and the Fir Bolg and the Fir Domnann, gathered (forces to deUver) the battle of Commar to Tuathal (Techtmar). So Tuathal and Fiacha Cassan and Findmall his brother went to that battle. Dairbre the Red, however, and Eochaid Oilech were on the other side. Then the battle is fought, and",
+                "Eochaid Oilech is defeated, and Dairbre is killed on his Ridge'. Whencc Druim nDairbrech ‘Dairbre's ridge’. Vel ita: Druim n-Airbre i. e. to the cast of Bri Ele it is. Wlience is said Fothairt Airbre i. e. Fotharts that are to the east of Bri.",
+                "Also in BB. 3 56b 47 and H. i6->. Versified LL. 192-' 15.",
+                "Druim nDairbrech is perhaps the Druim Dairhhreach mentioned by the Four Masters, A.D. 1065, where O'Donovan translates the name by ‘Oak-hill’, and says that it is now unknown.",
+                "As to the Aithechtuatha and Tuathal Tcchtmar see BB. 255’ 34, the Four Masters, A.D. 76, 106, 1258, note i, and Lives of Saints from the Búok of Lis more, Préface xxxvii."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Mide",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part II (Todd Lecture Series IX, 1906)",
+            "pages": null,
+            "scan": "https://archive.org/details/toddlectureseri02acadgoog",
+            "ga": [
+                [
+                    "Mide magen na marc mer,",
+                    "slige forsmbid Art Oen-fer,",
+                    "lerg lán lainne Lugdech luid,",
+                    "clár clainne Chuind is Chobthaig."
+                ],
+                [
+                    "Cid diatá Mide ar in maig,",
+                    "fine síl Chuind chét-chathaig?",
+                    "cia gass glúair garg, glan in mod,",
+                    "cia harg ó fúair ainmnigod?"
+                ],
+                [
+                    "Mide mac bruthmar Bratha",
+                    "meic dirmannaig Deatha,",
+                    "co roatái tenid ndiamair",
+                    "ós chlaind Nemid nert-giallaig."
+                ],
+                [
+                    "Secht mbliadna lána ar lassad",
+                    "don tenid, ba trén-fassad,",
+                    "corscáil gairge in tened trell",
+                    "tar cethri hairde hErend."
+                ],
+                [
+                    "Conid ón tenid-sin tra,",
+                    "(ní hanfót ní himmarba)",
+                    "condlig a sír-chennach ind",
+                    "cach prím-thellach in Erind."
+                ],
+                [
+                    "Condlig a chomarba cain",
+                    "maige Midi medar-glain",
+                    "miach méeth-bleithe la muic find",
+                    "eacha, héen-cleithe in rind."
+                ],
+                [
+                    "Co rordidset, nír snim súail,",
+                    "drúide hÍ;rend i n-den-tiair,",
+                    "“Ts mi-dé tucad dún tair,",
+                    "dorat mí-gné d' ar menmain.'"
+                ],
+                [
+                    "Corthinól Mide cen meth",
+                    "drúide hErend i n-óen-tech:",
+                    "co tall a tengtha, thar ngarg,",
+                    "a cendaib na ndriad ndron-ard."
+                ],
+                [
+                    "Co rosadnaice fo thalmain",
+                    "Visnig Midi mér-adbail,",
+                    "co ndessid ar a tengthaib",
+                    "in prím-súi in prím-aenchaid."
+                ],
+                [
+                    "Gáine ingen Gumóir glain,",
+                    "muime Midi mid-charthaig,",
+                    "ba ferr cach mnái, ciarbo thúi,",
+                    "ba sái ba fáith ba prím-drúi."
+                ],
+                [
+                    "Co n-erbairt Gáine co n-úaill",
+                    "re Mide cosin mór-búaid:",
+                    "“ Is ós neoch rosníad ar tech",
+                    "conid deseo bías Uisnech.”"
+                ],
+                [
+                    "Uisnech ocus Mide múad",
+                    "asngabar hÉriu arm-rúad,",
+                    "feib adfét in súidi snas,",
+                    "is desin a dind-senchas."
+                ],
+                [
+                    "Din, a Dé, Aéd úa Carthaig",
+                    "ar iffern co méit anfaid:",
+                    "Dia d’ irdil a grésa glé",
+                    "for rig mid-charthach Mide."
+                ]
+            ],
+            "en": [
+                [
+                    "Mide, place of the eager steeds,",
+                    "the road whereon Art the Solitary used to be",
+                    "the lowland full of the splendour of Lugaid...",
+                    "the level ground of the clan of Conn and Cobthach."
+                ],
+                [
+                    "Whence is the name of Meath given to the plain?",
+                    "to the heritage of the seed of Conn the Hundred Fighter?",
+                    "what pure bold scion (bright the hero),",
+                    "what warrior was it whence it got its naming?"
+                ],
+                [
+                    "Mide it was, the ardent son of Brath",
+                    "the host-leading son of Deaith;",
+                    "for he kindled a mystic fire",
+                    "above the race of Nemed, seizer of hostages."
+                ],
+                [
+                    "Seven years good ablaze",
+                    "was the fire, it was & sure truce:",
+                    "so that he shed the fierceness of the fire for a time",
+                    "over the four quarters of Erin."
+                ],
+                [
+                    "So that it is from this fire in truth",
+                    "(it is not a rash saying, it is not a falsehood)",
+                    "that their head-man has a right for ever",
+                    "over every chief hearth of Erin."
+                ],
+                [
+                    "8o the right belongs to the gentle heir",
+                    "of the plain of Mide mirthful and bright;",
+                    "even a measure of fine meal with a white pig",
+                    "for every rooftreee in Erin."
+                ],
+                [
+                    "And they said (no small grief it was),",
+                    "the druids of Erin all together,.",
+                    "‘Tt is an ill smoke was brought to us eastward:",
+                    "it has brought an ill mood to our mind.”"
+                ],
+                [
+                    "Then Mide the untiring assembled",
+                    "the druids of Erin into one house,",
+                    "and cut their tongues (a harsh presage)",
+                    "out of the heads of the strong and noble druids."
+                ],
+                [
+                    "And he buried them under the earth",
+                    "of Uisnech in mighty Mide,",
+                    "and sat him down over their tongues,",
+                    "he, the chief seer and chief poet."
+                ],
+                [
+                    "Gaine daughter of pure Gumor,",
+                    "nurse of mead-loving Mide,",
+                    "surpassed all women though she was silent;",
+                    "she was learned and a seer and a chief druid."
+                ],
+                [
+                    "And Gaine said with lamentation,",
+                    "before Mide of the great victory,",
+                    "“Tt is over somewhat our house was built,",
+                    "and hence shall Uisnech be named.”"
+                ],
+                [
+                    "Uisnech and mighty Mide",
+                    "from which Erin of the red weapons is held,",
+                    "according as the learned relate the cutting,",
+                    "hence is derived its story."
+                ],
+                [
+                    "Guard, O God, Aed ua Carthaig",
+                    "from hell with all its storms,",
+                    "God enjoining his clear protection",
+                    "on the mead-loving king of Meath."
+                ]
+            ]
+        }
+    ]
+}

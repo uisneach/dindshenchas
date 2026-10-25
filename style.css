@@ -1,0 +1,340 @@
+/* The look borrows from the books the texts come from: the Royal Irish Academy's
+   Todd Lecture Series of the 1900s, set in Caslon in black on plain paper, with
+   red kept for rubrics, as in the manuscripts. Map labels follow Ordnance Survey
+   habit: lettering with a halo, and water features in italic. */
+
+@font-face {
+  font-family: "Caslon";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(vendor/fonts/caslon-regular-latin.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Caslon";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(vendor/fonts/caslon-regular-latin-ext.woff2) format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Caslon";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(vendor/fonts/caslon-italic-latin.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Caslon";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(vendor/fonts/caslon-italic-latin-ext.woff2) format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Caslon";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(vendor/fonts/caslon-bold-latin.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Caslon";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(vendor/fonts/caslon-bold-latin-ext.woff2) format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+:root {
+  --paper: #f4f3ef;      /* plain, slightly grey paper, not cream */
+  --page: #fbfbf9;
+  --ink: #1c1b19;
+  --grey: #55524c;       /* secondary text: still dark enough to read easily */
+  --rule: #c9c6be;
+  --rubric: #a51d1d;     /* manuscript red, used sparingly */
+  --link: #1d4a5c;       /* blue-black ink for links */
+  --sea: #b9c9cf;
+  --type: "Caslon", "Big Caslon", "Adobe Caslon Pro", Georgia, serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #161717;
+    --page: #1d1e1e;
+    --ink: #e7e5e0;
+    --grey: #a9a59d;
+    --rule: #3c3d3b;
+    --rubric: #e0716a;
+    --link: #8fc0d2;
+    --sea: #20292d;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html, body { height: 100%; margin: 0; }
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font: 17px/1.5 var(--type);
+  display: flex;
+  flex-direction: column;
+  font-variant-numeric: oldstyle-nums;
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover, a:focus-visible { text-decoration: underline; }
+
+/* ---------- masthead ---------- */
+
+.masthead {
+  display: flex;
+  align-items: baseline;
+  gap: 1.2rem;
+  padding: 0.55rem 1rem 0.5rem;
+  border-bottom: 1px solid var(--ink);
+  background: var(--page);
+}
+.masthead h1 { margin: 0; font-size: 1.55rem; font-weight: 700; letter-spacing: 0; }
+.tagline { margin: 0; color: var(--grey); flex: 1; }
+
+.link-btn {
+  font: inherit;
+  font-size: 0.95rem;
+  color: var(--link);
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+.link-btn:hover, .link-btn:focus-visible { text-decoration: underline; }
+
+/* ---------- layout ---------- */
+
+.layout { flex: 1; display: flex; min-height: 0; }
+
+#map { flex: 1; min-width: 0; background: var(--sea); }
+
+.panel {
+  width: min(470px, 42vw);
+  overflow-y: auto;
+  background: var(--page);
+  border-left: 1px solid var(--ink);
+  padding: 1rem 1.4rem 2.5rem;
+}
+
+h2 { margin: 0.1rem 0 0.2rem; font-size: 1.65rem; font-weight: 700; line-height: 1.15; }
+h3 { margin: 1.5rem 0 0.3rem; font-size: 1.05rem; font-weight: 700; }
+.hint, .subtitle { color: var(--grey); margin: 0 0 0.7rem; }
+
+/* ---------- index of places ---------- */
+
+.place-list { list-style: none; margin: 0.4rem 0 0; padding: 0; columns: 2; column-gap: 1.4rem; }
+.place-list li { break-inside: avoid; margin-bottom: 0.35rem; }
+.place-list button {
+  font: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  text-align: left;
+  color: var(--ink);
+  cursor: pointer;
+  display: block;
+  line-height: 1.25;
+}
+.place-list button span {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--grey);
+}
+.place-list button:hover, .place-list button:focus-visible { color: var(--rubric); }
+.place-list button:hover span, .place-list button:focus-visible span { text-decoration-color: currentColor; }
+.place-list small { display: block; color: var(--grey); font-size: 0.82rem; }
+
+.legend {
+  margin-top: 1.6rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--rule);
+  display: flex;
+  gap: 0.4rem 1.2rem;
+  flex-wrap: wrap;
+  font-size: 0.85rem;
+  color: var(--grey);
+}
+.dot { display: inline-block; width: 0.75rem; height: 0.75rem; border-radius: 50%; vertical-align: -0.05rem; border: 1.5px solid var(--ink); }
+.dot.certain { background: var(--ink); }
+.dot.probable { background: var(--page); }
+.swatch {
+  display: inline-block;
+  width: 1.1rem;
+  height: 0.7rem;
+  vertical-align: -0.02rem;
+  border: 1px solid #2d5466;
+  background: rgb(45 84 102 / 0.25);
+}
+.swatch.approximate { border-style: dashed; }
+
+/* ---------- a place ---------- */
+
+.note { color: var(--grey); font-size: 0.95rem; margin: 0 0 0.8rem; }
+
+figure { margin: 0.9rem 0; position: relative; }
+figure img { width: 100%; height: auto; max-height: 300px; object-fit: cover; display: block; background: var(--rule); }
+
+.era {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 0.8rem;
+  background: var(--page);
+  color: var(--ink);
+  padding: 0.05rem 0.5rem 0.1rem;
+}
+
+/* Photo credit: a small (i) over the photo; the credit appears on hover or tap */
+.credit-btn {
+  position: absolute;
+  right: 0.45rem;
+  bottom: 0.45rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  background: rgb(0 0 0 / 0.45);
+  color: #fff;
+  font: italic 700 0.85rem/1 var(--type);
+  cursor: pointer;
+  padding: 0;
+}
+figcaption {
+  display: none;
+  position: absolute;
+  right: 0.45rem;
+  bottom: 1.85rem;  /* touching the button, so the pointer can move onto the links */
+  max-width: calc(100% - 0.9rem);
+  font-size: 0.8rem;
+  line-height: 1.4;
+  background: var(--page);
+  color: var(--ink);
+  border: 1px solid var(--ink);
+  padding: 0.35rem 0.55rem;
+}
+figure.credit-open figcaption,
+.credit-btn:hover + figcaption,
+.credit-btn:focus-visible + figcaption,
+figcaption:hover { display: block; }
+
+.tabs { display: flex; gap: 0.25rem; border-bottom: 1px solid var(--rule); margin-top: 1rem; }
+.tabs button {
+  font: 0.95rem var(--type);
+  background: none;
+  border: 1px solid transparent;
+  border-bottom: none;
+  padding: 0.4rem 0.9rem;
+  border-radius: 4px 4px 0 0;
+  color: var(--grey);
+  cursor: pointer;
+}
+.tabs button[aria-selected="true"] {
+  border-color: var(--rule);
+  background: var(--page);
+  color: var(--ink);
+  margin-bottom: -1px;
+}
+
+.section { margin-top: 1.5rem; }
+.section h3 { margin: 0 0 0.5rem; }
+
+.prose p { margin: 0 0 0.8rem; hyphens: auto; }
+.stanza { margin: 0 0 0.9rem; }
+.stanza span { display: block; }
+.stanza span:nth-child(even) { padding-left: 1.4rem; }
+
+details { margin-top: 0.6rem; font-size: 0.93rem; }
+summary { cursor: pointer; color: var(--link); }
+
+/* ---------- sources ---------- */
+
+.sources { margin-top: 2.2rem; padding-top: 0.6rem; border-top: 1px solid var(--ink); }
+.sources h3 { margin-top: 0; }
+.sources ul { margin: 0.4rem 0 0; padding-left: 1.1rem; font-size: 0.88rem; line-height: 1.45; }
+.sources li { margin-bottom: 0.5rem; }
+.sources strong { font-weight: 700; }
+.warning { color: var(--rubric); }
+.ocr-note { font-size: 0.85rem; color: var(--grey); margin: 0.8rem 0 0; }
+.links { margin-top: 0.8rem; font-size: 0.9rem; }
+
+/* ---------- about ---------- */
+
+dialog {
+  max-width: 36rem;
+  border: 1px solid var(--ink);
+  background: var(--page);
+  color: var(--ink);
+  padding: 1.2rem 1.5rem;
+}
+dialog::backdrop { background: rgb(0 0 0 / 0.45); }
+dialog p { hyphens: auto; }
+dialog .contact { border-top: 1px solid var(--rule); padding-top: 0.7rem; }
+dialog button {
+  font: inherit;
+  background: var(--page);
+  color: var(--ink);
+  border: 1px solid var(--ink);
+  padding: 0.2rem 1.1rem;
+  cursor: pointer;
+}
+
+/* ---------- map ---------- */
+
+.leaflet-container { font: 0.9rem var(--type); }
+/* Dark like the imagery's sea, so hairline gaps between tiles don't show */
+#map.leaflet-container { background: #0e1b26; }
+#map.fallback.leaflet-container { background: var(--sea); }
+
+/* Map controls sit on the map, not the page, so they stay ink-on-white in dark mode too */
+.leaflet-bar { border-radius: 0 !important; border: 1px solid #1c1b19 !important; box-shadow: none !important; }
+.leaflet-bar a { border-radius: 0 !important; color: #1c1b19; font-family: var(--type); }
+/* The satellite/terrain menu keeps Leaflet's own look */
+.leaflet-control-layers { font: 0.85rem system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: #333; }
+.leaflet-control-attribution { font-size: 0.7rem; }
+
+/* Lettering with a white halo, as on printed maps; no label boxes */
+.place-label {
+  background: none;
+  border: none;
+  box-shadow: none;
+  padding: 0 2px;
+  font: 700 0.85rem var(--type);
+  color: #111;
+  /* Halo: a smooth white outline painted behind the letters, as GIS and print maps do.
+     (Offset copies of the text make notched, uneven edges at this size.) */
+  -webkit-text-stroke: 3px #fff;
+  paint-order: stroke fill;
+}
+/* Browsers that can't put the stroke behind the letters get a soft glow instead */
+@supports not (paint-order: stroke fill) {
+  .place-label { -webkit-text-stroke: 0; text-shadow: 0 0 2px #fff, 0 0 3px #fff, 0 0 4px #fff; }
+}
+.place-label.water { font-style: italic; color: #0b3048; }
+.place-label::before { display: none; }
+.leaflet-tooltip.place-label { pointer-events: auto; cursor: pointer; }
+.place-label:hover { color: var(--rubric); }
+.place-label.label-hidden { display: none; }
+.place-label.label-hidden.label-hover { display: block; z-index: 1000; }
+
+@media (max-width: 760px) {
+  .tagline { display: none; }
+  .layout { flex-direction: column; }
+  #map { flex: none; height: 48vh; }
+  .panel { width: auto; flex: 1; border-left: none; border-top: 1px solid var(--ink); padding: 0.8rem 16px 2rem; }
+}

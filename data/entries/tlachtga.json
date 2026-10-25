@@ -1,0 +1,54 @@
+{
+    "id": "tlachtga",
+    "name_mir": "Tlachtga",
+    "name_ga": "Tlachtga",
+    "name_en": "Hill of Ward",
+    "county": "Meath",
+    "county_ga": "Contae na Mí",
+    "kind": "hill",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Hill of Ward",
+    "wikipedia_ga": null,
+    "logainm": "106058",
+    "images": [
+        {
+            "file": "img/tlachtga-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Hill_of_Ward_-_geograph.org.uk_-_1923643.jpg",
+            "author": "Kieran Campbell",
+            "licence": "CC BY-SA 2.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "caption": "Hill of Ward, Athboy, Co. Meath",
+            "date": "2010-06-14"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 110,
+            "title": "Tlachtga",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 16 (1895)",
+            "pages": [
+                61
+            ],
+            "scan": "https://archive.org/details/revueceltiqu16pari/page/61/mode/1up",
+            "ga": [
+                "Tlachtga, canas ro ainmniged?",
+                "Ni ansa. Tlachtga ingen Mogha Ruith meic Ferg/m fordaroeblengawr tri meic Simoin druadh dia1 luid lia hathfl/r do foglaim druidechtà in betha,- arbith is i dorigne do Triun in Roth Ramach 7 in Lia hi Forcarthu 7 in Coirt[h]iaCnamcoill. [fo. i2ia2] Terlai iar‘m anair 7 a ndede sin lee, co tomcht tulaich Tlachtgai, conià ann ros-lamnad 7 rue tri macu.i. Doirb a q//o Mag nDoirb, 7 Cuma a qwo Mag Cuma, 7 Muach a q‘o Mag Muaich, 7 co ‘dechsat na tri anmand sin i2 ndermat a hEre nis toraigh > digal echtrand. XJndc Tlachtga áicitur."
+            ],
+            "en": [
+                "Tlachtga daughter of Mog Ruith son of Fergus: three sons of Simon Magus ravished her when she went with her father to learn the world's magie: for 'tis she that made for Trian the Rowing Wheel and the Stone in Forcarthu and the Pillarstone in Cnámchoíll. Then she escaped from the east, bringing those two things with her, till she reached Tlachtga Hill; and there she lay-in and bore three sons, namely Dorb, from whom is Mag nDoirb, and Cuma, from whom is Mag Cuma, and Muach, from whom is Mag Muaich. And till thèse three names are forgotten in Ircland, foreigners' vengeance will not visit it. Whence Tlachtga is said."
+            ],
+            "notes": [
+                "Also in BB. 406b: H. 13b: Lee. si6b;and Ed. fo. 5b 2. Edited from Ed. in Silva Gadelica, II, 466, 511, and in Folk-tore, IV, 490-491.",
+                "Tlachtga is now the Hill of Ward near Athboy in Meath: Forcarthu is near Rathcoole in the co. Dublin; and CiidmchaiUxs Cleghile near the town of Tipperary. Mag Cumma, Mag nDoirb and Mag Muaich are now forgotten, so the prophecy as to foreigners' vengeance lias been fulfilled.",
+                "As to the wizard Mogh Ruith and the Rowing Wheel, which is to roll over Europe before Doomsday, crushing the tribes to which the pupils of Simon Magus respectively belonged, sec the Bodleian ms. Laud 610, fo. I09a i, and O'Curry's Lectures, pp. 272, 385, 401, 421, 423, 428. Of the pillar-stone of Cnámchoill it is said: Dali cach oen notn-aiefe, bodar cach oen nod-cluinfe, marb cach óen risi mbenfa, Laud 610, fo. 109’ 2, ‘Blind (will bc) every one who shall sec it: deaf every one who shah hcar it, and dead every one against whom it shall strike’.",
+                "In Ed. Tlachtga is said tohave died in childbed, and over her the fortress was built."
+            ]
+        }
+    ]
+}

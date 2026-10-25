@@ -1,0 +1,488 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "temair",
+            "properties": {
+                "name_mir": "Temair",
+                "name_ga": "Teamhair",
+                "name_en": "Hill of Tara",
+                "county": "Meath",
+                "kind": "hill",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.61194, 53.5775]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "brug-na-boinne",
+            "properties": {
+                "name_mir": "Brug na Bóinne",
+                "name_ga": "Brú na Bóinne",
+                "name_en": "Newgrange and the Boyne Valley tombs",
+                "county": "Meath",
+                "kind": "monument",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.47557, 53.69473]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "cnogba",
+            "properties": {
+                "name_mir": "Cnogba",
+                "name_ga": "Cnóbha",
+                "name_en": "Knowth",
+                "county": "Meath",
+                "kind": "monument",
+                "confidence": "certain",
+                "prose": 0,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.49167, 53.70167]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "boand",
+            "properties": {
+                "name_mir": "Bóand",
+                "name_ga": "An Bhóinn",
+                "name_en": "River Boyne (source at Carbury Hill)",
+                "county": "Kildare",
+                "kind": "river",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.95676, 53.3519]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "tailtiu",
+            "properties": {
+                "name_mir": "Tailtiu",
+                "name_ga": "Tailtin",
+                "name_en": "Teltown",
+                "county": "Meath",
+                "kind": "assembly site",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.76655, 53.70026]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "tlachtga",
+            "properties": {
+                "name_mir": "Tlachtga",
+                "name_ga": "Tlachtga",
+                "name_en": "Hill of Ward",
+                "county": "Meath",
+                "kind": "hill",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.886, 53.624]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "mide",
+            "properties": {
+                "name_mir": "Mide (Uisnech)",
+                "name_ga": "Uisneach",
+                "name_en": "Hill of Uisneach",
+                "county": "Westmeath",
+                "kind": "hill",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.562, 53.49]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "nas",
+            "properties": {
+                "name_mir": "Nás",
+                "name_ga": "An Nás",
+                "name_en": "Naas",
+                "county": "Kildare",
+                "kind": "settlement",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.6669, 53.2158]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "mag-life",
+            "properties": {
+                "name_mir": "Mag Life",
+                "name_ga": "Magh Life",
+                "name_en": "Plain of the Liffey",
+                "county": "Kildare",
+                "kind": "plain",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.8, 53.18]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "sliab-bladma",
+            "properties": {
+                "name_mir": "Sliab Bladma",
+                "name_ga": "Sliabh Bladhma",
+                "name_en": "Slieve Bloom Mountains",
+                "county": "Laois / Offaly",
+                "kind": "mountain",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.56667, 53.1]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ath-cliath",
+            "properties": {
+                "name_mir": "Áth Cliath Cualann",
+                "name_ga": "Baile Átha Cliath",
+                "name_en": "Dublin (the ford of the Liffey)",
+                "county": "Dublin",
+                "kind": "ford",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.26028, 53.34972]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "benn-etair",
+            "properties": {
+                "name_mir": "Benn Étair",
+                "name_ga": "Binn Éadair",
+                "name_en": "Howth Head",
+                "county": "Dublin",
+                "kind": "headland",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.07201, 53.37923]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "loch-garman",
+            "properties": {
+                "name_mir": "Loch Garman",
+                "name_ga": "Loch Garman",
+                "name_en": "Wexford Harbour",
+                "county": "Wexford",
+                "kind": "harbour",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.4, 52.33333]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "port-lairge",
+            "properties": {
+                "name_mir": "Port Láirge",
+                "name_ga": "Port Láirge",
+                "name_en": "Waterford",
+                "county": "Waterford",
+                "kind": "settlement",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.119, 52.2583]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "sliab-mis",
+            "properties": {
+                "name_mir": "Slíab Mis",
+                "name_ga": "Sliabh Mis",
+                "name_en": "Slieve Mish Mountains",
+                "county": "Kerry",
+                "kind": "mountain",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-9.76667, 52.2]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "loch-lein",
+            "properties": {
+                "name_mir": "Loch Léin",
+                "name_ga": "Loch Léin",
+                "name_en": "Lough Leane",
+                "county": "Kerry",
+                "kind": "lake",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-9.55, 52.04167]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "luimnech",
+            "properties": {
+                "name_mir": "Luimnech",
+                "name_ga": "Luimneach",
+                "name_en": "Limerick (the lower Shannon)",
+                "county": "Limerick",
+                "kind": "estuary",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-8.6238, 52.6653]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "sinann",
+            "properties": {
+                "name_mir": "Sinann",
+                "name_ga": "An tSionainn",
+                "name_en": "River Shannon (Shannon Pot)",
+                "county": "Cavan",
+                "kind": "river",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.9195, 54.2347]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "cruachu",
+            "properties": {
+                "name_mir": "Ráith Crúachan",
+                "name_ga": "Ráth Cruachan",
+                "name_en": "Rathcroghan",
+                "county": "Roscommon",
+                "kind": "royal site",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-8.304, 53.802]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ath-luain",
+            "properties": {
+                "name_mir": "Áth Lúain",
+                "name_ga": "Baile Átha Luain",
+                "name_en": "Athlone",
+                "county": "Westmeath",
+                "kind": "ford",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.9425, 53.42361]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "loch-n-erne",
+            "properties": {
+                "name_mir": "Loch nÉrne",
+                "name_ga": "Loch Éirne",
+                "name_en": "Lough Erne",
+                "county": "Fermanagh",
+                "kind": "lake",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.80622, 54.48262]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ess-ruaid",
+            "properties": {
+                "name_mir": "Ess Ruaid",
+                "name_ga": "Eas Aodha Rua",
+                "name_en": "Assaroe Falls, Ballyshannon",
+                "county": "Donegal",
+                "kind": "waterfall",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-8.186, 54.502]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ailech",
+            "properties": {
+                "name_mir": "Ailech",
+                "name_ga": "Grianán Ailigh",
+                "name_en": "Grianán of Aileach",
+                "county": "Donegal",
+                "kind": "fort",
+                "confidence": "probable",
+                "prose": 1,
+                "verse": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.43333, 55.01667]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ard-machae",
+            "properties": {
+                "name_mir": "Ard Machae",
+                "name_ga": "Ard Mhacha",
+                "name_en": "Armagh",
+                "county": "Armagh",
+                "kind": "settlement",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.65444, 54.34944]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "emain-macha",
+            "properties": {
+                "name_mir": "Emain Macha",
+                "name_ga": "Eamhain Mhacha",
+                "name_en": "Navan Fort",
+                "county": "Armagh",
+                "kind": "royal site",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.71861, 54.34528]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "loch-n-echach",
+            "properties": {
+                "name_mir": "Loch nEchach",
+                "name_ga": "Loch nEathach",
+                "name_en": "Lough Neagh",
+                "county": "Antrim / Tyrone / Armagh",
+                "kind": "lake",
+                "confidence": "certain",
+                "prose": 1,
+                "verse": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.39528, 54.61833]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "carman",
+            "properties": {
+                "name_mir": "Carman",
+                "name_ga": null,
+                "name_en": null,
+                "county": null,
+                "kind": "assembly site",
+                "confidence": "unlocated",
+                "prose": 1,
+                "verse": 1
+            },
+            "geometry": null
+        }
+    ]
+}

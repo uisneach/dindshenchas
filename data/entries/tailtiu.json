@@ -1,0 +1,46 @@
+{
+    "id": "tailtiu",
+    "name_mir": "Tailtiu",
+    "name_ga": "Tailtin",
+    "name_en": "Teltown",
+    "county": "Meath",
+    "county_ga": "Contae na Mí",
+    "kind": "assembly site",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": null,
+    "note_ga": null,
+    "wikipedia": "Teltown",
+    "wikipedia_ga": "Tailtin",
+    "logainm": "38325",
+    "images": [],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 99,
+            "title": "Taihiu",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 16 (1895)",
+            "pages": [
+                50
+            ],
+            "scan": "https://archive.org/details/revueceltiqu16pari/page/50/mode/1up",
+            "ga": [
+                "Tailltiu, canas roainmriiged?",
+                "Ni ansa. Tailltiu ingen Magmóir ben Echach Gairb meic Duach Teimin, is leis doronad Dun na nGiall i Tcmn-7/V, 7 ba hiside buimi Loga meic [in] Scail Bailb. Is i cowataig coa fer caillid Cuan do slaide di comad óenach [ imo lecht, 7 atbathsi i kalaind Auguist iarsin, 7 roacht a guba 7 a nasad la Lugaid. Unde Lugnasa[d] dicimus. Coic cet bMzdan immorro 7 mili ria ngein Cm/ andsin, 7;/ognithi ind aenach la car/; rig //('gcilvJ Eiri co tainic Patraic, 7 cóte cet aenach i Tailltin o PaXraic co duboenach Dondchada maie Mailsech/dtzVm.",
+                "Teora. geisi do Tailtin: tecbt tairrsi cin tairlim, a deiscin tar clegualainn1 [oc toidecht uaithi] 7 aurchur nad gremna2 indi [iar fuined ngréine]. Unde JEnach. Taillten dicitur."
+            ],
+            "en": [
+                "Tailtiu daughter of Magmór was the wife of Eochu the Rough son of Dua the Dark. 'Tis by him that the Fortress of the Hostages was built in Tara, and she was the fostermother ofLug the son of the Dumb Champion, 'Tis she that asked her husband to clear away for her the Wood of Cúan, so that therc might be an assembly around her grave. And after that she died on the calends of August, and her lamentation and funeral ganes were held by Lugaid. Hence we say Lug-nasad ‘Lugh-games’, Lammas-tide.",
+                "Now that was fifteen hundred years before the birth of Christ; and until Patrick' s advent the fair was held by every king who took Ireland; and there were five hundred fairs in Tailtiu from Patrick till the Dub-oenach ‘Black Assembly’ of Donchad son of Fland son of Maelsechlainn.",
+                "Three were the tabus for Tailtiu: crossing it without alighting: looking at it over the left shoulder (wKen leavingit); and casting unprofitably in it (after sunset). Hence Ocnach Tailten ‘Tailtiu's Assembly’."
+            ],
+            "notes": [
+                "Also in BB. 403330: H. iob: Lee. )i3a; and Ed. fo. 5b 1. Versified, LL. 200b. 12. Edited from BB. inSilva Gadelica, II, 469, 514: from Ed. in Folklore, IV, 486-487. See also O'Curry, M. and C, II, 148.",
+                "Tailtiu now Teltown in Meaíh. For traditions relating to the assembly or fair held there, see the Four Masters A. M. 4370 and O'Mahony's Keating, p. 301. Dún ua ngiatt — Duma na ngiall, supra, no. I, § 12, 13, Revue Celtique, XV, 281.",
+                "The above etymology of Lugnasad is also in Cormac's Glossary.",
+                "Donnchad son of Flann Sinna, son of Mael-sechlainn, was overking of Ireland from A.D. 918 toA.D. 942. The ‘Black Assembly’ means, perhaps, the assembly which in A.D. 925, was prevented by Muirchertach son of Niall."
+            ]
+        }
+    ]
+}

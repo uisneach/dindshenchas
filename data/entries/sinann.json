@@ -1,0 +1,452 @@
+{
+    "id": "sinann",
+    "name_mir": "Sinann",
+    "name_ga": "An tSionainn",
+    "name_en": "River Shannon (Shannon Pot)",
+    "county": "Cavan",
+    "county_ga": "Contae an Chabháin",
+    "kind": "river",
+    "confidence": "certain",
+    "precision": null,
+    "reviewed": false,
+    "note": "Marker placed at the river's traditional source, the Shannon Pot.",
+    "note_ga": "Tá an marcóir ag foinse thraidisiúnta na habhann, Log na Sionna.",
+    "wikipedia": "River Shannon",
+    "wikipedia_ga": "An tSionainn",
+    "logainm": "1166693",
+    "images": [
+        {
+            "file": "img/sinann-1.jpg",
+            "era": "today",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Limerick_-_Shannon_River_cropped.jpg",
+            "author": "Santiperez",
+            "licence": "CC BY-SA 3.0",
+            "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "caption": "Limerick, looking northeast up the River Shannon",
+            "date": "2007-06-29"
+        }
+    ],
+    "sections": [
+        {
+            "type": "prose",
+            "number": 59,
+            "title": "Sinann",
+            "citation": "Whitley Stokes, ‘The Prose Tales in the Rennes Dindshenchas’, Revue Celtique 15 (1894)",
+            "pages": null,
+            "scan": "https://archive.org/details/revueceltique15pari",
+            "ga": [
+                "Sinand, canasro ainmniged?",
+                "Ni aiisa. Sinend higen Lodoin Luchairglain [meic Lir] a Tir Tairrngire dodechaid do Tiprait Connh iil fo muir dia forcsin. Tipra sin fo 'tat cuill 7 imbois na heicsi.i. cuill- crinmoind aiusa. [7 a n-aen uair bruchw/5 a meas 7 a mblath 7 a nduilli,] 7 i n-oen frois dofuitet ïors'm tiprait, co tuarcaib rigbroind clíorcarda íuirn, [co cocnaid na bradana in mes, conad he sug na cno cuirthear suas ina mbolcaib corcardaib,] 7 bruinnit secht srotha éicsi as, 7 imsoat and afrithisi.",
+                "Luid iar‘;;/ Sinend do saigi[d] in imbois, ar ni testa ni f/z/Vri acbt soas tanlum. Doluid lasin sruth co tice Linn Mna Feile [.i. Bri Ele 7 rethis i n-imthus roimpi], 7 traigis in topur, 7 rolen co hura na haband, Tarr-càin. Imasmi[n] iar suide co tarla a tarr fœn ïiiim, 7 ro biais bas iar tiachtain in tire centaraig>. Undc Sinann 7 Linn Mná ¥cile 7 Tarr-cain."
+            ],
+            "en": [
+                "Sincnd daughter of Lodan Lucharglan son of Ler, out of Tir Tairngire (‘Land of Promise, Fairyland’) went to Connla's Well which is under sea, to bchold it. That is a well at which are the hazels and inspirations (?) of wisdom, that is, the hazels of the science of poetry, and in the same hour their fruit, and their blossom and their fohage break forth, and thèse fliU on the well in the same shower, which raises on the water a royal surge of purple. Then the salmon chew the fruit, and the juice of the nuts is apparent on their purple bellies. And seven streams of wisdom spring forth and turn there again.",
+                "Now Sinend wcnt to seek the inspiration, for she w^anted nothing save only wisdom. She went with the stream till she reached Linn Mnà Feik ‘the Pool of the Modest Woman’, that is Bri Ele — and she w^ent ahead on her journey, but the well left its place, and she followed it to the banks of the river Tarr-càin ‘Fair-back’. After this it overwhelmed her, so that her back (tarr'^) went upwards, and wdien she had come to the land on this side (of the Shannon) she tasted death. Whence Sinann and Linn Mnà Féile and Tarr-cain."
+            ],
+            "notes": [
+                "Also in BB. 381’ 30: H. 39->: Lee. 479’; and Bodl, no. 33. Versified, LL. 156-^6. The words in brackets are from Lee. Sinann gen. sinna, now the Shannon, Bri eh now the Hill of Croghan in the N. E. of King's county. Tarchain, not identified. Thestorv is paraphrased by O'Curry, MaHjzer^ a;/(/ Cusloms, II, 142-144. See also O'Donovan's note in his translation of Cormac's Glossary. s. v. Caill Crinmon: O'Curry's note on the ‘salmon of knowledge’ and the poetic endowment of those that have the luck to catch and eat one, Baltle qf Magh Lcana, p. 97, and his Faie of the Children of Tuirenn, p. 175.",
+                "The earliest mention of the nine hazels of wisdom, which grew at the heads of the chief rivers of Ireland, appears to be in the Dialogue of the Two Sages, LL. 186^’ 36, where Néde mac Adnai says that he has come a caiUib.i. a nói coUaib na Segsa... a caillib iidiu assa mbt;?/aiter clessa na súad tanacsa ‘from hazels, to wit, from the nine hazels of the Segais’..., from hazels out of which are obtained the feats of the sages, I have come."
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Sinann I",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                286,
+                291
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/286/mode/2up",
+            "ga": [
+                [
+                    "Saer-ainm Sinna saigid dun,",
+                    "daig rolaimid a lom-thur:",
+                    "nirb imFann a gnim 's a gleó",
+                    "dia mbói Sinann co slan-beó."
+                ],
+                [
+                    "Kop ingen rogasta riam",
+                    "Sinann solasta sir-fial,",
+                    "co fiiair each ndodail nduthain",
+                    "ingen Lodain laech-Luchair."
+                ],
+                [
+                    "Hi tir tarngire co tiii,",
+                    "na geib anbthine imchrui,",
+                    "fiiair in suthain blaid rosmill",
+                    "ingen Luchair glain luaidimm."
+                ],
+                [
+                    "Tipra nad meirb fon muir mass",
+                    "for seilb Chondlai, ba comdass,",
+                    "feib adrfmem ria relad,",
+                    "luid Sinann dia sir-fegad."
+                ],
+                [
+                    "Topur co mbara biiaine",
+                    "ar ur aba induaire,",
+                    "feib arsluinnet a clotha,",
+                    "asmbruinnet secht prim-srotha."
+                ],
+                [
+                    "Immas na Segsa so dait",
+                    "co febsa fond fir-thiprait:",
+                    "ós topur na tond tr^orach",
+                    "fail coll n-ecsi n-ilcheolach."
+                ],
+                [
+                    "Siltair sopur na Segsa",
+                    "for topur na tren-chennsa,",
+                    "ó thuitit cnói Crinmoind cain",
+                    "fora rig-broind re\"il roglain."
+                ],
+                [
+                    "In óen-Fecht n-a tuile thrumm",
+                    "turcbat uile don choem-chrund,",
+                    "duille ocus blath ocus mess,",
+                    "do chach uile ni hamdess."
+                ],
+                [
+                    "IS amlaid-sin, cen góe ngle,",
+                    "tuitit n-a róe dorise",
+                    "for topur sograid Segsa",
+                    "fo chomdail, fo chomfebsa."
+                ],
+                [
+                    "Tecait co huais, ra gnim ngle\\",
+                    "secht srotha, biiais cen buaidre,",
+                    "doris isin topur the",
+                    "dianid cocur ceó1-e\"icse."
+                ],
+                [
+                    "Adrimem in uide n-uag",
+                    "dia luid Sinann co sóer-liiad",
+                    "co lind mna Feile fuinid",
+                    "cona gleire glan-Fuirid."
+                ],
+                [
+                    "Ni thesta main bad maith linn",
+                    "for in sair-sin na sael-find,",
+                    "acht immas sois co srethaib,",
+                    "ba gnim nóis dia niia-bethaid."
+                ],
+                [
+                    "Rotheich in topur, toirm ngle,",
+                    "tria chocur na ceó1-eicse,",
+                    "re Sinainn, rothadaill tiiaid,",
+                    "cor-riacht in n-abainn n-induair."
+                ],
+                [
+                    "Eolen sruthair na Segsa",
+                    "ben Luchair na lan-chennsa",
+                    "cor-riacht huru na haba",
+                    "co fuair mudu is mor-mada."
+                ],
+                [
+                    "Andsin robaided in breiss,",
+                    "is rothraiged fo throm-greiss:",
+                    "cid marb in ben co mbruth baidb",
+                    "rolen dia sruth a saer-aimn. S."
+                ],
+                [
+                    "Desin fri deine ndile",
+                    "lind mna Feile fir-gile:",
+                    "fail cech óen-airm, ciiairt n-assa,",
+                    "saer-ainm siiairc na Sinna-sa."
+                ]
+            ],
+            "en": [
+                [
+                    "The noble name of Sinann, search it out for us,",
+                    "since ye venture to lay bare its origin:",
+                    "not paltry was the action and the struggle",
+                    "whereby the name of Sinann became immortal."
+                ],
+                [
+                    "Sinann, radiant, ever-generous, was once a maiden right active",
+                    "till she met all earthly misfortune,",
+                    "the daughter of Lodan from heroic Luchar.",
+                    "In the still Land of Promise,"
+                ],
+                [
+                    "",
+                    "that no storm of bloodshed mars,",
+                    "the deathless maid gained the fame that was her undoing,",
+                    "the daughter of bright Luchar, whom I celebrate."
+                ],
+                [
+                    "A spring (not sluggish) under the pleasant sea",
+                    "in the domain of Condla (it was fitting,",
+                    "as we recount in telling the tale): —",
+                    "to gaze upon it went Sinann."
+                ],
+                [
+                    "A well of lasting sorrow",
+                    "is by the edge of a chilly river",
+                    "(as men celebrate its fame),",
+                    "whence spring seven main streams. 20'"
+                ],
+                [
+                    "Here thou findest the magic lore of Segais",
+                    "with excellence, under the true spring: over the well of the mighty waters",
+                    "stands the poets' music-haunted hazel.",
+                    "blad LR. 12. Luchair-gla\\n~\\ glain luchair M. 13. fon~\\ fo Lc."
+                ],
+                [
+                    "The spray of the Segais is sprinkled",
+                    "on the well of the strong gentle lady,",
+                    "when the nuts of fair Crinmond fall",
+                    "on its royal bosom bright and pure."
+                ],
+                [
+                    "Together in plenteous foison",
+                    "shoot forth all at once from the goodly tree",
+                    "leaf and flower and fruit;",
+                    "none of them all is unlovely."
+                ],
+                [
+                    "In this wise, clear without falsehood,",
+                    "they fall afterwards in their season",
+                    "upon the honoured well of Segais",
+                    "at the like hour, with like excellence."
+                ],
+                [
+                    "Nobly they come, with bright activity,",
+                    "seven streams, in an untroubled gush,",
+                    "back into the well yonder,",
+                    "whence rises a murmur of musical lore."
+                ],
+                [
+                    "Let us recount the entire journey",
+                    "whereon went Sinann of noble repute",
+                    "to Lind Mna Feile in the west",
+                    "with the choicest of her splendid equipment."
+                ],
+                [
+                    "There lacks not any treasure we could desire",
+                    "to the noble lady of the...",
+                    "save magic lore in its sequences: —",
+                    "it was a wonted practice for her fresh life."
+                ],
+                [
+                    "The well fled back (clear fame",
+                    "through the murmur of its musical lore! )",
+                    "before Sinann, who visited it in the north,",
+                    "and reached the chilly river."
+                ],
+                [
+                    "The woman of Luchar full of gentleness",
+                    "followed the stream of Segais",
+                    "till she reached the river's brink",
+                    "and met destruction and utter frustration."
+                ],
+                [
+                    "There the comely lady was drowned",
+                    "and perished under heavy injury;",
+                    "though the woman of warlike ardour is dead,",
+                    "her noble name clave to her river."
+                ],
+                [
+                    "Hence with zealous affection",
+                    "is called the Pool of the pure-white modest woman.",
+                    "in every place (an easy visit) is known",
+                    "the noble pleasant name of this Sinann."
+                ]
+            ]
+        },
+        {
+            "type": "verse",
+            "title": "Sinann II",
+            "citation": "Edward Gwynn, The Metrical Dindshenchas, Part III (Todd Lecture Series X, 1913)",
+            "pages": [
+                292,
+                297
+            ],
+            "scan": "https://archive.org/details/toddlectureserie10royauoft/page/292/mode/2up",
+            "ga": [
+                [
+                    "Sinann, ca hadbar diata,",
+                    "inneósad cen immarga:",
+                    "atbór cen snaidm co solus",
+                    "a hainm is a bunadus."
+                ],
+                [
+                    "Innisfed do chach uile",
+                    "bunad Sinna srib-glaine:",
+                    "ni chel in dag-blad diata:",
+                    "atber adbar a hanma."
+                ],
+                [
+                    "Tipra Chonnlai, ba mór muirn,",
+                    "bói fon aibeis eochar-guirm:",
+                    "só srotha, narb inann blad,",
+                    "eisti, Sinann in sechtmad."
+                ],
+                [
+                    "Nói cuill Chrimaill, ind fir glic,",
+                    "dochuiret tall fon tiprait:",
+                    "atat le doilbi smachta",
+                    "fo cheó doirchi draideehta."
+                ],
+                [
+                    "I n-óen-fecht, amail nach gnath,",
+                    "fasas a nduille 's a mblath: —",
+                    "ingnad ciarsad sóer-buaid sin",
+                    "'s a mbeith i n-óen-iiair abaig."
+                ],
+                [
+                    "In uair is abaig in cniias",
+                    "tuitit 'sin tiprait anuas:",
+                    "this immarlethat ar lar,",
+                    "co nosethat na bratan."
+                ],
+                [
+                    "Do sug na cno, ni dail diss,",
+                    "dogniat na bolca immaiss;",
+                    "tecait anall each uaire",
+                    "dar na srothaib srib-uaine."
+                ],
+                [
+                    "Bói ingen, ba buide barr,",
+                    "thall a tuathaib de Danann,",
+                    "Sinann gasta co ngne glain",
+                    "ingen Lodain luchair-glain."
+                ],
+                [
+                    "Smuainis ind ingen adaig,",
+                    "in bind bel-derg banamail,",
+                    "co mbói da hindus each mblad,",
+                    "acht in t-immus a óenar."
+                ],
+                [
+                    "Ld, da tanic cosin sruth",
+                    "ind ingen, ba cóem a cruth,",
+                    "co facca, nochor dal diss,",
+                    "na bolca ailli immaiss."
+                ],
+                [
+                    "Teit ind ingen, toisc liaille,",
+                    "'na ndiaid 'sin sruth srib-uaine:",
+                    "baiter hi da toisc anall;",
+                    "conid liaidi at& Sinann."
+                ],
+                [
+                    "De\"num aile, mad ail lib,",
+                    "uaim ar in Sinainn srib-gil,",
+                    "ce\" bethir lim 'ca legud,",
+                    "ni ferr hó 'na in cet-dónum."
+                ],
+                [
+                    "Lind mna feile, ba fir dam,",
+                    "ainm na linde 'nar 'baided:",
+                    "is e a dir maras dise,",
+                    "mas fir e fri indise."
+                ],
+                [
+                    "De\"num aile, is mebair lemm,",
+                    "rochuala each co coitchenn;",
+                    "Cii Nuadat, ba mor maise,",
+                    "robaite 'sin chruad-glaise."
+                ],
+                [
+                    "Nó combad Sinann co becht",
+                    "Sin Morainn, tre eterchert:",
+                    "no si in moirenn, aidble gnim:",
+                    "aille Sinann 'na each sin. S."
+                ]
+            ],
+            "en": [
+                [
+                    "Sinann — the reason why it is so named,",
+                    "I will declare without deception:",
+                    "I will report clearly without perplexity",
+                    "its name and its origin."
+                ],
+                [
+                    "I will declare to each and all",
+                    "the origin of bright-streaming Sinann:",
+                    "I will not hide the source of its renown,",
+                    "I will report the reason of its name."
+                ],
+                [
+                    "Connla's well, loud was its sound,",
+                    "was beneath the blue-skirted ocean:",
+                    "six streams, unequal in fame,",
+                    "rise from it, the seventh was Sinann."
+                ],
+                [
+                    "The nine hazels of Crimall the sage",
+                    "drop their fruits yonder under the well:",
+                    "they stand by the power of magic spells",
+                    "under a darksome mist of wizardry."
+                ],
+                [
+                    "Together grow, in unwonted fashion,",
+                    "their leaves and their flowers: —",
+                    "a wonder is this, though a noble quality,",
+                    "and a wonder their ripening all in a moment."
+                ],
+                [
+                    "When the cluster of nuts is ripe",
+                    "they fall down into the well:",
+                    "they scatter below on the bottom,",
+                    "and the salmon eat them."
+                ],
+                [
+                    "From the juice of the nuts (no paltry matter)",
+                    "they form the mystic bubbles;",
+                    "thence come momently the bubbles",
+                    "down the green-flowing streams."
+                ],
+                [
+                    "There was a maiden yellow-haired",
+                    "yonder, sprung of the Tuatha De Danann.",
+                    "the sprightly Sinann, bright of face,",
+                    "daughter of Lodan Luchair-glan."
+                ],
+                [
+                    "One night the maiden bethought her, —",
+                    "the sweet-voiced red-lipped maiden —",
+                    "that every sort of fame was at her command",
+                    "save the mystic art alone."
+                ],
+                [
+                    "The maiden, — fair was her form, —",
+                    "came on a day to the river",
+                    "and saw — it was no paltry matter —",
+                    "the lovely mystic bubbles."
+                ],
+                [
+                    "The maiden goes on a lamentable venture",
+                    "after them into the green-flowing river:",
+                    "she is drowned yonder through her venture;",
+                    "so from her is Sinann named."
+                ],
+                [
+                    "Another version if ye so desire",
+                    "ye may get from me concerning white-flowing Sinann;",
+                    "though it is to be read in my verse,",
+                    "it is no better than the first version."
+                ],
+                [
+                    "Lind Mna Feile, (I speak truly),",
+                    "is the name of the pool where she was drowned:",
+                    "this is its proper title inherited from her",
+                    "if that be the true tale to tell."
+                ],
+                [
+                    "Another version, I remember,",
+                    "every one in general has heard:",
+                    "Cu Nuadat — great was his beauty —",
+                    "was drowned in the cruel stream."
+                ],
+                [
+                    "Or perchance Sinann is literally",
+                    "by interpretation Sin Morainn:",
+                    "or si in moirenn — might of deeds:",
+                    "Sinann is fairer than any weather."
+                ]
+            ]
+        }
+    ]
+}
