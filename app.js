@@ -12,7 +12,7 @@
   // Interface strings. Place names and the dindshenchas texts come from the data.
   var STRINGS = {
     en: {
-      title: "Dindshenchas Map",
+      title: "Dindshenchas",
       tagline: "Ireland's place lore",
       about: "About",
       switchTo: "Gaeilge",
@@ -32,6 +32,9 @@
       ocrNote: "Text transcribed by machine from scans of the printed editions and not yet proofread. " +
         "Follow the scan links to check readings.",
       close: "Close",
+      showMap: "Show map",
+      showText: "Read entry",
+      showList: "List of places",
       satellite: "Satellite",
       terrain: "Terrain",
       areas: "Shaded areas",
@@ -63,7 +66,7 @@
       logainm: "https://www.logainm.ie/en/"
     },
     ga: {
-      title: "Léarscáil an Dindshenchais",
+      title: "Dindshenchas",
       tagline: "Seanchas áiteanna na hÉireann",
       about: "Eolas",
       switchTo: "English",
@@ -83,6 +86,9 @@
       ocrNote: "Rinne meaisín an téacs seo a thras-scríobh ó scananna de na heagráin chlóite, " +
         "agus níl sé profléite fós. Lean na naisc chuig na scananna chun na léamha a sheiceáil.",
       close: "Dún",
+      showMap: "Taispeáin an léarscáil",
+      showText: "Léigh an iontráil",
+      showList: "Liosta na n-áiteanna",
       satellite: "Satailít",
       terrain: "Tír-raon",
       areas: "Limistéir scáthaithe",
@@ -371,15 +377,30 @@
     if (!id) return showHome();
     var f = places.find(function (p) { return p.id === id; });
     if (!f) return showHome();
+    var flown = Promise.resolve();
     if (f.geometry) {
       var c = f.geometry.coordinates;
       var zoom = Math.max(map.getZoom(), 9);
       // Leaflet's fly animation fails on a map with no size (e.g. in a hidden tab)
-      if (map.getSize().x) map.flyTo([c[1], c[0]], zoom, { duration: 0.8 });
-      else map.setView([c[1], c[0]], zoom);
+      if (map.getSize().x) {
+        // On a phone looking at the map, let the zoom play out before the text rises
+        if (phone.matches && mode === "map") {
+          flown = new Promise(function (done) {
+            map.once("moveend", done);
+            setTimeout(done, 1500);  // in case the map has nowhere to move
+          });
+        }
+        map.flyTo([c[1], c[0]], zoom, { duration: 0.8 });
+      } else {
+        map.setView([c[1], c[0]], zoom);
+      }
     }
-    loadEntry(id).then(renderEntry, function () {
+    var entry = loadEntry(id);
+    entry.then(renderEntry, function () {
       showHome();
+    });
+    Promise.all([entry, flown]).then(function () {
+      setMode("text");  // on a phone, choosing a place opens its text
     });
   }
 
@@ -395,6 +416,7 @@
     document.getElementById("panel-home").hidden = false;
     document.getElementById("entry").hidden = true;
     highlight(null);
+    updateModeButton();
   }
 
   // ---------- entry panel ----------
@@ -408,9 +430,6 @@
 
     renderEntryText();
     document.getElementById("panel").scrollTop = 0;
-    if (window.matchMedia("(max-width: 760px)").matches) {
-      art.scrollIntoView({ behavior: "smooth", block: "start" });
-    }
   }
 
   // Everything in the entry that depends on the interface language
@@ -581,6 +600,33 @@
     if (current) renderSections();
   }
 
+  // ---------- phones: map, with the text as a sheet over it ----------
+
+  // On a narrow screen the map fills the page and the panel is a sheet that the
+  // mode button slides up over it and back down (the sliding is in style.css).
+  // Desktop shows both side by side and ignores the mode.
+  var phone = window.matchMedia("(max-width: 760px)");
+  var mode = location.hash ? "text" : "map";
+
+  function setMode(m) {
+    mode = m;
+    document.body.dataset.mode = m;
+    updateModeButton();
+  }
+
+  function updateModeButton() {
+    document.getElementById("mode-btn").textContent =
+      mode === "text" ? t.showMap : current ? t.showText : t.showList;
+  }
+
+  document.getElementById("mode-btn").addEventListener("click", function () {
+    setMode(mode === "map" ? "text" : "map");
+  });
+  // Turning a phone sideways can cross the breakpoint and change the layout
+  phone.addEventListener("change", function () {
+    map.invalidateSize();
+  });
+
   // ---------- interface language (English / Gaeilge) ----------
 
   function initialUiLang() {
@@ -617,6 +663,7 @@
       history.replaceState(null, "", url);
     }
     mapControls();
+    updateModeButton();
     if (places.length) renderLists();
     if (current) renderEntryText();
   }
@@ -625,16 +672,31 @@
     setUiLang(ui === "ga" ? "en" : "ga");
   });
   setUiLang(ui);
+  setMode(mode);
+  // Let the sheet animate only after the first frames, so it doesn't slide in on load
+  function loaded() { document.body.classList.remove("loading"); }
+  requestAnimationFrame(function () { requestAnimationFrame(loaded); });
+  setTimeout(loaded, 500);  // background tabs don't run animation frames
 
   // ---------- misc UI ----------
 
   document.getElementById("back-btn").addEventListener("click", function () {
     history.pushState(null, "", location.pathname + location.search);
     showHome();
-    map.flyToBounds(IRELAND, { duration: 0.8 });
+    map.flyToBounds(IRELAND, { duration: 0.8 });  // on a phone this happens under the sheet
   });
+  var about = document.getElementById("about");
   document.getElementById("about-btn").addEventListener("click", function () {
-    document.getElementById("about").showModal();
+    about.showModal();
+  });
+  // A click on the backdrop closes it. Such clicks land on the dialog itself but
+  // outside its box; clicks inside, even on its padding, keep it open.
+  about.addEventListener("click", function (ev) {
+    if (ev.target !== about) return;
+    var r = about.getBoundingClientRect();
+    if (ev.clientX < r.left || ev.clientX > r.right || ev.clientY < r.top || ev.clientY > r.bottom) {
+      about.close();
+    }
   });
 
   // ---------- helpers ----------

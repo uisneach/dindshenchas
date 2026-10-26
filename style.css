@@ -1,8 +1,3 @@
-/* The look borrows from the books the texts come from: the Royal Irish Academy's
-   Todd Lecture Series of the 1900s, set in Caslon in black on plain paper, with
-   red kept for rubrics, as in the manuscripts. Map labels follow Ordnance Survey
-   habit: lettering with a halo, and water features in italic. */
-
 @font-face {
   font-family: "Caslon";
   font-style: normal;
@@ -276,7 +271,10 @@ summary { cursor: pointer; color: var(--link); }
 /* ---------- about ---------- */
 
 dialog {
-  max-width: 36rem;
+  /* a margin all round, so there's always backdrop to tap to close it */
+  max-width: min(36rem, calc(100% - 3rem));
+  max-height: calc(100% - 4rem);
+  overflow: auto;
   border: 1px solid var(--ink);
   background: var(--page);
   color: var(--ink);
@@ -284,6 +282,7 @@ dialog {
 }
 dialog::backdrop { background: rgb(0 0 0 / 0.45); }
 dialog p { hyphens: auto; }
+dialog h2:focus { outline: none; }  /* focused on open only to start at the top */
 dialog .contact { border-top: 1px solid var(--rule); padding-top: 0.7rem; }
 dialog button {
   font: inherit;
@@ -304,8 +303,11 @@ dialog button {
 /* Map controls sit on the map, not the page, so they stay ink-on-white in dark mode too */
 .leaflet-bar { border-radius: 0 !important; border: 1px solid #1c1b19 !important; box-shadow: none !important; }
 .leaflet-bar a { border-radius: 0 !important; color: #1c1b19; font-family: var(--type); }
-/* The satellite/terrain menu keeps Leaflet's own look */
-.leaflet-control-layers { font: 0.85rem system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: #333; }
+/* Buttons, not links: shade on hover instead of the page's link underline */
+.leaflet-bar a:hover, .leaflet-bar a:focus-visible { text-decoration: none; background: #e9e7e1; }
+/* The satellite/terrain menu keeps Leaflet's own look. It is always white, so its
+   radio buttons and checkbox must be drawn light even in dark mode. */
+.leaflet-control-layers { font: 0.85rem system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: #333; color-scheme: light; }
 .leaflet-control-attribution { font-size: 0.7rem; }
 
 /* Lettering with a white halo, as on printed maps; no label boxes */
@@ -332,9 +334,53 @@ dialog button {
 .place-label.label-hidden { display: none; }
 .place-label.label-hidden.label-hover { display: block; z-index: 1000; }
 
+.mode-btn { display: none; }
+
+/* Phones: the map fills the screen and the text is a sheet that slides up over
+   it and back down; the button switches */
 @media (max-width: 760px) {
   .tagline { display: none; }
-  .layout { flex-direction: column; }
-  #map { flex: none; height: 48vh; }
-  .panel { width: auto; flex: 1; border-left: none; border-top: 1px solid var(--ink); padding: 0.8rem 16px 2rem; }
+  #ui-lang-btn { margin-left: auto; }  /* the tagline that pushed them right is hidden */
+  #back-btn { display: inline-block; margin-bottom: 1em; }
+  .layout { position: relative; }
+  #map { flex: 1; }
+  .panel {
+    position: absolute;
+    inset: 0;
+    width: auto;
+    z-index: 1100;  /* above Leaflet's controls, which sit at 1000 */
+    border-left: none;
+    border-top: 1px solid var(--ink);
+    padding: 0.8rem 16px 5rem;
+    transform: translateY(100%);
+    visibility: hidden;  /* out of the tab order while down */
+    transition: transform 0.4s cubic-bezier(0.2, 0.7, 0.2, 1), visibility 0s 0.4s;
+  }
+  body[data-mode="text"] .panel {
+    transform: none;
+    visibility: visible;
+    transition: transform 0.4s cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+
+  .mode-btn {
+    display: block;
+    position: absolute;
+    left: 50%;
+    bottom: 2.4rem;  /* clear of the map's attribution line */
+    transform: translateX(-50%);
+    z-index: 1200;  /* above the sheet */
+    font: 1rem var(--type);
+    color: var(--ink);
+    background: var(--page);
+    border: 1px solid var(--ink);
+    padding: 0.5rem 1.3rem;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  body[data-mode="text"] .mode-btn { bottom: 1rem; }  /* no attribution line to clear */
 }
+@media (max-width: 760px) and (prefers-reduced-motion: reduce) {
+  .panel, body[data-mode="text"] .panel { transition: none; }
+}
+/* No slide while the page first loads, so a link straight to a place opens on its text */
+body.loading .panel { transition: none !important; }
