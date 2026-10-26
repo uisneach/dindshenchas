@@ -1,0 +1,22 @@
+{
+    "name": "Dindshenchas",
+    "short_name": "Dindshenchas",
+    "description": "The places of the metrical and prose dindshenchas, the medieval Irish lore of places, mapped on modern Ireland.",
+    "lang": "en",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#f4f3ef",
+    "theme_color": "#f4f3ef",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
